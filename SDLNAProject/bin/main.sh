@@ -26,3 +26,13 @@ mkdir ../data/scriptnamedata_"$date_var"
 
 python ./File_handling/renaming_files.py
 
+echo "Choose the pattern recognition technique to follow:
+    1. The three white soldiers and the three black crows candlestick patterns
+
+    Enter the choice number you want to perform:  "
+read choice3
+if [ $choice3 == "1" ]
+then
+    python ../Spark_window_pattern_recognition/Candle_pattern_prog.py  | tee ../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
+fi
+echo

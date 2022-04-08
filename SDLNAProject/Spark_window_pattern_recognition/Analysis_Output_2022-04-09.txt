@@ -1,0 +1,125 @@
+:: loading settings :: url = jar:file:/home/akash/DBDA_HOME/spark-3.1.3-bin-hadoop3.2/jars/ivy-2.4.0.jar!/org/apache/ivy/core/settings/ivysettings.xml
+Enter the no. of days to check the lagging trend:(Keep it below 7)Last 3 days uptrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|  ABBOTINDIA|            3|
+|         JSL|            3|
+|  SCHAEFFLER|            3|
+|   VIKASPROP|            3|
+|    FMGOETZE|            3|
+|       TITAN|            3|
+|      GLOBAL|            3|
+|      BALAXI|            3|
+|  TRITURBINE|            3|
+|  DBSTOCKBRO|            3|
+|    A2ZINFRA|            3|
+|     CHEMCON|            3|
+|        ATUL|            3|
+|      RALLIS|            3|
+|    CUBEXTUB|            3|
+|    PRIVISCL|            3|
+|      NUVOCO|            3|
+|    DIVISLAB|            3|
+|     HUBTOWN|            3|
+|     SYNGENE|            3|
++------------+-------------+
+only showing top 20 rows
+
+Lagging 5 days downtrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|      NUVOCO|            5|
+|     XELPMOC|            5|
+|   KANSAINER|            5|
+|     SANDHAR|            5|
+|    SUVIDHAA|            5|
+|    ARENTERP|            5|
+|  NAGREEKCAP|            5|
+|    AHLUCONT|            5|
+|  SURYAROSNI|            5|
++------------+-------------+
+
+Last 3 days downtrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|    GANESHBE|            3|
+|     ACRYSIL|            3|
+|        HFCL|            3|
+|       GLOBE|            3|
+|   PANAMAPET|            3|
+|    BLISSGVS|            3|
+|        MMTC|            3|
+|        CERA|            3|
+|     SMSLIFE|            3|
+|      JKTYRE|            3|
+|   CENTRALBK|            3|
+|         HAL|            3|
+|  SUNCLAYLTD|            3|
+|    UNIENTER|            3|
+|    AGROPHOS|            3|
+|  KEYFINSERV|            3|
+|      RUSHIL|            3|
+|     LAOPALA|            3|
+|        LASA|            3|
+|    KRISHANA|            3|
++------------+-------------+
+only showing top 20 rows
+
+Lagging 5 days uptrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|  REMSONSIND|            5|
+|     SKIPPER|            5|
+|   VIKASPROP|            5|
+|      AAKASH|            5|
+|       GET&D|            5|
+|    MINDTREE|            5|
+|  DBSTOCKBRO|            5|
+|       WORTH|            5|
+|      PRAENG|            5|
+|   SMARTLINK|            5|
+|       MICEL|            5|
+|    BAGFILMS|            5|
+|   BLKASHYAP|            5|
+|     KMSUGAR|            5|
+|     CHEMFAB|            5|
+|  ANKITMETAL|            5|
+|      MITTAL|            5|
+|    RTNPOWER|            5|
+|  CAPLIPOINT|            5|
+|   DIGISPICE|            5|
++------------+-------------+
+only showing top 20 rows
+
+Companies to Buy stocks based on 8 days analysis are:
++------------+
+|Company_Name|
++------------+
+|      NUVOCO|
+|     XELPMOC|
+|   KANSAINER|
+|     SANDHAR|
+|    SUVIDHAA|
+|    ARENTERP|
++------------+
+
+Companies to short the stocks based on 8 days analysis are:
++------------+
+|Company_Name|
++------------+
+|      KOPRAN|
+|       DHRUV|
+|        IZMO|
+|    BFINVEST|
+|  PREMIERPOL|
+|        IMFA|
++------------+
+
