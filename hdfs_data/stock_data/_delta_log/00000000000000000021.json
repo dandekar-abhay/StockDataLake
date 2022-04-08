@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DEEPINDS/part-00000-a67287f4-3c42-4dbd-a5b9-50f6314aab06.c000.snappy.parquet","partitionValues":{"Company_Name":"DEEPINDS"},"size":7920,"modificationTime":1649310429617,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310429621,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":20,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"172","numOutputBytes":"7920"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

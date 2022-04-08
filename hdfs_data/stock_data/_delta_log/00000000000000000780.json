@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NYKAA/part-00000-2650d747-4c7f-42ab-8181-af5b042155bb.c000.snappy.parquet","partitionValues":{"Company_Name":"NYKAA"},"size":3708,"modificationTime":1649311454699,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311454705,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":779,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"37","numOutputBytes":"3708"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

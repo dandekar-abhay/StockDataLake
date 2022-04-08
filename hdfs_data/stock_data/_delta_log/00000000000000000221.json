@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TECHM/part-00000-681cde00-56b3-4acd-88dc-ef32a15f30fa.c000.snappy.parquet","partitionValues":{"Company_Name":"TECHM"},"size":10149,"modificationTime":1649310660542,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310660545,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":220,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10149"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

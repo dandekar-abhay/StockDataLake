@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VIKASPROP/part-00000-67d78008-80f3-4c89-a7c0-ab701fc7b5ec.c000.snappy.parquet","partitionValues":{"Company_Name":"VIKASPROP"},"size":6565,"modificationTime":1649311219115,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311219119,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":622,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6565"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

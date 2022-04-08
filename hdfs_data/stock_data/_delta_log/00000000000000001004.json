@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VETO/part-00000-8573e9e2-d779-439b-8cbe-ff90245e0b99.c000.snappy.parquet","partitionValues":{"Company_Name":"VETO"},"size":10511,"modificationTime":1649311764296,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311764301,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1003,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10511"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

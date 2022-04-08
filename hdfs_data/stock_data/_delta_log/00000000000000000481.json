@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PEARLPOLY/part-00000-80b3ab1b-0677-424e-8608-2a828adbd8d7.c000.snappy.parquet","partitionValues":{"Company_Name":"PEARLPOLY"},"size":7945,"modificationTime":1649311013783,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311013791,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":480,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7945"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

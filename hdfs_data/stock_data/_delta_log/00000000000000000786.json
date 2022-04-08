@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GTL/part-00000-529d5df6-fdf6-4e87-b233-38326dbbfdb6.c000.snappy.parquet","partitionValues":{"Company_Name":"GTL"},"size":9023,"modificationTime":1649311461503,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311461508,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":785,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9023"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

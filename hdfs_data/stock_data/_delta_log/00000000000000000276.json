@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SIMPLEXINF/part-00000-3175edb3-eba3-4ea0-9944-4d5597dc1085.c000.snappy.parquet","partitionValues":{"Company_Name":"SIMPLEXINF"},"size":9880,"modificationTime":1649310730391,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310730399,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":275,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9880"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

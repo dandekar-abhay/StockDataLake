@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LUPIN/part-00000-c6e97209-f8d4-4bac-bd76-06fa7ca19006.c000.snappy.parquet","partitionValues":{"Company_Name":"LUPIN"},"size":10075,"modificationTime":1649311721203,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311721209,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":972,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10075"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

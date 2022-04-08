@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TCI/part-00000-6086d944-269b-4a30-8b1f-65c8489f4cb1.c000.snappy.parquet","partitionValues":{"Company_Name":"TCI"},"size":10097,"modificationTime":1649311476170,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311476174,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":795,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10097"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

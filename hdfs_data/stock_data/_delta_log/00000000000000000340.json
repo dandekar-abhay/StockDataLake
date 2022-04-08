@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUMICHEM/part-00000-87a82298-475d-4763-93d1-6cf5a695762e.c000.snappy.parquet","partitionValues":{"Company_Name":"SUMICHEM"},"size":10123,"modificationTime":1649310816111,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310816113,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":339,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10123"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

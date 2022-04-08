@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BGRENERGY/part-00000-8d67a15e-2e37-4e92-8c19-4a565f8713c8.c000.snappy.parquet","partitionValues":{"Company_Name":"BGRENERGY"},"size":10259,"modificationTime":1649311217364,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311217368,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":621,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10259"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

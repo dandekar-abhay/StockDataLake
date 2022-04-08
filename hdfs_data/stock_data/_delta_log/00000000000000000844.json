@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BARBEQUE/part-00000-044a6546-4b09-44e7-89bf-2d59442e897b.c000.snappy.parquet","partitionValues":{"Company_Name":"BARBEQUE"},"size":8325,"modificationTime":1649311542769,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311542772,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":843,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"184","numOutputBytes":"8325"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

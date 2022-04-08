@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHYAMCENT/part-00000-5920e381-51b9-4abf-96be-41dc1c0ce061.c000.snappy.parquet","partitionValues":{"Company_Name":"SHYAMCENT"},"size":8616,"modificationTime":1649312004046,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312004051,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1179,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8616"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

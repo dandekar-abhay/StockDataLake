@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SAKAR/part-00000-a6d3768c-da28-4676-a88f-d29e01071eb5.c000.snappy.parquet","partitionValues":{"Company_Name":"SAKAR"},"size":10623,"modificationTime":1649311168445,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311168453,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":589,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10623"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

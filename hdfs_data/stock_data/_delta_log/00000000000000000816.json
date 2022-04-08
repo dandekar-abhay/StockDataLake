@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HATSUN/part-00000-f7d31242-9fcc-47d0-8692-8cd9ee6b63b3.c000.snappy.parquet","partitionValues":{"Company_Name":"HATSUN"},"size":10133,"modificationTime":1649311503041,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311503046,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":815,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10133"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

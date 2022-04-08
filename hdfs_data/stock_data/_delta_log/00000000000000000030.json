@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PRAENG/part-00000-702d64d5-538c-4f27-8aec-c71aee78931b.c000.snappy.parquet","partitionValues":{"Company_Name":"PRAENG"},"size":9186,"modificationTime":1649310440384,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310440392,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":29,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9186"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

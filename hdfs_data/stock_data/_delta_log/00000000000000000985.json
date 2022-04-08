@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=APOLLOTYRE/part-00000-0f349dff-8c19-4966-93b4-f5d3950d59b2.c000.snappy.parquet","partitionValues":{"Company_Name":"APOLLOTYRE"},"size":10430,"modificationTime":1649311736391,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311736393,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":984,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10430"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

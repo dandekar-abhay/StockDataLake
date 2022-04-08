@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IGARASHI/part-00000-01d35155-c2e8-411a-b3b0-9895a1a25fff.c000.snappy.parquet","partitionValues":{"Company_Name":"IGARASHI"},"size":10115,"modificationTime":1649311819165,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311819172,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1045,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10115"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

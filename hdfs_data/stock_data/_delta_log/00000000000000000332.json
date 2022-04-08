@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATAPOWER/part-00000-054b24c0-12d3-4e02-8bf2-d13fffde796f.c000.snappy.parquet","partitionValues":{"Company_Name":"TATAPOWER"},"size":10327,"modificationTime":1649310806267,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310806272,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":331,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10327"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

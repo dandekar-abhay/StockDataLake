@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CONTROLPR/part-00000-95b05957-84cf-44d8-8bfc-30ed48ea1610.c000.snappy.parquet","partitionValues":{"Company_Name":"CONTROLPR"},"size":10473,"modificationTime":1649311899295,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311899303,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1103,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10473"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

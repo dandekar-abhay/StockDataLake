@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EICHERMOT/part-00000-4fb30a1f-8f72-4fbc-a6cf-55f2a846592e.c000.snappy.parquet","partitionValues":{"Company_Name":"EICHERMOT"},"size":10368,"modificationTime":1649310652929,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310652932,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":214,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10368"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

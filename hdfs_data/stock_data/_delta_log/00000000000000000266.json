@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DEN/part-00000-c63ae3b0-5fa0-4764-8174-e0fa29f6c823.c000.snappy.parquet","partitionValues":{"Company_Name":"DEN"},"size":9954,"modificationTime":1649310717240,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310717246,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":265,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9954"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

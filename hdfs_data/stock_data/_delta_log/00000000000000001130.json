@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FDC/part-00000-8d0378e5-9a11-4a0d-97f1-7921da2e6933.c000.snappy.parquet","partitionValues":{"Company_Name":"FDC"},"size":10418,"modificationTime":1649311935245,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311935251,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1129,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10418"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JSWSTEEL/part-00000-a725817b-2a69-4ec3-a4f8-cb9da99901f5.c000.snappy.parquet","partitionValues":{"Company_Name":"JSWSTEEL"},"size":10057,"modificationTime":1649310696437,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310696444,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":249,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10057"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

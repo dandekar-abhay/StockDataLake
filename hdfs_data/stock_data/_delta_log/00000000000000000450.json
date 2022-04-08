@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KRIDHANINF/part-00000-e7a61c20-d5c0-423f-aecb-2c15656baf35.c000.snappy.parquet","partitionValues":{"Company_Name":"KRIDHANINF"},"size":7197,"modificationTime":1649310967740,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310967743,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":449,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7197"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SURYALAXMI/part-00000-e60456a9-35ed-4cfb-b9f2-a7b8fdca6a27.c000.snappy.parquet","partitionValues":{"Company_Name":"SURYALAXMI"},"size":10248,"modificationTime":1649311033467,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311033475,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":493,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10248"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

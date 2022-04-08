@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FINOPB/part-00000-ba600937-b10a-4ba5-a7cb-98ad3c0609b6.c000.snappy.parquet","partitionValues":{"Company_Name":"FINOPB"},"size":3610,"modificationTime":1649311867354,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311867362,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1081,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"35","numOutputBytes":"3610"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CMICABLES/part-00000-830fe119-0186-4cdc-a1ff-75d0c498d4d1.c000.snappy.parquet","partitionValues":{"Company_Name":"CMICABLES"},"size":9842,"modificationTime":1649310833996,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310833999,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":352,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9842"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CIGNITITEC/part-00000-c559f144-5cb8-45d9-87f1-eec2bbdc4a74.c000.snappy.parquet","partitionValues":{"Company_Name":"CIGNITITEC"},"size":10115,"modificationTime":1649311074801,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311074809,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":522,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10115"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

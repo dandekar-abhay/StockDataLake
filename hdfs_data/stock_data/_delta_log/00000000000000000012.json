@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LGBFORGE/part-00000-4463e9d2-e060-423c-9fd2-28ac1876ef00.c000.snappy.parquet","partitionValues":{"Company_Name":"LGBFORGE"},"size":7661,"modificationTime":1649310418586,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310418590,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":11,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7661"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

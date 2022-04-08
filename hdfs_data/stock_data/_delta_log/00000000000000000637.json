@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDIACEM/part-00000-161294a7-e490-4f82-8032-fcb0d49f15d6.c000.snappy.parquet","partitionValues":{"Company_Name":"INDIACEM"},"size":10322,"modificationTime":1649311239726,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311239730,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":636,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10322"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

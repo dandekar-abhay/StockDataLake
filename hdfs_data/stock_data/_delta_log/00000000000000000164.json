@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VIPCLOTHNG/part-00000-f154d30f-e1e7-4b48-abab-42ad916909ce.c000.snappy.parquet","partitionValues":{"Company_Name":"VIPCLOTHNG"},"size":8899,"modificationTime":1649310593971,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310593973,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":163,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8899"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

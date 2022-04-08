@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GSCLCEMENT/part-00000-8fd336e7-4bb3-48bc-89ac-2b1238b23f81.c000.snappy.parquet","partitionValues":{"Company_Name":"GSCLCEMENT"},"size":9749,"modificationTime":1649310510681,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310510685,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":88,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9749"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

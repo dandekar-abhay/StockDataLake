@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GINNIFILA/part-00000-a3ca8e86-a98a-4522-b63a-23263d205705.c000.snappy.parquet","partitionValues":{"Company_Name":"GINNIFILA"},"size":9637,"modificationTime":1649311260664,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311260671,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":649,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9637"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

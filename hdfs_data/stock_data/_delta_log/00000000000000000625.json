@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GRAPHITE/part-00000-64e68434-bb59-47f5-b27a-efacb73d36b0.c000.snappy.parquet","partitionValues":{"Company_Name":"GRAPHITE"},"size":10197,"modificationTime":1649311222427,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311222435,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":624,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10197"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

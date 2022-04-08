@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AKSHOPTFBR/part-00000-fbf3d003-4f79-4ac6-8098-b1d750fcdd2a.c000.snappy.parquet","partitionValues":{"Company_Name":"AKSHOPTFBR"},"size":7866,"modificationTime":1649311003140,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311003148,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":473,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7866"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

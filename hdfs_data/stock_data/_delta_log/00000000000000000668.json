@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TEAMLEASE/part-00000-8c7605e4-2f43-4ec7-b045-57ea115b0b81.c000.snappy.parquet","partitionValues":{"Company_Name":"TEAMLEASE"},"size":10593,"modificationTime":1649311286252,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311286257,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":667,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10593"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

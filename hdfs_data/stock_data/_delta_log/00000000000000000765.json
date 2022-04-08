@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INFOBEAN/part-00000-fc875722-3584-409a-861c-15a7ffb72b31.c000.snappy.parquet","partitionValues":{"Company_Name":"INFOBEAN"},"size":10435,"modificationTime":1649311431732,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311431739,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":764,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10435"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

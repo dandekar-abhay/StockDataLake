@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RAILTEL/part-00000-26b97fe7-4df8-4daf-937b-e83200ac9e73.c000.snappy.parquet","partitionValues":{"Company_Name":"RAILTEL"},"size":9008,"modificationTime":1649311402574,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311402582,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":744,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"209","numOutputBytes":"9008"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

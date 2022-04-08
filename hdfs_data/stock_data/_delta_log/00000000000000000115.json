@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ONMOBILE/part-00000-9938150d-814c-41ec-9a2f-1f950070139d.c000.snappy.parquet","partitionValues":{"Company_Name":"ONMOBILE"},"size":10746,"modificationTime":1649310540636,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310540639,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":114,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10746"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

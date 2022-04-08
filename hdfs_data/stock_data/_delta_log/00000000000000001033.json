@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAANALU/part-00000-4987142b-323d-4267-8df2-95daf5e877ea.c000.snappy.parquet","partitionValues":{"Company_Name":"MAANALU"},"size":10267,"modificationTime":1649311803714,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311803721,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1032,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10267"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

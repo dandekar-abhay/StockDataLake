@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AAKASH/part-00000-bf367259-a5a0-4726-b8c3-68ea0c44a253.c000.snappy.parquet","partitionValues":{"Company_Name":"AAKASH"},"size":9429,"modificationTime":1649311122855,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311122863,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":556,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9429"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

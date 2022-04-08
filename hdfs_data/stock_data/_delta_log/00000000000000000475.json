@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SILGO/part-00000-9a78a4e0-360f-431b-817e-fbfcbf95c324.c000.snappy.parquet","partitionValues":{"Company_Name":"SILGO"},"size":8742,"modificationTime":1649311004517,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311004524,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":474,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"206","numOutputBytes":"8742"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

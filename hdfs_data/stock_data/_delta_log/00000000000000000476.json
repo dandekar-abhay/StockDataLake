@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CASTROLIND/part-00000-a7fa74aa-d072-40e6-8216-a95e819f7ad0.c000.snappy.parquet","partitionValues":{"Company_Name":"CASTROLIND"},"size":10101,"modificationTime":1649311005883,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311005885,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":475,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10101"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

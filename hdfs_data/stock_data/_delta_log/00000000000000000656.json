@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LODHA/part-00000-3d1a10c6-dead-4a32-b04d-5647eb2b01ca.c000.snappy.parquet","partitionValues":{"Company_Name":"LODHA"},"size":8137,"modificationTime":1649311270717,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311270724,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":655,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"177","numOutputBytes":"8137"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

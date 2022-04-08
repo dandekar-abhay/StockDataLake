@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ROLLT/part-00000-dbe53bdd-13e1-4338-bf20-b6f1bd04b4d7.c000.snappy.parquet","partitionValues":{"Company_Name":"ROLLT"},"size":6655,"modificationTime":1649310678022,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310678030,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":235,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6655"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

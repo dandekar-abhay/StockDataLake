@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WINDMACHIN/part-00000-8aba1911-39c6-456a-b1d6-43de4aa4dcfc.c000.snappy.parquet","partitionValues":{"Company_Name":"WINDMACHIN"},"size":9668,"modificationTime":1649310469420,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310469423,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":52,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9668"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

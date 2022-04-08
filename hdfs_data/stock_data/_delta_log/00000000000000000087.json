@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BFUTILITIE/part-00000-b85407b1-7e21-4b15-b074-03b5edb43d44.c000.snappy.parquet","partitionValues":{"Company_Name":"BFUTILITIE"},"size":10203,"modificationTime":1649310508608,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310508613,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":86,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10203"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

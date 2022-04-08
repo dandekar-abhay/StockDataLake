@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAHEPC/part-00000-99ac7072-689e-4d67-9b2a-9235c6d87393.c000.snappy.parquet","partitionValues":{"Company_Name":"MAHEPC"},"size":10536,"modificationTime":1649310860786,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310860792,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":372,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10536"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

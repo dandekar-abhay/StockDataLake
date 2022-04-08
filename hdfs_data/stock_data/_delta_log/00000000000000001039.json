@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GLAND/part-00000-0d30c225-eb3e-42ec-b84a-c09da9d9271c.c000.snappy.parquet","partitionValues":{"Company_Name":"GLAND"},"size":10577,"modificationTime":1649311809805,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311809810,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1038,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10577"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

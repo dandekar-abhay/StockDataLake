@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DREDGECORP/part-00000-c748ad90-1f14-41e1-b744-f3ee2935dd16.c000.snappy.parquet","partitionValues":{"Company_Name":"DREDGECORP"},"size":10168,"modificationTime":1649311972229,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311972234,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1156,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10168"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GATI/part-00000-d384dcda-4bf5-4326-ad86-216d12aed7f1.c000.snappy.parquet","partitionValues":{"Company_Name":"GATI"},"size":10451,"modificationTime":1649310658513,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310658515,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":219,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10451"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

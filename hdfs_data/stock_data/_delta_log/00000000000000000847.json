@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SCHAEFFLER/part-00000-c4f1e2af-e64d-4d56-ac93-c52f23e48e39.c000.snappy.parquet","partitionValues":{"Company_Name":"SCHAEFFLER"},"size":10139,"modificationTime":1649311547333,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311547340,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":846,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10139"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

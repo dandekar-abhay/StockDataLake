@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MASFIN/part-00000-46e9b776-ee5f-47bb-958d-423779200365.c000.snappy.parquet","partitionValues":{"Company_Name":"MASFIN"},"size":10211,"modificationTime":1649310551897,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310551900,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":124,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10211"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

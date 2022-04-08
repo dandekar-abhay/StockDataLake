@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASIANPAINT/part-00000-42db7686-c7c9-420a-868e-6788f68723f2.c000.snappy.parquet","partitionValues":{"Company_Name":"ASIANPAINT"},"size":10475,"modificationTime":1649310793602,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310793609,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":322,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10475"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ROLEXRINGS/part-00000-0f5bb9bd-0b73-45cd-96de-fe603c90a8dc.c000.snappy.parquet","partitionValues":{"Company_Name":"ROLEXRINGS"},"size":5546,"modificationTime":1649311037180,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311037183,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":496,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"100","numOutputBytes":"5546"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

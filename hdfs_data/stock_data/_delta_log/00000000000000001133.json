@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RBL/part-00000-15b46f4d-93c6-47f3-9bfe-8cf0f23a7aae.c000.snappy.parquet","partitionValues":{"Company_Name":"RBL"},"size":10200,"modificationTime":1649311939211,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311939217,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1132,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10200"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

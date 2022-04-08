@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DECCANCE/part-00000-156887e0-da81-4c86-8058-f213a8c1113d.c000.snappy.parquet","partitionValues":{"Company_Name":"DECCANCE"},"size":10181,"modificationTime":1649311490040,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311490043,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":805,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10181"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

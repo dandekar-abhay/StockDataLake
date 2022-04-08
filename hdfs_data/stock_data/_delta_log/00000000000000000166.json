@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NIACL/part-00000-2c7b24de-f720-48e9-8425-23e198f6ac1f.c000.snappy.parquet","partitionValues":{"Company_Name":"NIACL"},"size":10392,"modificationTime":1649310595973,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310595978,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":165,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10392"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

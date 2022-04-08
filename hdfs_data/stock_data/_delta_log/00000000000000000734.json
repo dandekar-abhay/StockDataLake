@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CRISIL/part-00000-d55238b7-7a6a-4f53-aa1e-f7fd3e24b12a.c000.snappy.parquet","partitionValues":{"Company_Name":"CRISIL"},"size":10346,"modificationTime":1649311386808,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311386816,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":733,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10346"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

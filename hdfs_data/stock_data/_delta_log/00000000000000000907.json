@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADVENZYMES/part-00000-f842cc1b-ff9a-4068-9d96-bcd13c4cd768.c000.snappy.parquet","partitionValues":{"Company_Name":"ADVENZYMES"},"size":10090,"modificationTime":1649311633487,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311633494,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":906,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10090"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

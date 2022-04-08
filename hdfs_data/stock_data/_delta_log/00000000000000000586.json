@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NDGL/part-00000-b00c3bc9-395f-4dd5-9974-1c17abeac047.c000.snappy.parquet","partitionValues":{"Company_Name":"NDGL"},"size":10399,"modificationTime":1649311162923,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311162926,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":585,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10399"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -71,10 +71,9 @@ list_7_up=(df_7_up_cnt.select('Company_Name').
 df_3_down_cnt.filter(df_3_down_cnt.Company_Name.isin(list_7_up)).select('Company_Name').show()
 # Output:
 
-Enter the no. of days to check the lagging trend:(Keep it below 7)5
-Last 3 days uptrending Companies are:
+# Enter the no. of days to check the lagging trend:(Keep it below 7)5
+# Last 3 days uptrending Companies are:
 
-# Output:
 # +------------+-------------+
 # |Company_Name|count_of_days|
 # +------------+-------------+

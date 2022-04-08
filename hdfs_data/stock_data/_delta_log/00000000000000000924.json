@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ALBERTDAVD/part-00000-d1b7bf42-6397-4f40-adf7-ad10cac811c8.c000.snappy.parquet","partitionValues":{"Company_Name":"ALBERTDAVD"},"size":10083,"modificationTime":1649311656335,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311656337,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":923,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10083"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

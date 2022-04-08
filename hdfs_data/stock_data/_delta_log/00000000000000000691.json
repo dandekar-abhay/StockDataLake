@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LAGNAM/part-00000-608457d1-7de2-4958-a26b-4b2ebb1a36df.c000.snappy.parquet","partitionValues":{"Company_Name":"LAGNAM"},"size":4682,"modificationTime":1649311322273,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311322276,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":690,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"64","numOutputBytes":"4682"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

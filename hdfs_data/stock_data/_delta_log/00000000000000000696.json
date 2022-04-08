@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ACCELYA/part-00000-d62f9e3a-6bc2-470f-93ea-268858365e1f.c000.snappy.parquet","partitionValues":{"Company_Name":"ACCELYA"},"size":10135,"modificationTime":1649311329628,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311329632,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":695,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10135"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

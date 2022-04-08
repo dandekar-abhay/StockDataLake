@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SBILIFE/part-00000-c7c2ad9a-a2af-4e64-8dd8-8fe1cc73deb6.c000.snappy.parquet","partitionValues":{"Company_Name":"SBILIFE"},"size":10033,"modificationTime":1649311081618,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311081626,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":527,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10033"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

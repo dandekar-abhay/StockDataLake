@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KAJARIACER/part-00000-86bb05e9-9ae8-413a-877b-075204c448c7.c000.snappy.parquet","partitionValues":{"Company_Name":"KAJARIACER"},"size":10110,"modificationTime":1649310964056,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310964063,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":446,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10110"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

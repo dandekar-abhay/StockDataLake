@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KRISHANA/part-00000-10d6512e-7921-4a05-bc31-2d1c657c0ad4.c000.snappy.parquet","partitionValues":{"Company_Name":"KRISHANA"},"size":10304,"modificationTime":1649310527437,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310527441,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":102,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10304"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

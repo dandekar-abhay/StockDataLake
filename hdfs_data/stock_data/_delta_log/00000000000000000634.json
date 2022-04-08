@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MENONBE/part-00000-f0a8498e-68d3-4643-80b8-3f12927498e5.c000.snappy.parquet","partitionValues":{"Company_Name":"MENONBE"},"size":10195,"modificationTime":1649311235558,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311235561,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":633,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10195"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

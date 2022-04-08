@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RUBYMILLS/part-00000-f84f20e7-747b-45ac-a902-a3d2331cc368.c000.snappy.parquet","partitionValues":{"Company_Name":"RUBYMILLS"},"size":10164,"modificationTime":1649311451554,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311451557,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":777,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10164"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

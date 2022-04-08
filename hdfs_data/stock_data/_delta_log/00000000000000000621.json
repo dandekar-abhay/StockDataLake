@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CUBEXTUB/part-00000-f22fd27a-c0d0-44c6-af7e-14fd6f5b9a76.c000.snappy.parquet","partitionValues":{"Company_Name":"CUBEXTUB"},"size":9278,"modificationTime":1649311215982,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311215988,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":620,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9278"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

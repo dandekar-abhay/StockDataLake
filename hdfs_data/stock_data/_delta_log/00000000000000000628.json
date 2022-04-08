@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HAPPSTMNDS/part-00000-91683cab-6634-46bc-a58f-1b883f577f54.c000.snappy.parquet","partitionValues":{"Company_Name":"HAPPSTMNDS"},"size":10209,"modificationTime":1649311226607,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311226614,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":627,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10209"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

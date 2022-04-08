@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=STEELXIND/part-00000-c0799b11-11ac-40b2-ad05-6f63b90994c2.c000.snappy.parquet","partitionValues":{"Company_Name":"STEELXIND"},"size":10472,"modificationTime":1649311820131,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311820135,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1046,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10472"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

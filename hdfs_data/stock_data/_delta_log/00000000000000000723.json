@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=METROPOLIS/part-00000-278438cd-d80d-45f9-967e-6ae67e3187bc.c000.snappy.parquet","partitionValues":{"Company_Name":"METROPOLIS"},"size":10548,"modificationTime":1649311371087,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311371095,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":722,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10548"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

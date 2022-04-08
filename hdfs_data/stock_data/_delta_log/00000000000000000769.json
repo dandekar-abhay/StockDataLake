@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KAKATCEM/part-00000-f8946f43-ef94-4b13-b318-4384a8ce9421.c000.snappy.parquet","partitionValues":{"Company_Name":"KAKATCEM"},"size":10337,"modificationTime":1649311437220,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311437222,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":768,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10337"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

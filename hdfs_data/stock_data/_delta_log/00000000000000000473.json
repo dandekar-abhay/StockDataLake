@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CENTRALBK/part-00000-a58eb79c-c406-4b25-985a-a5a5ed2b342c.c000.snappy.parquet","partitionValues":{"Company_Name":"CENTRALBK"},"size":8970,"modificationTime":1649311001375,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311001380,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":472,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8970"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

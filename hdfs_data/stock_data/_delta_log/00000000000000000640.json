@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RUPA/part-00000-77333f1e-4533-49e2-a004-e647abec973c.c000.snappy.parquet","partitionValues":{"Company_Name":"RUPA"},"size":10468,"modificationTime":1649311245491,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311245499,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":639,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10468"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

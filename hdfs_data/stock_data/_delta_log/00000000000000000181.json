@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MARSHALL/part-00000-486334d3-a411-4b4d-9a02-e58d05508a33.c000.snappy.parquet","partitionValues":{"Company_Name":"MARSHALL"},"size":3417,"modificationTime":1649310613783,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310613786,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":180,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"30","numOutputBytes":"3417"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

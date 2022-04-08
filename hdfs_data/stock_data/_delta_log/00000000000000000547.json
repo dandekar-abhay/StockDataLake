@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARENTERP/part-00000-c8d614ad-e0ad-4754-8163-d8936e40cede.c000.snappy.parquet","partitionValues":{"Company_Name":"ARENTERP"},"size":9349,"modificationTime":1649311108553,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311108558,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":546,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9349"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

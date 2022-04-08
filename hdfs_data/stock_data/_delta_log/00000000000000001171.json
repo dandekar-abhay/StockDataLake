@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UTTAMSTL/part-00000-433dba6e-e889-4052-9339-810f669b76a9.c000.snappy.parquet","partitionValues":{"Company_Name":"UTTAMSTL"},"size":7485,"modificationTime":1649311992372,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311992378,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1170,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7485"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

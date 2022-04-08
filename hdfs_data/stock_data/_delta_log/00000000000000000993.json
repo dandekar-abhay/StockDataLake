@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WELINV/part-00000-723a1de8-a8ed-4e04-b340-3e601ab123c1.c000.snappy.parquet","partitionValues":{"Company_Name":"WELINV"},"size":10465,"modificationTime":1649311748134,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311748140,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":992,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10465"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

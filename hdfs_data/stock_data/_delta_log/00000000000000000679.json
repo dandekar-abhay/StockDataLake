@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KBCGLOBAL/part-00000-4cc7f301-1200-4346-8f12-a914b56f972c.c000.snappy.parquet","partitionValues":{"Company_Name":"KBCGLOBAL"},"size":8568,"modificationTime":1649311303877,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311303880,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":678,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8568"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

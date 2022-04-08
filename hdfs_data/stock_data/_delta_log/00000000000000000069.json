@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BURNPUR/part-00000-c276a76c-8ec3-489e-84c3-3ff6092e7817.c000.snappy.parquet","partitionValues":{"Company_Name":"BURNPUR"},"size":6235,"modificationTime":1649310487513,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310487520,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":68,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"222","numOutputBytes":"6235"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

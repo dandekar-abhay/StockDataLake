@@ -1,21 +1,15 @@
-import csv
-import os
+
 import pandas as pd
 import xlrd
-from pyspark import SparkConf
 from xlrd import XLRDError
 from fuzzywuzzy import process
 import openpyxl
 import Levenshtein
 import os
-import subprocess
 import csv
 import re
 import pyspark.pandas as ps
 import configparser
-import gc
-#conf = SparkConf().setAppName("RatingsHistogram").setMaster("local")
-#export JVM_ARGS="-Xms1024m -Xmx1024m"
 
 import pyspark
 from delta import *
@@ -48,8 +42,7 @@ def excel_rename(path):
 
 
 def excel_rename_symbol(path, newpath, scriptpath):
-    data = pd.read_csv(f"{scriptpath}")
-    # print(data)
+
     i = 0
     IDs = {}
     with open(scriptpath) as f:
@@ -101,12 +94,10 @@ def xlsxtodeltaextraction(path, newPath, pathToStockData):
 
         try:
             print(f"file:///{abs_path_stockdata}/{x[0]}.csv")
-            # str = f"file:///{abs_path_stockdata}/{x[0]}.csv"
             ps.set_option('compute.ops_on_diff_frames', True)
             df_comp = ps.read_csv(f'File:///{abs_path_stockdata}/{x[0]}.csv')
 
             df_comp['Company_Name'] = x[0]
-            # df1 = ps.DataFrame()
             df1 = df_comp['close']
             df_comp['Trend_close'] = df1.diff()
             df_comp.loc[df_comp['Trend_close'] > 0, 'Day_Trend'] = 'up'
@@ -152,15 +143,15 @@ if __name__ == '__main__':
     config = configparser.ConfigParser()
     config.read('renamingfiles_config.ini')
     os.chdir(f'{abs_path}')
-    # path1 = config.get('excel_rename','path1')
-    #
-    # excel_rename(path1)   #Function used to rename the files according to company name   [LOCAL]
-    #
-    # path2 = config.get("excel_rename_symbol", "path2")
-    # path3 = config.get("excel_rename_symbol", "path3")
-    # path4 = config.get("excel_rename_symbol", "path4")
-    #
-    # excel_rename_symbol(path2, path3, path4)  #Function used to rename the excel file to their respective script names  [LOCAL]
+    path1 = config.get('excel_rename','path1')
+
+    excel_rename(path1)   #Function used to rename the files according to company name   [LOCAL]
+
+    path2 = config.get("excel_rename_symbol", "path2")
+    path3 = config.get("excel_rename_symbol", "path3")
+    path4 = config.get("excel_rename_symbol", "path4")
+
+    excel_rename_symbol(path2, path3, path4)  #Function used to rename the excel file to their respective script names  [LOCAL]
 
     path5 = config.get("xlsxtodeltaextraction", "path5")
     path6 = config.get("xlsxtodeltaextraction", "path6")

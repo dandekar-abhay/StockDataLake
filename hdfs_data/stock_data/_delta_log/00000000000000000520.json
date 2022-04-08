@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PANAMAPET/part-00000-f72ba379-0cd7-4d47-8dcb-a95e78fcfefd.c000.snappy.parquet","partitionValues":{"Company_Name":"PANAMAPET"},"size":10153,"modificationTime":1649311070010,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311070016,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":519,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10153"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

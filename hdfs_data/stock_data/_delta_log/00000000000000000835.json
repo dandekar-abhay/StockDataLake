@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ICRA/part-00000-8b2e67bd-6d98-4345-b400-69f73abf15ef.c000.snappy.parquet","partitionValues":{"Company_Name":"ICRA"},"size":10414,"modificationTime":1649311530190,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311530195,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":834,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10414"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

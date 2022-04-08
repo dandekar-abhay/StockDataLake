@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TREEHOUSE/part-00000-a8ca367e-54a7-4817-8d53-5b377b8a038c.c000.snappy.parquet","partitionValues":{"Company_Name":"TREEHOUSE"},"size":7647,"modificationTime":1649311699429,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311699435,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":955,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7647"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

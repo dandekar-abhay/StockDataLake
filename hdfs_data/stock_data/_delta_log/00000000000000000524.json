@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PREMIERPOL/part-00000-670367aa-35a0-43aa-82e3-f4974fb55ce9.c000.snappy.parquet","partitionValues":{"Company_Name":"PREMIERPOL"},"size":10408,"modificationTime":1649311075743,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311075745,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":523,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10408"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

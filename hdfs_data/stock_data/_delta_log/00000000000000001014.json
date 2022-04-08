@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GARFIBRES/part-00000-8cc376f7-5ea5-405f-b946-a8c14cf50458.c000.snappy.parquet","partitionValues":{"Company_Name":"GARFIBRES"},"size":10508,"modificationTime":1649311778022,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311778029,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1013,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10508"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

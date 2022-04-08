@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TVSMOTOR/part-00000-f76cc1de-a830-4f1f-9340-31f18f8ec497.c000.snappy.parquet","partitionValues":{"Company_Name":"TVSMOTOR"},"size":10237,"modificationTime":1649311958691,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311958699,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1146,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10237"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

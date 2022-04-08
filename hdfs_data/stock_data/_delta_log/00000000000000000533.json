@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAGFILMS/part-00000-3b8f5585-b812-4ea6-9d9e-40ba5a330824.c000.snappy.parquet","partitionValues":{"Company_Name":"BAGFILMS"},"size":6727,"modificationTime":1649311089101,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311089108,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":532,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6727"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

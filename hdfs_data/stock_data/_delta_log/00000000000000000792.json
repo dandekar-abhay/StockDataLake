@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GODREJPROP/part-00000-7e21dd15-4804-47e5-853d-66462ba9559a.c000.snappy.parquet","partitionValues":{"Company_Name":"GODREJPROP"},"size":10347,"modificationTime":1649311470348,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311470354,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":791,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10347"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

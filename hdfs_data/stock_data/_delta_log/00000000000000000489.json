@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SARLAPOLY/part-00000-ff81017a-b26e-451b-973d-3859a468310f.c000.snappy.parquet","partitionValues":{"Company_Name":"SARLAPOLY"},"size":10259,"modificationTime":1649311025573,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311025576,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":488,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10259"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

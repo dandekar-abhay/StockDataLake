@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAHASTEEL/part-00000-884c7134-2bca-4529-8101-fbd0f6c304a3.c000.snappy.parquet","partitionValues":{"Company_Name":"MAHASTEEL"},"size":10205,"modificationTime":1649311980695,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311980703,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1162,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10205"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

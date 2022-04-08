@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DPWIRES/part-00000-67e8e7a0-2b40-48d8-a124-8fc38222b225.c000.snappy.parquet","partitionValues":{"Company_Name":"DPWIRES"},"size":10275,"modificationTime":1649310454188,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310454191,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":40,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10275"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

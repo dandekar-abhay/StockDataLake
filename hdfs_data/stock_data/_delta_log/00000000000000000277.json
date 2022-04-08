@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SARDAEN/part-00000-d0a6245f-d99f-46c8-b695-6edc0046ce65.c000.snappy.parquet","partitionValues":{"Company_Name":"SARDAEN"},"size":10271,"modificationTime":1649310731359,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310731365,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":276,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10271"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

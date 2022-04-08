@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GRAUWEIL/part-00000-2828395e-5491-4fa4-aa75-665af0ab5770.c000.snappy.parquet","partitionValues":{"Company_Name":"GRAUWEIL"},"size":5692,"modificationTime":1649311135430,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311135433,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":565,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"102","numOutputBytes":"5692"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

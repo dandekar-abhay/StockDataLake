@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AMRUTANJAN/part-00000-25395b9b-a8fe-435e-846b-970b47ebfc6b.c000.snappy.parquet","partitionValues":{"Company_Name":"AMRUTANJAN"},"size":10127,"modificationTime":1649311743305,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311743313,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":989,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10127"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

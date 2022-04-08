@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COASTCORP/part-00000-e491e7e5-f94b-43a7-88c3-1f8461e740f5.c000.snappy.parquet","partitionValues":{"Company_Name":"COASTCORP"},"size":4284,"modificationTime":1649311871508,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311871510,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1084,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"58","numOutputBytes":"4284"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

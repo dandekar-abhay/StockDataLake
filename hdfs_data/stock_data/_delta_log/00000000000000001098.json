@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASIANHOTNR/part-00000-d463496d-8a4b-4a26-b5bc-457ec0f884b7.c000.snappy.parquet","partitionValues":{"Company_Name":"ASIANHOTNR"},"size":10192,"modificationTime":1649311889945,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311889948,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1097,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10192"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

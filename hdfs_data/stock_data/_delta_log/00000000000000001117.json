@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UGROCAP/part-00000-f6fef1bd-28b6-43cb-930e-1e8c5cb87648.c000.snappy.parquet","partitionValues":{"Company_Name":"UGROCAP"},"size":5652,"modificationTime":1649311917188,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311917193,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1116,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"98","numOutputBytes":"5652"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

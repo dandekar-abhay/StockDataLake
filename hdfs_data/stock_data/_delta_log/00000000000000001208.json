@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAVINFLUOR/part-00000-2b9c94ec-2f73-4821-9b77-e67284e7cc62.c000.snappy.parquet","partitionValues":{"Company_Name":"NAVINFLUOR"},"size":10535,"modificationTime":1649312041762,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312041768,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1207,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10535"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

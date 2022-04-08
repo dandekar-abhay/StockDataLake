@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SURYAROSNI/part-00000-b0e74f2c-4e53-4458-b376-aeceac84c371.c000.snappy.parquet","partitionValues":{"Company_Name":"SURYAROSNI"},"size":10208,"modificationTime":1649310962734,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310962737,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":445,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10208"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

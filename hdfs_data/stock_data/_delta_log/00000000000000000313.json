@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CONCOR/part-00000-4ca467dc-a2cd-4a43-8527-8c2780498c2a.c000.snappy.parquet","partitionValues":{"Company_Name":"CONCOR"},"size":10095,"modificationTime":1649310780119,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310780122,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":312,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10095"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

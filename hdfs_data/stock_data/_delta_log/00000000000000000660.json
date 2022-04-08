@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GRANULES/part-00000-cef582fa-dca8-402a-aba4-8655d830dbb3.c000.snappy.parquet","partitionValues":{"Company_Name":"GRANULES"},"size":10294,"modificationTime":1649311276372,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311276376,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":659,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10294"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

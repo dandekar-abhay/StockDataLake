@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AIRAN/part-00000-c09d9b3e-a485-4007-90c8-69dff21c4b4d.c000.snappy.parquet","partitionValues":{"Company_Name":"AIRAN"},"size":9059,"modificationTime":1649310825525,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310825532,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":346,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9059"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

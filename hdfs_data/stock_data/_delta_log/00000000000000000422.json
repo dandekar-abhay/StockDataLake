@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UNIENTER/part-00000-287cb6a4-bbe5-4d6f-aaaf-0455de85acb3.c000.snappy.parquet","partitionValues":{"Company_Name":"UNIENTER"},"size":10629,"modificationTime":1649310929645,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310929654,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":421,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10629"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

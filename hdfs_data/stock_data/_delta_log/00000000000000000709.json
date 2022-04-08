@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NUCLEUS/part-00000-ce3f497e-da65-4d69-99f2-c6d2dfa91aa6.c000.snappy.parquet","partitionValues":{"Company_Name":"NUCLEUS"},"size":10120,"modificationTime":1649311350871,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311350878,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":708,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10120"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

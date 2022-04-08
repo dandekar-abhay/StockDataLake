@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INTLCONV/part-00000-08ed7924-1a83-473f-9b2e-6c017e366f0f.c000.snappy.parquet","partitionValues":{"Company_Name":"INTLCONV"},"size":4955,"modificationTime":1649311318642,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311318645,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":688,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"74","numOutputBytes":"4955"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CUPID/part-00000-4eb5c035-e3e3-4fda-99b4-351274fb67ce.c000.snappy.parquet","partitionValues":{"Company_Name":"CUPID"},"size":10243,"modificationTime":1649311673670,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311673678,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":936,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10243"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

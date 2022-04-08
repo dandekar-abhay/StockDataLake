@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BANARISUG/part-00000-af1adda1-0885-4bd5-a131-472ba85fc9b2.c000.snappy.parquet","partitionValues":{"Company_Name":"BANARISUG"},"size":10289,"modificationTime":1649310555877,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310555880,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":128,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10289"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

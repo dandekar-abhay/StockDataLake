@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DYNPRO/part-00000-b07d13d0-ad3f-41d7-b7fb-9520e9584e2d.c000.snappy.parquet","partitionValues":{"Company_Name":"DYNPRO"},"size":10146,"modificationTime":1649311356653,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311356658,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":712,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10146"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

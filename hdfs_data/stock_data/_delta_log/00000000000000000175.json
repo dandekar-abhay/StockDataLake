@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COUNCODOS/part-00000-8e880cd5-c414-44a0-aa33-24c4fc83c4fb.c000.snappy.parquet","partitionValues":{"Company_Name":"COUNCODOS"},"size":6821,"modificationTime":1649310606996,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310607004,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":174,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6821"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

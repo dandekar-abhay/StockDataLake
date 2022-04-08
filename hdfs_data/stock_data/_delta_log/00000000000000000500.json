@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NCC/part-00000-2147a813-1219-4d28-9712-3e97e5e40963.c000.snappy.parquet","partitionValues":{"Company_Name":"NCC"},"size":10268,"modificationTime":1649311041690,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311041697,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":499,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10268"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GRPLTD/part-00000-da82fd1d-d2b0-47f1-b2ba-7d7c4a71e7e0.c000.snappy.parquet","partitionValues":{"Company_Name":"GRPLTD"},"size":10396,"modificationTime":1649311735394,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311735399,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":983,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10396"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

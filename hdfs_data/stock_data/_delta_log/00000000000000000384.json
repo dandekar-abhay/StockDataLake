@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SALONA/part-00000-2f59f56a-4ce8-4a19-b944-9e28a1bb1ebd.c000.snappy.parquet","partitionValues":{"Company_Name":"SALONA"},"size":10521,"modificationTime":1649310875842,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310875851,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":383,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10521"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

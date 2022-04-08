@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DCBBANK/part-00000-365d19c8-38a2-41cf-9f89-8ed98247e402.c000.snappy.parquet","partitionValues":{"Company_Name":"DCBBANK"},"size":10262,"modificationTime":1649311942914,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311942916,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1135,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10262"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

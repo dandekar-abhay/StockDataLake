@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TARAPUR/part-00000-0724d0e9-3183-412e-8e74-8f0e3a646004.c000.snappy.parquet","partitionValues":{"Company_Name":"TARAPUR"},"size":5945,"modificationTime":1649310943074,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310943082,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":431,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"174","numOutputBytes":"5945"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

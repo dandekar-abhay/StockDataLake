@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AAREYDRUGS/part-00000-d3265088-eea1-45df-aadc-aba88ab66e51.c000.snappy.parquet","partitionValues":{"Company_Name":"AAREYDRUGS"},"size":5567,"modificationTime":1649311102634,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311102636,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":542,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"101","numOutputBytes":"5567"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

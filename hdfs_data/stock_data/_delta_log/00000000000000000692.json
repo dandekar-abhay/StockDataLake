@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PRSMJOHNSN/part-00000-09fb007b-af11-4c2b-87ea-e43797fa33b1.c000.snappy.parquet","partitionValues":{"Company_Name":"PRSMJOHNSN"},"size":10361,"modificationTime":1649311323694,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311323700,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":691,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10361"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

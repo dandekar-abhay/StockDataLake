@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ESTER/part-00000-e6d3a2a2-f8dc-4c32-9178-36c2e853622b.c000.snappy.parquet","partitionValues":{"Company_Name":"ESTER"},"size":10551,"modificationTime":1649310770190,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310770197,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":305,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10551"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

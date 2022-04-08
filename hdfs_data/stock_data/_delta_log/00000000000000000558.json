@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WATERBASE/part-00000-191bfab2-5c5d-44c8-bdca-0c7ba36a4b65.c000.snappy.parquet","partitionValues":{"Company_Name":"WATERBASE"},"size":10228,"modificationTime":1649311124249,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311124257,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":557,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10228"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

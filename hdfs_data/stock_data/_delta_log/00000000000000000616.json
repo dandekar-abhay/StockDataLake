@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHIVALIK/part-00000-ab8da077-d781-4f1b-b5d8-a0a187d9d029.c000.snappy.parquet","partitionValues":{"Company_Name":"SHIVALIK"},"size":3003,"modificationTime":1649311207798,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311207801,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":615,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"17","numOutputBytes":"3003"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

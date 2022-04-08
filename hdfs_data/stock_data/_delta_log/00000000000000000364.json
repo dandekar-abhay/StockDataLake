@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PGIL/part-00000-91e44ec3-9612-47f8-9f55-10e8e73b6c20.c000.snappy.parquet","partitionValues":{"Company_Name":"PGIL"},"size":10086,"modificationTime":1649310849070,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310849078,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":363,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10086"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

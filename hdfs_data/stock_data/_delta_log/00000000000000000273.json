@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DAMODARIND/part-00000-e08bdde4-9ea7-4ba2-ae1d-2fa3cc9f02e8.c000.snappy.parquet","partitionValues":{"Company_Name":"DAMODARIND"},"size":10174,"modificationTime":1649310726310,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310726317,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":272,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10174"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASTERDM/part-00000-4847a2cc-875a-4d51-baf3-073f6fa4b6c4.c000.snappy.parquet","partitionValues":{"Company_Name":"ASTERDM"},"size":10321,"modificationTime":1649310492666,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310492669,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":72,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10321"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

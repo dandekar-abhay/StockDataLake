@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BOSCHLTD/part-00000-3e9ae777-7223-4117-b24e-eb1e4cda72bd.c000.snappy.parquet","partitionValues":{"Company_Name":"BOSCHLTD"},"size":10934,"modificationTime":1649310892069,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310892076,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":395,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10934"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

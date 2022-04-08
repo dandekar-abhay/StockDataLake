@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LAMBODHARA/part-00000-30f54c2b-780e-4a07-9f34-289275e4e3bb.c000.snappy.parquet","partitionValues":{"Company_Name":"LAMBODHARA"},"size":10372,"modificationTime":1649310495091,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310495100,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":74,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10372"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

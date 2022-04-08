@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SYNGENE/part-00000-8783cc4f-945a-408f-88df-7689ec91805d.c000.snappy.parquet","partitionValues":{"Company_Name":"SYNGENE"},"size":10034,"modificationTime":1649312011685,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312011690,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1184,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10034"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

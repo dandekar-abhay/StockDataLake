@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LEMONTREE/part-00000-1e8ab6ef-db32-485c-9308-2d2715a94dd1.c000.snappy.parquet","partitionValues":{"Company_Name":"LEMONTREE"},"size":9439,"modificationTime":1649311393446,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311393451,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":738,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9439"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WALCHANNAG/part-00000-0643152e-b06d-41e6-bf41-242548ddc63c.c000.snappy.parquet","partitionValues":{"Company_Name":"WALCHANNAG"},"size":10310,"modificationTime":1649310961761,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310961767,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":444,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10310"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

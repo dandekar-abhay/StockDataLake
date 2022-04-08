@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SIMBHALS/part-00000-fcef7857-e07c-49df-a28d-f77980db1094.c000.snappy.parquet","partitionValues":{"Company_Name":"SIMBHALS"},"size":9729,"modificationTime":1649311586615,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311586622,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":873,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9729"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

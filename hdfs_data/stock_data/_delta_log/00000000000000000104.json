@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GLENMARK/part-00000-87c0c8e9-4eb3-47cf-9922-4e2a1f4e973b.c000.snappy.parquet","partitionValues":{"Company_Name":"GLENMARK"},"size":10043,"modificationTime":1649310528465,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310528468,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":103,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10043"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

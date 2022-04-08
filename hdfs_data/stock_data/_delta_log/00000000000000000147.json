@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LUMAXTECH/part-00000-8b4078eb-3c72-48e6-8cf1-0d44af6cd5b0.c000.snappy.parquet","partitionValues":{"Company_Name":"LUMAXTECH"},"size":10249,"modificationTime":1649310575196,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310575199,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":146,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10249"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

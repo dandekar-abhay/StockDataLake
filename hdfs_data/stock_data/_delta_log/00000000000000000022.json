@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PVR/part-00000-5cb06f61-6fd9-4a89-ab1a-9b474fbccc49.c000.snappy.parquet","partitionValues":{"Company_Name":"PVR"},"size":10143,"modificationTime":1649310430753,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310430756,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":21,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10143"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

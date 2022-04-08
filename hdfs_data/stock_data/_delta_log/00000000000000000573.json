@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SWARAJENG/part-00000-8f717a71-3a63-4388-8e08-67c63f170a25.c000.snappy.parquet","partitionValues":{"Company_Name":"SWARAJENG"},"size":10238,"modificationTime":1649311146486,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311146489,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":572,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10238"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

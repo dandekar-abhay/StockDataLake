@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TIDEWATER/part-00000-c48a5fba-dd9b-40ad-9de4-f2bd1f39d87c.c000.snappy.parquet","partitionValues":{"Company_Name":"TIDEWATER"},"size":10305,"modificationTime":1649311176824,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311176832,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":595,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10305"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

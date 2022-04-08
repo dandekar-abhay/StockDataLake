@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=POLYMED/part-00000-abb25563-e0e4-4c4b-acf4-3ade3d86671a.c000.snappy.parquet","partitionValues":{"Company_Name":"POLYMED"},"size":10117,"modificationTime":1649311199183,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311199188,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":609,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10117"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

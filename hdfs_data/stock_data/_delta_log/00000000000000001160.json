@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BLUEDART/part-00000-662ca2f8-9556-477b-b9df-9d071d914d4f.c000.snappy.parquet","partitionValues":{"Company_Name":"BLUEDART"},"size":10646,"modificationTime":1649311975515,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311975517,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1159,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10646"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

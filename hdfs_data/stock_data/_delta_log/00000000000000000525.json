@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HIMATSEIDE/part-00000-955e3248-38fb-40a8-99be-b27db733dc88.c000.snappy.parquet","partitionValues":{"Company_Name":"HIMATSEIDE"},"size":10369,"modificationTime":1649311077488,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311077495,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":524,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10369"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

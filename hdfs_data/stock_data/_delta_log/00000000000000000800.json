@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MEDICAMEQ/part-00000-e0cbef69-6df4-44c8-9672-543cc3d569a4.c000.snappy.parquet","partitionValues":{"Company_Name":"MEDICAMEQ"},"size":4007,"modificationTime":1649311481633,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311481640,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":799,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"46","numOutputBytes":"4007"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

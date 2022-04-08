@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CHAMBLFERT/part-00000-de5d4cfd-1ab9-4e6f-8cf6-e97d86f0be2e.c000.snappy.parquet","partitionValues":{"Company_Name":"CHAMBLFERT"},"size":10084,"modificationTime":1649311023233,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311023238,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":486,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10084"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

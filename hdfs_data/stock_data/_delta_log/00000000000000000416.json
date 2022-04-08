@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SWELECTES/part-00000-80cd5be8-4acc-443c-bd10-dc3b109667aa.c000.snappy.parquet","partitionValues":{"Company_Name":"SWELECTES"},"size":10499,"modificationTime":1649310919850,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310919853,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":415,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10499"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

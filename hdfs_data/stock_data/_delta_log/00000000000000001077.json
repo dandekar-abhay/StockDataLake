@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SRHHYPOLTD/part-00000-8618455c-a5c4-477e-a799-81e947885fd5.c000.snappy.parquet","partitionValues":{"Company_Name":"SRHHYPOLTD"},"size":10343,"modificationTime":1649311858961,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311858963,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1076,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10343"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

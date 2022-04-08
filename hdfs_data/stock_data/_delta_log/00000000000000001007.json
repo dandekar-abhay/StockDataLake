@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NEWGEN/part-00000-acb6b305-e139-4503-9c78-e64f762a61d1.c000.snappy.parquet","partitionValues":{"Company_Name":"NEWGEN"},"size":10381,"modificationTime":1649311768119,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311768124,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1006,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10381"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

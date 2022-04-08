@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATVA/part-00000-7f0ec580-3565-48ea-80c0-31d8d157862c.c000.snappy.parquet","partitionValues":{"Company_Name":"TATVA"},"size":5968,"modificationTime":1649311843829,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311843836,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1064,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"107","numOutputBytes":"5968"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UJJIVANSFB/part-00000-007d3ed8-3cff-434d-97be-4a33aa7fd604.c000.snappy.parquet","partitionValues":{"Company_Name":"UJJIVANSFB"},"size":9432,"modificationTime":1649310918479,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310918482,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":414,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9432"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ZYDUSWELL/part-00000-5def44e0-52be-49e4-9a46-6084d573f9d5.c000.snappy.parquet","partitionValues":{"Company_Name":"ZYDUSWELL"},"size":10233,"modificationTime":1649311039926,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311039929,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":498,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10233"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

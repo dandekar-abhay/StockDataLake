@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SIRCA/part-00000-2c397d21-17a1-480e-9f55-ad09aa39b823.c000.snappy.parquet","partitionValues":{"Company_Name":"SIRCA"},"size":10429,"modificationTime":1649311069052,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311069060,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":518,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10429"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LAOPALA/part-00000-e2366f4d-44a8-4c3b-a5c7-1df12a5f50b3.c000.snappy.parquet","partitionValues":{"Company_Name":"LAOPALA"},"size":10360,"modificationTime":1649310559074,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310559077,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":131,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10360"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

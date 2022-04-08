@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NEOGEN/part-00000-6bd09a7f-f84f-483f-a8e5-0608c547b3be.c000.snappy.parquet","partitionValues":{"Company_Name":"NEOGEN"},"size":10208,"modificationTime":1649310916537,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310916545,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":412,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10208"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=YESBANK/part-00000-955a2abd-fb8f-4e51-8a7f-59b95fb60dee.c000.snappy.parquet","partitionValues":{"Company_Name":"YESBANK"},"size":7878,"modificationTime":1649311940168,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311940170,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1133,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7878"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

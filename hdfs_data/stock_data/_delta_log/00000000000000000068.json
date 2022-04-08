@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=APTECHT/part-00000-c41dd1b9-906a-4166-9dbc-ada72f3d83a1.c000.snappy.parquet","partitionValues":{"Company_Name":"APTECHT"},"size":10153,"modificationTime":1649310486056,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310486059,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":67,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10153"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

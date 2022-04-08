@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SATIN/part-00000-f955169d-d2fe-4b53-b4f4-6bba89b2e6ac.c000.snappy.parquet","partitionValues":{"Company_Name":"SATIN"},"size":10072,"modificationTime":1649310544471,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310544474,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":118,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10072"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PRINCEPIPE/part-00000-54e4f29b-790d-4233-bc62-54af040376d8.c000.snappy.parquet","partitionValues":{"Company_Name":"PRINCEPIPE"},"size":10153,"modificationTime":1649311687305,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311687308,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":946,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10153"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

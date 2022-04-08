@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WIPRO/part-00000-755bfb59-a312-49ca-b28a-52b75ac2e28a.c000.snappy.parquet","partitionValues":{"Company_Name":"WIPRO"},"size":10062,"modificationTime":1649310603303,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310603310,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":171,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10062"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

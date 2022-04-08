@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CHEMFAB/part-00000-e7406992-e237-4497-9d3b-e09d153ddde2.c000.snappy.parquet","partitionValues":{"Company_Name":"CHEMFAB"},"size":10494,"modificationTime":1649311165616,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311165624,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":587,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10494"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

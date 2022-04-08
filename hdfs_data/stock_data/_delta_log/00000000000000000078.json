@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RITES/part-00000-80c39c34-d6e1-4259-a45e-3c473c01f3d5.c000.snappy.parquet","partitionValues":{"Company_Name":"RITES"},"size":10479,"modificationTime":1649310498174,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310498177,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":77,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10479"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

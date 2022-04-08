@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RCOM/part-00000-76c9e10e-1ed9-41e4-8885-52d90a81981b.c000.snappy.parquet","partitionValues":{"Company_Name":"RCOM"},"size":6817,"modificationTime":1649310768416,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310768418,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":304,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6817"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

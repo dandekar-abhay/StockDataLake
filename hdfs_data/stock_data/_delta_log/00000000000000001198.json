@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ZENTEC/part-00000-0d772622-f2d5-4bb0-967f-946ee3fcf8b9.c000.snappy.parquet","partitionValues":{"Company_Name":"ZENTEC"},"size":10465,"modificationTime":1649312028956,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312028958,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1197,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10465"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

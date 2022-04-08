@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GANESHBE/part-00000-287451d4-6134-4a91-aa05-ec0fda544e1a.c000.snappy.parquet","partitionValues":{"Company_Name":"GANESHBE"},"size":4902,"modificationTime":1649311262687,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311262690,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":650,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"74","numOutputBytes":"4902"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

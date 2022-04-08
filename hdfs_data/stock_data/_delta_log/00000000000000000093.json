@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LOKESHMACH/part-00000-971bd193-74b8-4469-8bd6-8d7da13083e2.c000.snappy.parquet","partitionValues":{"Company_Name":"LOKESHMACH"},"size":9904,"modificationTime":1649310515835,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310515838,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":92,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9904"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

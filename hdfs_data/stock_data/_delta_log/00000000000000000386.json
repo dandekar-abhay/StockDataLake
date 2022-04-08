@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=3PLAND/part-00000-f0422b45-47e5-460b-bc7a-5d9d303ecf4e.c000.snappy.parquet","partitionValues":{"Company_Name":"3PLAND"},"size":7985,"modificationTime":1649310878178,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310878184,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":385,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7985"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASHAPURMIN/part-00000-deb90343-6c62-4a7b-a23d-e983198dd9fb.c000.snappy.parquet","partitionValues":{"Company_Name":"ASHAPURMIN"},"size":10428,"modificationTime":1649310471537,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310471540,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":54,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10428"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

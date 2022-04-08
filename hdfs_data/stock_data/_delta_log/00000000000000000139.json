@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JASH/part-00000-ec3a5e22-1364-4e57-8d77-269924d3d8b0.c000.snappy.parquet","partitionValues":{"Company_Name":"JASH"},"size":10515,"modificationTime":1649310567236,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310567238,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":138,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10515"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

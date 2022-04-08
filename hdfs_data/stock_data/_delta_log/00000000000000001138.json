@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AGARIND/part-00000-1b998344-a124-4cef-8069-2a3a6b522ebe.c000.snappy.parquet","partitionValues":{"Company_Name":"AGARIND"},"size":10157,"modificationTime":1649311946049,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311946056,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1137,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10157"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

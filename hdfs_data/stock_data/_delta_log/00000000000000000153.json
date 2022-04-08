@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SJVN/part-00000-14e56599-f1b9-43ae-af30-98f69016d436.c000.snappy.parquet","partitionValues":{"Company_Name":"SJVN"},"size":7912,"modificationTime":1649310581662,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310581664,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":152,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7912"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

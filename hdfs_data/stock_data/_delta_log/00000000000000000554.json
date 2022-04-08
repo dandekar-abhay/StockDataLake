@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ORIENTALTL/part-00000-5335a02b-93d8-459a-ad54-0bd2e695ba7a.c000.snappy.parquet","partitionValues":{"Company_Name":"ORIENTALTL"},"size":7787,"modificationTime":1649311118393,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311118401,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":553,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7787"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

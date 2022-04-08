@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TALBROAUTO/part-00000-1150a24a-6288-4e8a-b763-8b7c594649de.c000.snappy.parquet","partitionValues":{"Company_Name":"TALBROAUTO"},"size":10148,"modificationTime":1649312008923,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312008928,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1182,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10148"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

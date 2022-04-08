@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VIDHIING/part-00000-a491089e-aba2-4a68-92a9-85e8ceae7c1c.c000.snappy.parquet","partitionValues":{"Company_Name":"VIDHIING"},"size":10156,"modificationTime":1649310642548,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310642556,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":205,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10156"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

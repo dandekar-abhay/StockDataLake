@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHYAMMETL/part-00000-52998d7f-b37c-4ed6-b0f9-38c64677630f.c000.snappy.parquet","partitionValues":{"Company_Name":"SHYAMMETL"},"size":6557,"modificationTime":1649311615553,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311615555,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":894,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"131","numOutputBytes":"6557"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

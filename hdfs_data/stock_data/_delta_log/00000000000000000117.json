@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PROZONINTU/part-00000-068cc603-dc3e-4e62-bdf1-120bac4d2a46.c000.snappy.parquet","partitionValues":{"Company_Name":"PROZONINTU"},"size":9731,"modificationTime":1649310542557,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310542559,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":116,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9731"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

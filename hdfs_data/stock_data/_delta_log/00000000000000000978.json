@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHRENIK/part-00000-3e28b1c6-f333-43f0-b830-e1b0af0d1e57.c000.snappy.parquet","partitionValues":{"Company_Name":"SHRENIK"},"size":6792,"modificationTime":1649311727695,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311727700,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":977,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6792"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

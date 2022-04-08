@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANIKINDS/part-00000-95522e71-551f-4ba0-b8d2-59c399d2f174.c000.snappy.parquet","partitionValues":{"Company_Name":"ANIKINDS"},"size":9162,"modificationTime":1649310421234,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310421238,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":13,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9162"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

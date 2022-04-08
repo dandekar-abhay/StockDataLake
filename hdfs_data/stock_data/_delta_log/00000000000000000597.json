@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PATELENG/part-00000-a3902d43-2980-4bf4-b5dc-d57df0ec507f.c000.snappy.parquet","partitionValues":{"Company_Name":"PATELENG"},"size":9312,"modificationTime":1649311177821,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311177824,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":596,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9312"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

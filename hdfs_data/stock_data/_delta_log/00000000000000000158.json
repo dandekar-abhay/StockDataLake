@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WEBELSOLAR/part-00000-4d410f14-0396-4e1d-83fe-2a40c3f4870e.c000.snappy.parquet","partitionValues":{"Company_Name":"WEBELSOLAR"},"size":10505,"modificationTime":1649310586759,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310586765,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":157,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10505"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

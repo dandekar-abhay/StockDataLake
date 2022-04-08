@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=STYLAMIND/part-00000-cdab8c8b-430f-4775-a641-a7527dde96f6.c000.snappy.parquet","partitionValues":{"Company_Name":"STYLAMIND"},"size":5864,"modificationTime":1649311464202,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311464209,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":787,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"105","numOutputBytes":"5864"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

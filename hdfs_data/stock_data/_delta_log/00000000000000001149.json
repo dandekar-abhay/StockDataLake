@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AEGISCHEM/part-00000-fa9481db-b842-4d41-a266-9565326285eb.c000.snappy.parquet","partitionValues":{"Company_Name":"AEGISCHEM"},"size":10276,"modificationTime":1649311960985,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311960993,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1148,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10276"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

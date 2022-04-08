@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HINDUNILVR/part-00000-6d8c5fb2-ba35-4a90-b259-7883f6d9c666.c000.snappy.parquet","partitionValues":{"Company_Name":"HINDUNILVR"},"size":10480,"modificationTime":1649311315832,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311315840,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":686,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10480"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

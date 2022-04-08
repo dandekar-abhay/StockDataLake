@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KOVAI/part-00000-9ce2d7ee-92c0-4251-bc56-7536b1e076ce.c000.snappy.parquet","partitionValues":{"Company_Name":"KOVAI"},"size":5698,"modificationTime":1649310687572,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310687578,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":242,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"102","numOutputBytes":"5698"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CYBERTECH/part-00000-27f76fd5-6b50-4d45-8ba1-50b1eced7ae7.c000.snappy.parquet","partitionValues":{"Company_Name":"CYBERTECH"},"size":10513,"modificationTime":1649310530463,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310530470,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":105,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10513"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

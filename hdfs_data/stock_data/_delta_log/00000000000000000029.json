@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SANCO/part-00000-e9b23d81-3944-464d-b0d1-927d4dd1e844.c000.snappy.parquet","partitionValues":{"Company_Name":"SANCO"},"size":7965,"modificationTime":1649310439315,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310439318,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":28,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7965"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

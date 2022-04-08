@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RUCHIRA/part-00000-05f0fee2-f3a6-402e-8192-25b093863ae4.c000.snappy.parquet","partitionValues":{"Company_Name":"RUCHIRA"},"size":10195,"modificationTime":1649311492776,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311492782,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":807,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10195"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

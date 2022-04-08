@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=APOLLOPIPE/part-00000-e96eaa00-c17d-46a0-a2da-15784170a333.c000.snappy.parquet","partitionValues":{"Company_Name":"APOLLOPIPE"},"size":10172,"modificationTime":1649310610977,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310610979,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":178,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10172"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

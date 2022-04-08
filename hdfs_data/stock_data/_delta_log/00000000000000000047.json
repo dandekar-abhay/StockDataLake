@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDUSTOWER/part-00000-4e9c8bd4-0a17-4783-98f9-11c777cf5c15.c000.snappy.parquet","partitionValues":{"Company_Name":"INDUSTOWER"},"size":10582,"modificationTime":1649310462170,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310462177,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":46,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10582"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

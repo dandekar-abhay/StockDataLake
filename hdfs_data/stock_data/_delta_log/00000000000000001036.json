@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NFL/part-00000-ea331be8-f07f-4885-b7bd-1ca9abd69e8b.c000.snappy.parquet","partitionValues":{"Company_Name":"NFL"},"size":10064,"modificationTime":1649311807011,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311807017,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1035,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10064"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

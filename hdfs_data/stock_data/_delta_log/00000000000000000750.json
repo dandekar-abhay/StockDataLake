@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VSTTILLERS/part-00000-bbddb2ca-8cf5-4469-acfd-2a7a240cc465.c000.snappy.parquet","partitionValues":{"Company_Name":"VSTTILLERS"},"size":10384,"modificationTime":1649311409157,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311409159,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":749,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10384"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

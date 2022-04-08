@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SRF/part-00000-05a03959-75d3-44e3-a4eb-4c9807c2159d.c000.snappy.parquet","partitionValues":{"Company_Name":"SRF"},"size":10353,"modificationTime":1649311993737,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311993745,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1171,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10353"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

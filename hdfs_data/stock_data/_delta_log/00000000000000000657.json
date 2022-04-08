@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MINDACORP/part-00000-99309553-c43b-4b99-932b-f6d7125394d2.c000.snappy.parquet","partitionValues":{"Company_Name":"MINDACORP"},"size":10358,"modificationTime":1649311272148,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311272156,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":656,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10358"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

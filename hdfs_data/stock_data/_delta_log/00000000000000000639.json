@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BROOKS/part-00000-65a6f0dc-3157-40b5-bbfe-55cfaca562b2.c000.snappy.parquet","partitionValues":{"Company_Name":"BROOKS"},"size":10092,"modificationTime":1649311243668,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311243673,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":638,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10092"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

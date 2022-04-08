@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BINDALAGRO/part-00000-5d938215-fd84-44e1-958d-f975c759e704.c000.snappy.parquet","partitionValues":{"Company_Name":"BINDALAGRO"},"size":9277,"modificationTime":1649311325089,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311325092,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":692,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9277"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

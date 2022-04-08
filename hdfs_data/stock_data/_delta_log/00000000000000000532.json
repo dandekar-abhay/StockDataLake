@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WHEELS/part-00000-490a6963-7bf7-452b-8f7e-2569ca472a86.c000.snappy.parquet","partitionValues":{"Company_Name":"WHEELS"},"size":10153,"modificationTime":1649311087723,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311087730,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":531,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10153"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

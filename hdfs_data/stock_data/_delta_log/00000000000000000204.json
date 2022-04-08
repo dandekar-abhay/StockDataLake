@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CAPACITE/part-00000-5a492c00-dd69-438c-8c55-689660177da2.c000.snappy.parquet","partitionValues":{"Company_Name":"CAPACITE"},"size":10189,"modificationTime":1649310640272,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310640274,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":203,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10189"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

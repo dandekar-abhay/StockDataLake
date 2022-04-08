@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RELIANCE/part-00000-b340d1d6-4a0d-4d93-986b-6e71dac73088.c000.snappy.parquet","partitionValues":{"Company_Name":"RELIANCE"},"size":10350,"modificationTime":1649311161961,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311161967,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":584,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10350"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

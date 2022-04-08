@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CHALET/part-00000-b9a9b00c-2ad8-4694-b0d6-7c40dcf8492d.c000.snappy.parquet","partitionValues":{"Company_Name":"CHALET"},"size":10466,"modificationTime":1649311433109,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311433116,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":765,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10466"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

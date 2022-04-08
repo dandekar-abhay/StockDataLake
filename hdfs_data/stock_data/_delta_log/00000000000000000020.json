@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VISAKAIND/part-00000-c18f931e-5cc6-41a3-8dfb-713206a1031b.c000.snappy.parquet","partitionValues":{"Company_Name":"VISAKAIND"},"size":10126,"modificationTime":1649310428287,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310428291,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":19,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10126"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

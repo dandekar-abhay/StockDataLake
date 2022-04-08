@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MOTHERSUMI/part-00000-39edda5b-228e-450c-af1a-cf950cdca213.c000.snappy.parquet","partitionValues":{"Company_Name":"MOTHERSUMI"},"size":10203,"modificationTime":1649310877209,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310877217,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":384,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10203"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAHESHWARI/part-00000-4878ea78-12ee-4d42-a904-77e17093ac91.c000.snappy.parquet","partitionValues":{"Company_Name":"MAHESHWARI"},"size":10253,"modificationTime":1649310593005,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310593009,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":162,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10253"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

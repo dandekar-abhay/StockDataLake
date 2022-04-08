@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IRIS/part-00000-c2d176b3-ebbe-43d1-9d7e-b52669091c85.c000.snappy.parquet","partitionValues":{"Company_Name":"IRIS"},"size":3711,"modificationTime":1649310456726,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310456729,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":42,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"39","numOutputBytes":"3711"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

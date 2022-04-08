@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAZDOCK/part-00000-39c0deb8-48d6-43e4-a3ec-9f54719c6586.c000.snappy.parquet","partitionValues":{"Company_Name":"MAZDOCK"},"size":10282,"modificationTime":1649310865878,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310865886,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":376,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10282"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

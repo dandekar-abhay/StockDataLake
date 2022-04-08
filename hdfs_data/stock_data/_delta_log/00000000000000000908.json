@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DANGEE/part-00000-a3d2c942-bac5-47ed-a006-0c25eb2a6aa0.c000.snappy.parquet","partitionValues":{"Company_Name":"DANGEE"},"size":10133,"modificationTime":1649311634861,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311634869,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":907,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10133"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

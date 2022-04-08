@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHREYANIND/part-00000-0a368998-ff2d-4131-b3c8-e8f124ba05f3.c000.snappy.parquet","partitionValues":{"Company_Name":"SHREYANIND"},"size":10452,"modificationTime":1649311051429,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311051432,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":506,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10452"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

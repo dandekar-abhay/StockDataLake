@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BFINVEST/part-00000-4cdff326-a80e-49eb-82ef-7579089653f9.c000.snappy.parquet","partitionValues":{"Company_Name":"BFINVEST"},"size":10007,"modificationTime":1649310689894,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310689897,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":244,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10007"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

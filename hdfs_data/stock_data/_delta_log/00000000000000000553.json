@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BDL/part-00000-491af2d7-3495-4b8c-8f82-c71317603855.c000.snappy.parquet","partitionValues":{"Company_Name":"BDL"},"size":10261,"modificationTime":1649311117026,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311117029,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":552,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10261"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

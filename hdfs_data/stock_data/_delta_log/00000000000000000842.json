@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SKFINDIA/part-00000-fc08c65a-38da-4e66-b901-d06a6ad94e87.c000.snappy.parquet","partitionValues":{"Company_Name":"SKFINDIA"},"size":10530,"modificationTime":1649311540448,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311540456,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":841,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10530"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

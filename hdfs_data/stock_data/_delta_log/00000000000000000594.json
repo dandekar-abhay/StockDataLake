@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EDELWEISS/part-00000-908cf3b4-8070-4d72-a14a-dcb963f2e75d.c000.snappy.parquet","partitionValues":{"Company_Name":"EDELWEISS"},"size":10234,"modificationTime":1649311174528,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311174538,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":593,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10234"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

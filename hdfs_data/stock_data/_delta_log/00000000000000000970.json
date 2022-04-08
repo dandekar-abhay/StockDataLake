@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RANEHOLDIN/part-00000-e13dd939-d673-4a07-941c-8697c7a46230.c000.snappy.parquet","partitionValues":{"Company_Name":"RANEHOLDIN"},"size":10410,"modificationTime":1649311717291,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311717298,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":969,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10410"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

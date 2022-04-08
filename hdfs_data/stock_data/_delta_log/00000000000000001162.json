@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BBTC/part-00000-1e01d042-865c-49a9-b316-9917a83b1642.c000.snappy.parquet","partitionValues":{"Company_Name":"BBTC"},"size":10139,"modificationTime":1649311979309,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311979316,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1161,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10139"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AURUM/part-00000-42061f00-cbea-4cb8-82da-18a7e3f3ddf0.c000.snappy.parquet","partitionValues":{"Company_Name":"AURUM"},"size":10622,"modificationTime":1649312007905,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312007913,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1181,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10622"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

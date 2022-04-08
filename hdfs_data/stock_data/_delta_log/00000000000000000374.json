@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=YUKEN/part-00000-91698049-a82f-4add-a59e-39ec8f83e207.c000.snappy.parquet","partitionValues":{"Company_Name":"YUKEN"},"size":5293,"modificationTime":1649310862152,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310862160,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":373,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"83","numOutputBytes":"5293"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

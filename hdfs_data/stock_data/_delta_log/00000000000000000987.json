@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAGNUM/part-00000-2b7c1cff-871c-47b8-b74a-694b39a345eb.c000.snappy.parquet","partitionValues":{"Company_Name":"MAGNUM"},"size":7755,"modificationTime":1649311739158,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311739161,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":986,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"244","numOutputBytes":"7755"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

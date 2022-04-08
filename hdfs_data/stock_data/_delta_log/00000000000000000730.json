@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAGADSUGAR/part-00000-91bf6c12-64a1-4655-96e1-d9d163049f54.c000.snappy.parquet","partitionValues":{"Company_Name":"MAGADSUGAR"},"size":10346,"modificationTime":1649311380368,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311380377,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":729,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10346"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

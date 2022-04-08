@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VLSFINANCE/part-00000-7c8d0097-020f-49f0-a4a3-56cab2c67b0a.c000.snappy.parquet","partitionValues":{"Company_Name":"VLSFINANCE"},"size":10482,"modificationTime":1649311541413,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311541418,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":842,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10482"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

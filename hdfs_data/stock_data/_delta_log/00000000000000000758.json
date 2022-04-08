@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAGREEKEXP/part-00000-4d25ecb3-f005-4d65-85d3-e744667d7fc1.c000.snappy.parquet","partitionValues":{"Company_Name":"NAGREEKEXP"},"size":9818,"modificationTime":1649311421314,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311421320,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":757,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9818"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

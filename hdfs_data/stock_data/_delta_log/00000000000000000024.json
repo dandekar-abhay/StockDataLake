@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ROSSELLIND/part-00000-9f33a404-3ad3-4079-809d-dd1749a1de73.c000.snappy.parquet","partitionValues":{"Company_Name":"ROSSELLIND"},"size":10413,"modificationTime":1649310432992,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310432996,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":23,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10413"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

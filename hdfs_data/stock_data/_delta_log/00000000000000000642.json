@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RATEGAIN/part-00000-2968da27-80d2-4ebc-9fd4-bffd8555a89d.c000.snappy.parquet","partitionValues":{"Company_Name":"RATEGAIN"},"size":2783,"modificationTime":1649311249042,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311249044,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":641,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"11","numOutputBytes":"2783"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

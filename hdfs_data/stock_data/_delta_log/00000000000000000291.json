@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SMARTLINK/part-00000-e769531c-f03d-4547-b11a-6230781261c0.c000.snappy.parquet","partitionValues":{"Company_Name":"SMARTLINK"},"size":10313,"modificationTime":1649310750338,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310750341,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":290,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10313"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GODFRYPHLP/part-00000-ebbfc0cc-258f-409d-8b68-6366d654d3fc.c000.snappy.parquet","partitionValues":{"Company_Name":"GODFRYPHLP"},"size":10081,"modificationTime":1649311826896,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311826902,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1051,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10081"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

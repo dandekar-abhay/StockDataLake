@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HONDAPOWER/part-00000-0f9c5a88-f6ad-4fb2-970d-9f12cc85b9c1.c000.snappy.parquet","partitionValues":{"Company_Name":"HONDAPOWER"},"size":10215,"modificationTime":1649311078860,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311078868,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":525,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10215"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

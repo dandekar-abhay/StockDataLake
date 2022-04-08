@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NDRAUTO/part-00000-5cd3fbbe-9ade-4d2b-907d-9d5f5e1b8959.c000.snappy.parquet","partitionValues":{"Company_Name":"NDRAUTO"},"size":10385,"modificationTime":1649310618923,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310618926,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":185,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10385"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

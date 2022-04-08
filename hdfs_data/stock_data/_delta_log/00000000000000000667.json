@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RAMANEWS/part-00000-e742773a-b9c8-4699-8abe-575e16dc942f.c000.snappy.parquet","partitionValues":{"Company_Name":"RAMANEWS"},"size":8429,"modificationTime":1649311285283,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311285289,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":666,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8429"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

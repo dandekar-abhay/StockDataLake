@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJAJHLDNG/part-00000-551151fa-6034-4c05-a58d-4e0d749b30dd.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJAJHLDNG"},"size":10624,"modificationTime":1649311112681,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311112689,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":549,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10624"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

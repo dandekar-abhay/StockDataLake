@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADROITINFO/part-00000-736ae8f9-fde0-40e1-84d8-7fb30c5eb0b7.c000.snappy.parquet","partitionValues":{"Company_Name":"ADROITINFO"},"size":7845,"modificationTime":1649312035724,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312035729,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1202,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7845"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

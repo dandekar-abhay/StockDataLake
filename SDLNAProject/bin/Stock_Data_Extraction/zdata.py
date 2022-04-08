@@ -1,5 +1,4 @@
 import click
-import pickle as pk
 import csv
 from jugaad_trader import Zerodha
 

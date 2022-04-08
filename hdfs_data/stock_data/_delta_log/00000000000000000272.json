@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WELSPUNIND/part-00000-1d154b07-ba57-4780-9b62-cfa052a55d51.c000.snappy.parquet","partitionValues":{"Company_Name":"WELSPUNIND"},"size":10379,"modificationTime":1649310724948,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310724955,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":271,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10379"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

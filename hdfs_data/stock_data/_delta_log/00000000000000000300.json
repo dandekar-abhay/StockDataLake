@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MOL/part-00000-76d0003a-3067-42a6-9c3f-1419856131a2.c000.snappy.parquet","partitionValues":{"Company_Name":"MOL"},"size":5431,"modificationTime":1649310762205,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310762208,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":299,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"93","numOutputBytes":"5431"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

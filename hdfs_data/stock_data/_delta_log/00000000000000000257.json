@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CLNINDIA/part-00000-22cb338b-47ec-477d-b9fd-b3cf20583131.c000.snappy.parquet","partitionValues":{"Company_Name":"CLNINDIA"},"size":10191,"modificationTime":1649310705438,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310705444,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":256,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10191"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

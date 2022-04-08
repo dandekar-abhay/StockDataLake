@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AJMERA/part-00000-c1fb5e40-ef41-4f30-8577-1992e58bdd7e.c000.snappy.parquet","partitionValues":{"Company_Name":"AJMERA"},"size":10104,"modificationTime":1649310669470,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310669473,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":228,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10104"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

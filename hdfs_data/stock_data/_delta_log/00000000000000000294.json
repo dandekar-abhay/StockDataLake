@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PAYTM/part-00000-e26df3af-79a7-4e86-afd4-895d82a66f9a.c000.snappy.parquet","partitionValues":{"Company_Name":"PAYTM"},"size":3492,"modificationTime":1649310754403,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310754410,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":293,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"31","numOutputBytes":"3492"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

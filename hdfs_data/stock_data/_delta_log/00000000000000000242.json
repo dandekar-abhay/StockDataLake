@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SANGHVIMOV/part-00000-7a662ec8-e75d-4bc2-92e6-3b2a33a92984.c000.snappy.parquet","partitionValues":{"Company_Name":"SANGHVIMOV"},"size":10377,"modificationTime":1649310686190,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310686192,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":241,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10377"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

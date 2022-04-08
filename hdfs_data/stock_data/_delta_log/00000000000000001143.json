@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BBOX/part-00000-7726e4c5-bf21-4757-8e01-0daedba49c69.c000.snappy.parquet","partitionValues":{"Company_Name":"BBOX"},"size":10206,"modificationTime":1649311953231,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311953237,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1142,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10206"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KELLTONTEC/part-00000-aca23fd1-1c5e-458b-a16a-fb4b97f1d7c6.c000.snappy.parquet","partitionValues":{"Company_Name":"KELLTONTEC"},"size":10344,"modificationTime":1649311314343,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311314350,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":685,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10344"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

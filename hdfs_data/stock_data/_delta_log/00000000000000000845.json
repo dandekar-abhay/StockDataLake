@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAYAGROGN/part-00000-dd072322-740e-4c33-9c39-7b949b10a9af.c000.snappy.parquet","partitionValues":{"Company_Name":"JAYAGROGN"},"size":10202,"modificationTime":1649311544186,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311544188,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":844,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10202"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

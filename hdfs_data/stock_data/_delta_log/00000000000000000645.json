@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AVADHSUGAR/part-00000-7519f5c6-c94d-4cd4-be24-e03b49daea41.c000.snappy.parquet","partitionValues":{"Company_Name":"AVADHSUGAR"},"size":10174,"modificationTime":1649311253687,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311253695,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":644,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10174"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHARATRAS/part-00000-8310193d-d1c8-427b-9206-9f2225ae1035.c000.snappy.parquet","partitionValues":{"Company_Name":"BHARATRAS"},"size":10809,"modificationTime":1649311187619,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311187624,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":602,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10809"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

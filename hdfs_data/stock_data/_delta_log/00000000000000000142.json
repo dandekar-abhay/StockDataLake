@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDOSTAR/part-00000-71f4361a-0d63-4569-a3d6-d4aaa210eec5.c000.snappy.parquet","partitionValues":{"Company_Name":"INDOSTAR"},"size":10309,"modificationTime":1649310570358,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310570360,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":141,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10309"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HSIL/part-00000-1121d444-a62f-4398-a201-44dd91e70c5e.c000.snappy.parquet","partitionValues":{"Company_Name":"HSIL"},"size":10360,"modificationTime":1649311080239,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311080246,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":526,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10360"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

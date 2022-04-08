@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MADRASFERT/part-00000-a70a0bde-08e4-4ded-8721-9826470a4335.c000.snappy.parquet","partitionValues":{"Company_Name":"MADRASFERT"},"size":8876,"modificationTime":1649310723580,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310723587,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":270,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8876"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

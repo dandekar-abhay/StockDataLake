@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IRISDOREME/part-00000-7818bdde-76d9-4ba1-a757-b0e25a0c5d08.c000.snappy.parquet","partitionValues":{"Company_Name":"IRISDOREME"},"size":9326,"modificationTime":1649311617341,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311617349,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":895,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"213","numOutputBytes":"9326"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

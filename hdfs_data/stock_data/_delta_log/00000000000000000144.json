@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FEDERALBNK/part-00000-a3640f81-3a0d-4feb-bb2e-380835fe5d8d.c000.snappy.parquet","partitionValues":{"Company_Name":"FEDERALBNK"},"size":9953,"modificationTime":1649310572247,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310572250,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":143,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9953"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

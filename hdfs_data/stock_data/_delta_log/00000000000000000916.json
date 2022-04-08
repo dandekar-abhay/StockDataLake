@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ORIENTPPR/part-00000-9f209e23-baef-4a52-b296-93af16d9f3d2.c000.snappy.parquet","partitionValues":{"Company_Name":"ORIENTPPR"},"size":9254,"modificationTime":1649311646450,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311646456,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":915,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9254"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

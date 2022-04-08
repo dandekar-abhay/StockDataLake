@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDIGOPNTS/part-00000-5dcc15a3-da77-4749-b51e-a179e627defd.c000.snappy.parquet","partitionValues":{"Company_Name":"INDIGOPNTS"},"size":10025,"modificationTime":1649310621214,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310621217,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":187,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"227","numOutputBytes":"10025"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

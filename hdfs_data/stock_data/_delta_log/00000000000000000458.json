@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EXPLEOSOL/part-00000-ec8e77df-3ecc-4d0b-930b-ce54ed48bdc6.c000.snappy.parquet","partitionValues":{"Company_Name":"EXPLEOSOL"},"size":10260,"modificationTime":1649310979926,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310979934,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":457,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10260"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

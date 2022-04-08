@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BANKA/part-00000-7b0856a2-8178-4f58-91c4-8af8e45261ee.c000.snappy.parquet","partitionValues":{"Company_Name":"BANKA"},"size":9911,"modificationTime":1649310424730,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310424734,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":16,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9911"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

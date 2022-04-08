@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TASTYBITE/part-00000-12e4dddb-1475-4198-895f-1b7aad8ad435.c000.snappy.parquet","partitionValues":{"Company_Name":"TASTYBITE"},"size":10962,"modificationTime":1649311203006,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311203014,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":611,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10962"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

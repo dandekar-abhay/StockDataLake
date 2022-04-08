@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANDHRSUGAR/part-00000-36e815c3-0f01-4028-b590-969c3a02ff86.c000.snappy.parquet","partitionValues":{"Company_Name":"ANDHRSUGAR"},"size":10449,"modificationTime":1649311238325,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311238332,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":635,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10449"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

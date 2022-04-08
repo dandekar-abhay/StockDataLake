@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GALLISPAT/part-00000-0cfa47b7-60d0-4a36-8690-074df1640035.c000.snappy.parquet","partitionValues":{"Company_Name":"GALLISPAT"},"size":9762,"modificationTime":1649311444415,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311444421,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":772,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9762"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

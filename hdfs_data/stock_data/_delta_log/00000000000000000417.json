@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KITEX/part-00000-e017d829-20a6-44a1-974d-ca7383ec1fc2.c000.snappy.parquet","partitionValues":{"Company_Name":"KITEX"},"size":10681,"modificationTime":1649310921292,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310921295,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":416,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10681"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

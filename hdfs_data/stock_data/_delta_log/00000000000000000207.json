@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TMRVL/part-00000-3672cc02-8396-4f6d-af5e-6d62cddc8ef2.c000.snappy.parquet","partitionValues":{"Company_Name":"TMRVL"},"size":8548,"modificationTime":1649310643504,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310643506,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":206,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8548"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

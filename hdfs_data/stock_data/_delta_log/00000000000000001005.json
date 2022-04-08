@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANDHRAPAP/part-00000-4a7cd5cf-e039-4bab-b398-146d232662ce.c000.snappy.parquet","partitionValues":{"Company_Name":"ANDHRAPAP"},"size":10446,"modificationTime":1649311765737,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311765745,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1004,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10446"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

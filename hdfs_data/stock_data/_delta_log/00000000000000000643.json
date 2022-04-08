@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WINPRO/part-00000-5f765ec2-203f-4aa1-b52d-ac19ff6487cd.c000.snappy.parquet","partitionValues":{"Company_Name":"WINPRO"},"size":8134,"modificationTime":1649311250515,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311250518,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":642,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8134"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

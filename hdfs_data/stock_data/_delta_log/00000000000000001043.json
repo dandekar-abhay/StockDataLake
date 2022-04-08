@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHIVAMILLS/part-00000-21416374-8fe0-4165-a99d-795dbca3262a.c000.snappy.parquet","partitionValues":{"Company_Name":"SHIVAMILLS"},"size":10037,"modificationTime":1649311815100,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311815102,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1042,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10037"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

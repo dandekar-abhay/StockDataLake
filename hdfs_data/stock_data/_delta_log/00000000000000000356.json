@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NELCAST/part-00000-6cea082d-aadc-4d36-80c4-5a7845447a16.c000.snappy.parquet","partitionValues":{"Company_Name":"NELCAST"},"size":10335,"modificationTime":1649310837730,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310837736,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":355,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10335"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUPRIYA/part-00000-c78be53b-2cda-4fdd-93f5-15c7f9572c65.c000.snappy.parquet","partitionValues":{"Company_Name":"SUPRIYA"},"size":2467,"modificationTime":1649310526455,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310526458,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":101,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"4","numOutputBytes":"2467"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

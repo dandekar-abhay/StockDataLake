@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PFOCUS/part-00000-01ea63ff-c275-4b58-8a2a-ca3613401978.c000.snappy.parquet","partitionValues":{"Company_Name":"PFOCUS"},"size":10444,"modificationTime":1649311698093,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311698095,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":954,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10444"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

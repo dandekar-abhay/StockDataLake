@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LUXIND/part-00000-f20c61b4-9599-4246-9af0-765f60142e39.c000.snappy.parquet","partitionValues":{"Company_Name":"LUXIND"},"size":10515,"modificationTime":1649311668189,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311668197,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":932,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10515"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

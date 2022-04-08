@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MORARJEE/part-00000-0c907962-835a-4f87-9e26-1bdc6436a50f.c000.snappy.parquet","partitionValues":{"Company_Name":"MORARJEE"},"size":8925,"modificationTime":1649311703632,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311703639,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":958,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8925"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

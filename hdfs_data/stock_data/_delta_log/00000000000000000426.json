@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ITC/part-00000-bce6ac49-2c21-4a4b-bdc9-96592dffe625.c000.snappy.parquet","partitionValues":{"Company_Name":"ITC"},"size":10208,"modificationTime":1649310934679,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310934687,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":425,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10208"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

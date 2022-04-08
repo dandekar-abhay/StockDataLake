@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PDMJEPAPER/part-00000-1d828002-36db-4572-bcb1-f2d7e85d8c86.c000.snappy.parquet","partitionValues":{"Company_Name":"PDMJEPAPER"},"size":9692,"modificationTime":1649310475634,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310475637,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":58,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9692"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

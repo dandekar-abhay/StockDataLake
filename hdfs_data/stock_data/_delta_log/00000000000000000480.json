@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANUP/part-00000-41d81bdb-885c-48f9-bf27-c44ec87f8396.c000.snappy.parquet","partitionValues":{"Company_Name":"ANUP"},"size":10304,"modificationTime":1649311011365,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311011371,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":479,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10304"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

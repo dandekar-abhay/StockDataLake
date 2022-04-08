@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INFIBEAM/part-00000-26b43f33-3939-41cd-987a-e65ec47fb339.c000.snappy.parquet","partitionValues":{"Company_Name":"INFIBEAM"},"size":8356,"modificationTime":1649310819042,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310819049,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":341,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8356"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

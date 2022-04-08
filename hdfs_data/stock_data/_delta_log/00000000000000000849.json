@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PRECOT/part-00000-8b9f8bdf-850f-4801-b65b-7a5215e3e259.c000.snappy.parquet","partitionValues":{"Company_Name":"PRECOT"},"size":10182,"modificationTime":1649311549705,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311549712,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":848,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10182"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

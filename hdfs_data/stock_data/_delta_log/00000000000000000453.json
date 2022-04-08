@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADFFOODS/part-00000-729ae8a2-53a9-4772-a145-ca93ee6c264a.c000.snappy.parquet","partitionValues":{"Company_Name":"ADFFOODS"},"size":10384,"modificationTime":1649310972603,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310972609,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":452,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10384"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WOCKPHARMA/part-00000-58669ec6-0728-4c34-a13e-8f194814c702.c000.snappy.parquet","partitionValues":{"Company_Name":"WOCKPHARMA"},"size":10118,"modificationTime":1649311367540,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311367548,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":720,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

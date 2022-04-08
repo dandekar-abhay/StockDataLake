@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ALKYLAMINE/part-00000-3eb6ae2a-cdbc-4be8-9f3e-35f8644ba300.c000.snappy.parquet","partitionValues":{"Company_Name":"ALKYLAMINE"},"size":10575,"modificationTime":1649311083395,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311083402,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":528,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10575"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OFSS/part-00000-56ff1b8d-a9ec-422e-8ebb-91e533dde7f3.c000.snappy.parquet","partitionValues":{"Company_Name":"OFSS"},"size":10587,"modificationTime":1649310588144,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310588155,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":158,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10587"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

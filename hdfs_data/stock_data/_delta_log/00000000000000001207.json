@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TTKPRESTIG/part-00000-2f7460fd-27c9-4bc8-97d9-e6a27b1f03dd.c000.snappy.parquet","partitionValues":{"Company_Name":"TTKPRESTIG"},"size":10091,"modificationTime":1649312040790,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312040797,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1206,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10091"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

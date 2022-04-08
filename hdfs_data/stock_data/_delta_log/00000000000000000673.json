@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RHFL/part-00000-26e8dda0-2d31-420c-900f-0ececbdfcdf3.c000.snappy.parquet","partitionValues":{"Company_Name":"RHFL"},"size":7113,"modificationTime":1649311294456,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311294458,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":672,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7113"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

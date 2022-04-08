@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJFINANCE/part-00000-448921a9-b4db-4eb3-a941-d089f62fb8f4.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJFINANCE"},"size":10608,"modificationTime":1649311998376,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311998379,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1175,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10608"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GULFOILLUB/part-00000-192fa7fc-45c7-4e81-8ca2-8988433bc7ed.c000.snappy.parquet","partitionValues":{"Company_Name":"GULFOILLUB"},"size":9986,"modificationTime":1649310971630,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310971637,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":451,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9986"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

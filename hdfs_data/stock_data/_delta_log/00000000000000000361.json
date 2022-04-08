@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PATINTLOG/part-00000-e3dfbdb9-b95f-46e0-b214-a02430ed1e90.c000.snappy.parquet","partitionValues":{"Company_Name":"PATINTLOG"},"size":8109,"modificationTime":1649310844982,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310844990,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":360,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8109"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

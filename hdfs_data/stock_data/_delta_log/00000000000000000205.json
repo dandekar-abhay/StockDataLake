@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ULTRACEMCO/part-00000-cd16bee1-95f7-43b3-83a4-1ce02fe5acbf.c000.snappy.parquet","partitionValues":{"Company_Name":"ULTRACEMCO"},"size":10662,"modificationTime":1649310641204,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310641207,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":204,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10662"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

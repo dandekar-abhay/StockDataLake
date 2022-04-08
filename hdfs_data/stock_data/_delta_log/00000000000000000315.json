@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BOROLTD/part-00000-bdee9899-14de-4def-8583-817e6be9da28.c000.snappy.parquet","partitionValues":{"Company_Name":"BOROLTD"},"size":10406,"modificationTime":1649310782807,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310782815,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":314,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10406"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

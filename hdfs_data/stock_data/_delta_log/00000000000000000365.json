@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DHANUKA/part-00000-19232896-9f96-4d44-afe9-d1b4691b9241.c000.snappy.parquet","partitionValues":{"Company_Name":"DHANUKA"},"size":10190,"modificationTime":1649310850031,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310850033,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":364,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10190"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KILITCH/part-00000-6dc7f111-1b3d-46a4-879c-425535c0bbd3.c000.snappy.parquet","partitionValues":{"Company_Name":"KILITCH"},"size":10179,"modificationTime":1649311887218,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311887221,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1095,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10179"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

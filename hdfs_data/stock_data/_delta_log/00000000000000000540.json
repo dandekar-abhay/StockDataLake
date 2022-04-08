@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INVENTURE/part-00000-fb5adb60-9ce6-4702-9929-5cc49c752c30.c000.snappy.parquet","partitionValues":{"Company_Name":"INVENTURE"},"size":6755,"modificationTime":1649311098699,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311098706,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":539,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6755"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

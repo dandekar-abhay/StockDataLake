@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUPRAJIT/part-00000-6c083689-294e-4673-aab8-6b56299683e4.c000.snappy.parquet","partitionValues":{"Company_Name":"SUPRAJIT"},"size":10049,"modificationTime":1649311986199,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311986206,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1166,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10049"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

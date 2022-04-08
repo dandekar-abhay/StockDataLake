@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TOUCHWOOD/part-00000-34230821-977b-4816-9380-3b74089bee87.c000.snappy.parquet","partitionValues":{"Company_Name":"TOUCHWOOD"},"size":10477,"modificationTime":1649311210990,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311210997,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":617,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10477"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

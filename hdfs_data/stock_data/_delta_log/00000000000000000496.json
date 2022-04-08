@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DEEPAKFERT/part-00000-136215ac-8401-4b9d-b6bd-cd279e133dec.c000.snappy.parquet","partitionValues":{"Company_Name":"DEEPAKFERT"},"size":10128,"modificationTime":1649311036195,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311036203,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":495,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10128"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

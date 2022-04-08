@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SILINV/part-00000-fc8e309d-cee6-46f6-b3dc-a304018d21cf.c000.snappy.parquet","partitionValues":{"Company_Name":"SILINV"},"size":10366,"modificationTime":1649310986508,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310986514,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":461,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10366"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

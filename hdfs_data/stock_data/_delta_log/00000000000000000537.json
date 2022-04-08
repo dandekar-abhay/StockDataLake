@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDRAMEDCO/part-00000-42943fb0-396d-4e67-a6af-1fcca6f079fc.c000.snappy.parquet","partitionValues":{"Company_Name":"INDRAMEDCO"},"size":10123,"modificationTime":1649311094583,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311094586,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":536,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10123"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

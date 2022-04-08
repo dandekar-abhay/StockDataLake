@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MCX/part-00000-ef3dd7f9-85f0-4c35-a88d-3425d83a7d3e.c000.snappy.parquet","partitionValues":{"Company_Name":"MCX"},"size":10241,"modificationTime":1649311320059,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311320066,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":689,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10241"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

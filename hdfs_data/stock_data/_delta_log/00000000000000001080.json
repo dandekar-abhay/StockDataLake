@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HUBTOWN/part-00000-ce1a92bd-ce05-4707-96a6-4e17d6f95452.c000.snappy.parquet","partitionValues":{"Company_Name":"HUBTOWN"},"size":9894,"modificationTime":1649311863540,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311863544,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1079,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9894"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

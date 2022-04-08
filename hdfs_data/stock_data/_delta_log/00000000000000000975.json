@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GEPIL/part-00000-b53a013f-04fc-4535-bfe4-865cf9a4e73a.c000.snappy.parquet","partitionValues":{"Company_Name":"GEPIL"},"size":10243,"modificationTime":1649311723589,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311723591,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":974,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10243"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

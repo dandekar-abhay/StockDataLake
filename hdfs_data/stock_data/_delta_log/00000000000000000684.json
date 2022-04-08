@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VADILALIND/part-00000-932d6949-dffc-4b88-811d-a33d0795bf7b.c000.snappy.parquet","partitionValues":{"Company_Name":"VADILALIND"},"size":10278,"modificationTime":1649311311378,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311311382,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":683,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10278"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

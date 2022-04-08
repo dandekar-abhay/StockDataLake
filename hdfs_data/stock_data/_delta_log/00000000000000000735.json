@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GOKUL/part-00000-89fae0c6-bcf5-47c8-a301-d0f01e7f9d71.c000.snappy.parquet","partitionValues":{"Company_Name":"GOKUL"},"size":9325,"modificationTime":1649311388187,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311388193,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":734,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9325"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

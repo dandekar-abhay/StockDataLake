@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IGL/part-00000-47a8e9eb-b22f-4384-bb02-f8d9eede6866.c000.snappy.parquet","partitionValues":{"Company_Name":"IGL"},"size":10016,"modificationTime":1649311666819,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311666821,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":931,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10016"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

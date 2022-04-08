@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NECLIFE/part-00000-4d2b15fa-b277-46e6-a167-18b97b0bd8fa.c000.snappy.parquet","partitionValues":{"Company_Name":"NECLIFE"},"size":9676,"modificationTime":1649310817711,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310817716,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":340,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9676"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SIKKO/part-00000-f9595693-9419-42a6-96a7-3f6332b89d31.c000.snappy.parquet","partitionValues":{"Company_Name":"SIKKO"},"size":4042,"modificationTime":1649310700798,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310700801,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":252,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"49","numOutputBytes":"4042"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

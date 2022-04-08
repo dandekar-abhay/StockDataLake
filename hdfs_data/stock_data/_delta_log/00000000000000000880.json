@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PURVA/part-00000-46117827-7de6-4038-8d00-98e81920bbaa.c000.snappy.parquet","partitionValues":{"Company_Name":"PURVA"},"size":10216,"modificationTime":1649311593938,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311593945,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":879,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10216"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

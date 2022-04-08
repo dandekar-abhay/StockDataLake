@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PRITIKAUTO/part-00000-057d0415-eab1-426e-ac56-1e5e6cdbe78c.c000.snappy.parquet","partitionValues":{"Company_Name":"PRITIKAUTO"},"size":4937,"modificationTime":1649311138568,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311138574,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":567,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"99","numOutputBytes":"4937"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

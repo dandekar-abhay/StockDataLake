@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KEERTI/part-00000-76e83c26-6d54-48fb-8d8e-e6b60ce1fd07.c000.snappy.parquet","partitionValues":{"Company_Name":"KEERTI"},"size":8740,"modificationTime":1649310957476,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310957479,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":441,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8740"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

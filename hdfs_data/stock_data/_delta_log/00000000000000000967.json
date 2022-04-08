@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNCLAYLTD/part-00000-9c8ac2dc-00b1-411c-aa9b-7a7f19210da7.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNCLAYLTD"},"size":10551,"modificationTime":1649311713582,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311713589,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":966,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10551"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

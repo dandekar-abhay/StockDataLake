@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDIAGLYCO/part-00000-2728cf94-d676-4b57-9654-87ef2be1e326.c000.snappy.parquet","partitionValues":{"Company_Name":"INDIAGLYCO"},"size":10312,"modificationTime":1649311072060,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311072068,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":520,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10312"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

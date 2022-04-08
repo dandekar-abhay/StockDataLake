@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GUFICBIO/part-00000-e38d7659-745a-49a6-ba32-61dd65d5df41.c000.snappy.parquet","partitionValues":{"Company_Name":"GUFICBIO"},"size":10455,"modificationTime":1649311750890,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311750898,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":994,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10455"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BALKRISHNA/part-00000-6273ace5-5242-4d7b-8b97-f60c7630e457.c000.snappy.parquet","partitionValues":{"Company_Name":"BALKRISHNA"},"size":8424,"modificationTime":1649311007660,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311007667,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":476,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"219","numOutputBytes":"8424"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ABBOTINDIA/part-00000-48ed557e-a104-446a-98ca-9847013e88de.c000.snappy.parquet","partitionValues":{"Company_Name":"ABBOTINDIA"},"size":10990,"modificationTime":1649310682211,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310682214,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":238,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10990"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

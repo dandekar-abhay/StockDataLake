@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ECLERX/part-00000-42f2ee00-85a1-40dd-8461-bed239b91352.c000.snappy.parquet","partitionValues":{"Company_Name":"ECLERX"},"size":10324,"modificationTime":1649311649167,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311649175,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":917,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10324"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

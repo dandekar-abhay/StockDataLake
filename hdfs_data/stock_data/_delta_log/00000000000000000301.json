@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EMAMILTD/part-00000-ce495f86-1c3c-4b95-a654-04d810fe22ef.c000.snappy.parquet","partitionValues":{"Company_Name":"EMAMILTD"},"size":10298,"modificationTime":1649310763781,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310763784,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":300,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10298"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

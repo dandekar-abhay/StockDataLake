@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OMAXAUTO/part-00000-d679d231-e680-4590-916e-10baf1cf40b6.c000.snappy.parquet","partitionValues":{"Company_Name":"OMAXAUTO"},"size":9704,"modificationTime":1649310541591,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310541594,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":115,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9704"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

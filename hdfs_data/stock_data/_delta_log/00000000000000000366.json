@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KALYANKJIL/part-00000-71f82555-694c-43b2-a993-c118680aa22a.c000.snappy.parquet","partitionValues":{"Company_Name":"KALYANKJIL"},"size":8375,"modificationTime":1649310851410,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310851413,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":365,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"190","numOutputBytes":"8375"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

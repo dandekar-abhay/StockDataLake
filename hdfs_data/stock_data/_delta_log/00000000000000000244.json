@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MSTCLTD/part-00000-ca7fdf6e-9dc8-4159-b669-43543cf0e971.c000.snappy.parquet","partitionValues":{"Company_Name":"MSTCLTD"},"size":10118,"modificationTime":1649310688935,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310688943,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":243,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}
