@@ -1,0 +1,24 @@
+2022-04-02
+['20MICRONS', '20 Microns Limited']
+gathered: 1.20MICRONS
+['21STCENMGM', '21st Century Management Services Limited']
+gathered: 2.21STCENMGM
+['3IINFOLTD', '3i Infotech Limited']
+gathered: 3.3IINFOLTD
+['3MINDIA', '3M India Limited']
+gathered: 4.3MINDIA
+['3PLAND', '3P Land Holdings Limited']
+gathered: 5.3PLAND
+['5PAISA', '5Paisa Capital Limited']
+gathered: 6.5PAISA
+['63MOONS', '63 moons technologies limited']
+gathered: 7.63MOONS
+['AAKASH', 'Aakash Exploration Services Limited']
+FAILED TO GATHER 7AAKASH
+['AAREYDRUGS', 'Aarey Drugs & Pharmaceuticals Limited']
+gathered: 8.AAREYDRUGS
+['AARON', 'Aaron Industries Limited']
+gathered: 9.AARON
+['AARTIDRUGS', 'Aarti Drugs Limited']
+gathered: 10.AARTIDRUGS
+['AARTIIND', 'Aarti Industries Limited']
