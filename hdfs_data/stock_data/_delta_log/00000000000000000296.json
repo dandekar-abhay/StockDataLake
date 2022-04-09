@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LIBERTSHOE/part-00000-bc4777c7-1951-4896-9f4f-c96a345dcaa2.c000.snappy.parquet","partitionValues":{"Company_Name":"LIBERTSHOE"},"size":10119,"modificationTime":1649310757137,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310757145,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":295,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10119"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

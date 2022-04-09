@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAIPURKURT/part-00000-81533ff3-4359-467b-9cfe-b555f78758a6.c000.snappy.parquet","partitionValues":{"Company_Name":"JAIPURKURT"},"size":5166,"modificationTime":1649311701797,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311701803,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":957,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"83","numOutputBytes":"5166"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAGAFERT/part-00000-325359d7-f10d-4d92-8b8b-e33b5bf5f078.c000.snappy.parquet","partitionValues":{"Company_Name":"NAGAFERT"},"size":8603,"modificationTime":1649312030701,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312030708,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1198,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8603"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

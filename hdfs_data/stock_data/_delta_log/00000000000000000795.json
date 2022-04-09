@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GRINFRA/part-00000-ec5fd753-2b35-4bfd-bac5-7aaf6d351541.c000.snappy.parquet","partitionValues":{"Company_Name":"GRINFRA"},"size":6094,"modificationTime":1649311474400,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311474407,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":794,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"114","numOutputBytes":"6094"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

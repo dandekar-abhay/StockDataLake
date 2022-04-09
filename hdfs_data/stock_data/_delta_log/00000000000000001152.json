@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASHOKLEY/part-00000-2dda2d63-9eeb-420c-a481-be9b7d7422b3.c000.snappy.parquet","partitionValues":{"Company_Name":"ASHOKLEY"},"size":10460,"modificationTime":1649311965792,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311965799,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1151,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10460"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

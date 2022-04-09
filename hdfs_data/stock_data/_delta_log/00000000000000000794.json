@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CAPLIPOINT/part-00000-e572ef3e-6d8b-444b-91ac-6ae9db5f344e.c000.snappy.parquet","partitionValues":{"Company_Name":"CAPLIPOINT"},"size":10163,"modificationTime":1649311473040,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311473045,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":793,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10163"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

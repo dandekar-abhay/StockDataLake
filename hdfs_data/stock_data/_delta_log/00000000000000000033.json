@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PETRONET/part-00000-7d1d38ff-f604-4fb0-bc7a-e61f127fc2f3.c000.snappy.parquet","partitionValues":{"Company_Name":"PETRONET"},"size":10398,"modificationTime":1649310443956,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310443959,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":32,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10398"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

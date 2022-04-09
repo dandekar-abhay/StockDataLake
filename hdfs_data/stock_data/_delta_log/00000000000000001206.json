@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATASTEEL/part-00000-1bc08aab-b760-4e0f-a7c6-92eb4379d2e7.c000.snappy.parquet","partitionValues":{"Company_Name":"TATASTEEL"},"size":10185,"modificationTime":1649312039427,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312039434,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1205,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10185"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

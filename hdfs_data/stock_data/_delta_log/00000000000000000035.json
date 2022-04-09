@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CENTEXT/part-00000-782b6e17-fecb-4957-8426-442956bb00e7.c000.snappy.parquet","partitionValues":{"Company_Name":"CENTEXT"},"size":8056,"modificationTime":1649310446127,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310446131,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":34,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8056"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

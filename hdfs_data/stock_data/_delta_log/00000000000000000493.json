@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NBVENTURES/part-00000-409515c6-5f19-4c0d-b464-2f27f673c57b.c000.snappy.parquet","partitionValues":{"Company_Name":"NBVENTURES"},"size":10593,"modificationTime":1649311031692,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311031695,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":492,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10593"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

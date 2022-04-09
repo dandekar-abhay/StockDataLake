@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JMA/part-00000-0fd2c50d-dd6a-42bc-b611-5c66955a3aba.c000.snappy.parquet","partitionValues":{"Company_Name":"JMA"},"size":10075,"modificationTime":1649312034737,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312034744,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1201,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10075"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

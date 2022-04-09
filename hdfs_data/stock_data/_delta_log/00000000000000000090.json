@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=3MINDIA/part-00000-7faa411d-55be-4e63-97c9-d6a91cf89003.c000.snappy.parquet","partitionValues":{"Company_Name":"3MINDIA"},"size":10902,"modificationTime":1649310512111,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310512114,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":89,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10902"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

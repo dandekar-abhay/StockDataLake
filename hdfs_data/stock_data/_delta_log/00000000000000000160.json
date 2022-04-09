@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ZEELEARN/part-00000-64f62eb1-6d98-4973-8001-dffedb4cb9b4.c000.snappy.parquet","partitionValues":{"Company_Name":"ZEELEARN"},"size":8215,"modificationTime":1649310589283,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310589288,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":159,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8215"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

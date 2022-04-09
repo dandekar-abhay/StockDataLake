@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JETFREIGHT/part-00000-543417ed-1ad1-4b3b-ae67-bdcdb7ad3333.c000.snappy.parquet","partitionValues":{"Company_Name":"JETFREIGHT"},"size":2707,"modificationTime":1649311278735,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311278737,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":660,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"9","numOutputBytes":"2707"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

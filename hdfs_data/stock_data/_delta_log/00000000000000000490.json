@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VISHWARAJ/part-00000-25d68ae1-f9c1-4ed4-b0be-537d297e3a9d.c000.snappy.parquet","partitionValues":{"Company_Name":"VISHWARAJ"},"size":9024,"modificationTime":1649311026900,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311026908,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":489,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9024"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GILLETTE/part-00000-1544b157-7691-480c-a798-cb60825784dc.c000.snappy.parquet","partitionValues":{"Company_Name":"GILLETTE"},"size":10436,"modificationTime":1649310626919,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310626924,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":191,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10436"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

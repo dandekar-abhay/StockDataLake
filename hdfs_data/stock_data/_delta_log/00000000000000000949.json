@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GEEKAYWIRE/part-00000-170024dc-a9c3-4af9-b89b-e2d026cf5964.c000.snappy.parquet","partitionValues":{"Company_Name":"GEEKAYWIRE"},"size":9855,"modificationTime":1649311690441,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311690447,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":948,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9855"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

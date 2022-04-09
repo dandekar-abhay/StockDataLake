@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DEEPENR/part-00000-7d3ab409-ab5d-4a79-9bbe-e827d5ea6854.c000.snappy.parquet","partitionValues":{"Company_Name":"DEEPENR"},"size":9321,"modificationTime":1649311915271,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311915279,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1114,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9321"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

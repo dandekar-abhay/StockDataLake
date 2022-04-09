@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GANGAFORGE/part-00000-2fad92f8-8819-488f-abbe-1ce46db41143.c000.snappy.parquet","partitionValues":{"Company_Name":"GANGAFORGE"},"size":6275,"modificationTime":1649310573254,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310573260,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":144,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"123","numOutputBytes":"6275"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

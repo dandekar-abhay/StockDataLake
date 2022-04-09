@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JUBLINGREA/part-00000-38db3ffe-15e2-4a34-9a26-49ad8ed17d66.c000.snappy.parquet","partitionValues":{"Company_Name":"JUBLINGREA"},"size":8637,"modificationTime":1649311296335,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311296340,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":673,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"195","numOutputBytes":"8637"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

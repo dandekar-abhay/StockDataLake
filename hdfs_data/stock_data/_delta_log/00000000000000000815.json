@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CARTRADE/part-00000-9c6bd01a-54b0-4027-a645-31b4b9d88ef1.c000.snappy.parquet","partitionValues":{"Company_Name":"CARTRADE"},"size":5448,"modificationTime":1649311502119,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311502125,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":814,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"92","numOutputBytes":"5448"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RAIN/part-00000-3252cfeb-f0ed-4f12-849c-6724e34fe81e.c000.snappy.parquet","partitionValues":{"Company_Name":"RAIN"},"size":10245,"modificationTime":1649311361701,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311361707,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":716,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10245"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

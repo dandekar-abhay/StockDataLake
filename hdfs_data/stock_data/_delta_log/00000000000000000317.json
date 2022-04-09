@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OPTIEMUS/part-00000-b4415df6-7b55-4e1e-9173-1392d2d7741d.c000.snappy.parquet","partitionValues":{"Company_Name":"OPTIEMUS"},"size":10136,"modificationTime":1649310784751,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310784755,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":316,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10136"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

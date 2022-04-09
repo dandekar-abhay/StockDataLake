@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAXIND/part-00000-d67d111a-ffd4-4221-8502-21cf2dd5fd14.c000.snappy.parquet","partitionValues":{"Company_Name":"MAXIND"},"size":9453,"modificationTime":1649310931996,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310932002,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":423,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9453"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KINGFA/part-00000-5b4c2f01-b77b-4889-908e-b04592b0a713.c000.snappy.parquet","partitionValues":{"Company_Name":"KINGFA"},"size":10179,"modificationTime":1649311957321,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311957328,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1145,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10179"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

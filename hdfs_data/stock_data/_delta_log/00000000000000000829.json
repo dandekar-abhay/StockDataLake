@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PANACEABIO/part-00000-e8eea6b5-5451-4fb9-b95d-4c8fa39e71b0.c000.snappy.parquet","partitionValues":{"Company_Name":"PANACEABIO"},"size":10336,"modificationTime":1649311521775,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311521777,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":828,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10336"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

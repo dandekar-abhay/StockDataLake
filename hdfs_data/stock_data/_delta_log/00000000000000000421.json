@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BIGBLOC/part-00000-230b5111-9906-4d6c-8eea-9bfebf03089c.c000.snappy.parquet","partitionValues":{"Company_Name":"BIGBLOC"},"size":9446,"modificationTime":1649310928307,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310928315,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":420,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9446"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

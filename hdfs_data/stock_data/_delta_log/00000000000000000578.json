@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASTEC/part-00000-a4abf041-09b7-44bd-aa8f-4ac655cfdbce.c000.snappy.parquet","partitionValues":{"Company_Name":"ASTEC"},"size":10219,"modificationTime":1649311152944,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311152949,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":577,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10219"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

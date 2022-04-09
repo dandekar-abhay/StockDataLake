@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DCAL/part-00000-6c24cdb7-fe9a-45af-867d-91b6e6c737fd.c000.snappy.parquet","partitionValues":{"Company_Name":"DCAL"},"size":10210,"modificationTime":1649311065670,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311065678,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":515,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10210"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

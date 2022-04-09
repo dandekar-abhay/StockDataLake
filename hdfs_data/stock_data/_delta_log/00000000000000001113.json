@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AMJLAND/part-00000-11a5c835-f700-43bb-8f06-826beacfc15d.c000.snappy.parquet","partitionValues":{"Company_Name":"AMJLAND"},"size":9397,"modificationTime":1649311912903,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311912910,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1112,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9397"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

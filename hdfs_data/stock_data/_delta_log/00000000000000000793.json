@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SBC/part-00000-6ec3cdeb-4b07-4802-9e0a-5c42a1489184.c000.snappy.parquet","partitionValues":{"Company_Name":"SBC"},"size":3371,"modificationTime":1649311472114,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311472118,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":792,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"29","numOutputBytes":"3371"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

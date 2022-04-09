@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAGRAN/part-00000-3829ee91-83f9-43d9-92c4-e0b910806f78.c000.snappy.parquet","partitionValues":{"Company_Name":"JAGRAN"},"size":9707,"modificationTime":1649311850273,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311850281,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1069,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9707"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

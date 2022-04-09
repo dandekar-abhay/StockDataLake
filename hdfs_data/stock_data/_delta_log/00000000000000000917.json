@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MASTEK/part-00000-e9bf33df-1c7f-40b0-ad64-b06bae0ecf2b.c000.snappy.parquet","partitionValues":{"Company_Name":"MASTEK"},"size":10407,"modificationTime":1649311647790,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311647797,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":916,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10407"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

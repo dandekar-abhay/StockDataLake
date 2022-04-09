@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NESCO/part-00000-4c7b2c9d-c8dd-4832-abde-06f82d280dff.c000.snappy.parquet","partitionValues":{"Company_Name":"NESCO"},"size":10468,"modificationTime":1649311307647,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311307658,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":680,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10468"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

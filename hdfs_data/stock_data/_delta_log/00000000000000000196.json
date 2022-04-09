@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TEJASNET/part-00000-5d180de5-76d6-4e0f-8d7b-a1cdedaa0643.c000.snappy.parquet","partitionValues":{"Company_Name":"TEJASNET"},"size":10286,"modificationTime":1649310631606,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310631609,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":195,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10286"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

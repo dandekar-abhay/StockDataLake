@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUVEN/part-00000-4e0b258b-a4e9-45b0-b577-aeccbee75718.c000.snappy.parquet","partitionValues":{"Company_Name":"SUVEN"},"size":10117,"modificationTime":1649311532002,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311532009,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":835,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10117"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

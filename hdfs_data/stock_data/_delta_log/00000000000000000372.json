@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CYIENT/part-00000-03468975-d4e8-4ae2-8517-d8559a974c89.c000.snappy.parquet","partitionValues":{"Company_Name":"CYIENT"},"size":10212,"modificationTime":1649310859837,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310859845,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":371,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10212"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

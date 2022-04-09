@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IMFA/part-00000-eca90609-baae-45ce-bbf4-0a19fda34cc8.c000.snappy.parquet","partitionValues":{"Company_Name":"IMFA"},"size":10158,"modificationTime":1649310652012,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310652015,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":213,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10158"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

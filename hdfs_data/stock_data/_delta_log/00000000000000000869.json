@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNTV/part-00000-6dabb23b-38e2-479e-a7ea-42a6389bfa6f.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNTV"},"size":10459,"modificationTime":1649311578748,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311578755,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":868,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10459"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

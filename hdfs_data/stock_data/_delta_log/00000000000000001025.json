@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JMFINANCIL/part-00000-25efa1b2-1e12-484e-81f7-76ca3e39f0bc.c000.snappy.parquet","partitionValues":{"Company_Name":"JMFINANCIL"},"size":10112,"modificationTime":1649311792507,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311792512,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1024,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10112"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

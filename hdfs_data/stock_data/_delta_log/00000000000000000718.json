@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HEIDELBERG/part-00000-548348d0-90f7-414c-9233-fb9cdec80c7e.c000.snappy.parquet","partitionValues":{"Company_Name":"HEIDELBERG"},"size":10601,"modificationTime":1649311363109,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311363115,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":717,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10601"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAHLIFE/part-00000-e4999ee2-be96-4205-8ebe-2328e0dbb8db.c000.snappy.parquet","partitionValues":{"Company_Name":"MAHLIFE"},"size":10437,"modificationTime":1649312038073,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312038079,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1204,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10437"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

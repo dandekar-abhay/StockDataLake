@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ENGINERSIN/part-00000-38e0b5a6-dddd-40e6-a1ce-060a4f5f047e.c000.snappy.parquet","partitionValues":{"Company_Name":"ENGINERSIN"},"size":9499,"modificationTime":1649311552712,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311552714,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":850,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9499"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

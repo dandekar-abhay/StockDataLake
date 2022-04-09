@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INTENTECH/part-00000-f8d4a29a-b39a-4e27-9a49-563c490b0b93.c000.snappy.parquet","partitionValues":{"Company_Name":"INTENTECH"},"size":10420,"modificationTime":1649311158655,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311158662,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":581,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10420"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

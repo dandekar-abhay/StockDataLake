@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MIDHANI/part-00000-61315ad4-3bba-4399-8b6a-888e009baa2e.c000.snappy.parquet","partitionValues":{"Company_Name":"MIDHANI"},"size":10075,"modificationTime":1649310974995,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310975001,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":454,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10075"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

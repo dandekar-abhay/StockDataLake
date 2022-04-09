@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BIOCON/part-00000-26836463-2216-448f-b54d-8ad3dbec602e.c000.snappy.parquet","partitionValues":{"Company_Name":"BIOCON"},"size":10229,"modificationTime":1649310661504,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310661506,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":221,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10229"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

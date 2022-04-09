@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SAGCEM/part-00000-f2aa6129-ced2-46d5-82d8-5dd9bdce2dc0.c000.snappy.parquet","partitionValues":{"Company_Name":"SAGCEM"},"size":10537,"modificationTime":1649311929752,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311929760,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1125,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10537"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

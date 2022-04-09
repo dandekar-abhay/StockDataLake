@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ORIENTCEM/part-00000-e0625d38-3c92-47e5-a256-e15fa819eb9a.c000.snappy.parquet","partitionValues":{"Company_Name":"ORIENTCEM"},"size":10421,"modificationTime":1649311147822,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311147829,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":573,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10421"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

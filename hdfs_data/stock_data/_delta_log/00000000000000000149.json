@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TAINWALCHM/part-00000-3b310df7-3555-4664-89a6-50f1b71fd482.c000.snappy.parquet","partitionValues":{"Company_Name":"TAINWALCHM"},"size":9773,"modificationTime":1649310577265,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310577268,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":148,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"232","numOutputBytes":"9773"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

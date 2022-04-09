@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DELTAMAGNT/part-00000-909e7c41-2a40-4cf5-8f45-9ea3e483631c.c000.snappy.parquet","partitionValues":{"Company_Name":"DELTAMAGNT"},"size":10418,"modificationTime":1649310583748,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310583751,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":154,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10418"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

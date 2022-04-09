@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DALBHARAT/part-00000-ced762ca-78c9-4531-89ff-af61ca5d6a19.c000.snappy.parquet","partitionValues":{"Company_Name":"DALBHARAT"},"size":10370,"modificationTime":1649311379018,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311379021,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":728,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10370"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

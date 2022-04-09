@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MINDAIND/part-00000-a4fc3540-22bf-429b-b1a6-f37aada06302.c000.snappy.parquet","partitionValues":{"Company_Name":"MINDAIND"},"size":10225,"modificationTime":1649310936046,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310936054,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":426,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10225"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

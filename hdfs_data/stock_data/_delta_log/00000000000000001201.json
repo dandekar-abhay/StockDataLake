@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GICRE/part-00000-acfb8360-c1b3-4fb1-8e39-ee5ff5fe9222.c000.snappy.parquet","partitionValues":{"Company_Name":"GICRE"},"size":10575,"modificationTime":1649312033390,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312033395,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1200,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10575"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

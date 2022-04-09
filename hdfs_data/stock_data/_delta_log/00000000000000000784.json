@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RESPONIND/part-00000-61e436ca-c67c-4011-b0df-f0249b530e3e.c000.snappy.parquet","partitionValues":{"Company_Name":"RESPONIND"},"size":10398,"modificationTime":1649311459188,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311459194,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":783,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10398"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

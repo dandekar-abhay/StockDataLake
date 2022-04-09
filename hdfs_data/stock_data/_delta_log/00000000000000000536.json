@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TEXRAIL/part-00000-baa22bf2-7cee-4313-a2f1-7e48a541ce72.c000.snappy.parquet","partitionValues":{"Company_Name":"TEXRAIL"},"size":9170,"modificationTime":1649311093618,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311093625,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":535,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9170"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

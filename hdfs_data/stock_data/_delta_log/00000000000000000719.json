@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IZMO/part-00000-9ca74c95-e02a-4415-8311-2fb537660177.c000.snappy.parquet","partitionValues":{"Company_Name":"IZMO"},"size":10570,"modificationTime":1649311364122,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311364125,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":718,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10570"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

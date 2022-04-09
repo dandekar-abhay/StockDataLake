@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NESTLEIND/part-00000-9a5b2b40-0ee5-4ed5-afea-d58261650755.c000.snappy.parquet","partitionValues":{"Company_Name":"NESTLEIND"},"size":10946,"modificationTime":1649311274920,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311274926,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":658,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10946"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

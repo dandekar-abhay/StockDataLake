@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SMSLIFE/part-00000-9eecda72-eafc-4b9d-8e94-2f59fbfc5292.c000.snappy.parquet","partitionValues":{"Company_Name":"SMSLIFE"},"size":10107,"modificationTime":1649311661075,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311661080,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":927,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10107"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

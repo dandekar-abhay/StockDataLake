@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDOTHAI/part-00000-2bb1696f-8e82-4b8e-acba-88a706fde049.c000.snappy.parquet","partitionValues":{"Company_Name":"INDOTHAI"},"size":10485,"modificationTime":1649310516814,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310516817,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":93,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10485"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

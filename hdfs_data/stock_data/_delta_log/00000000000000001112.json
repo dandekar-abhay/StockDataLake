@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TOKYOPLAST/part-00000-a3067227-3457-49b7-aa64-2006b6d6b91d.c000.snappy.parquet","partitionValues":{"Company_Name":"TOKYOPLAST"},"size":10043,"modificationTime":1649311911143,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311911145,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1111,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10043"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

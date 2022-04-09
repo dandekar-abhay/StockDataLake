@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KAMATHOTEL/part-00000-b912df09-54ed-470b-9ff2-f8ed6891e6f5.c000.snappy.parquet","partitionValues":{"Company_Name":"KAMATHOTEL"},"size":9959,"modificationTime":1649311355658,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311355665,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":711,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9959"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

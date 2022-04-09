@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CENTURYTEX/part-00000-5b23cf97-c038-430f-b431-4b9762792436.c000.snappy.parquet","partitionValues":{"Company_Name":"CENTURYTEX"},"size":10226,"modificationTime":1649311213339,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311213342,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":619,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10226"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PNCINFRA/part-00000-9e309ca1-84de-4ff4-834e-05e9cf2eaa2c.c000.snappy.parquet","partitionValues":{"Company_Name":"PNCINFRA"},"size":10257,"modificationTime":1649311653997,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311654003,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":921,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10257"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

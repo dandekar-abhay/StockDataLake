@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TCIEXP/part-00000-bf21e7d0-953b-4749-965f-8b8a55ca6e50.c000.snappy.parquet","partitionValues":{"Company_Name":"TCIEXP"},"size":10261,"modificationTime":1649311377666,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311377669,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":727,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10261"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

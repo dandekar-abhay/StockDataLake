@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TEXINFRA/part-00000-39956b11-8808-4ad4-a761-135dfc1bd5de.c000.snappy.parquet","partitionValues":{"Company_Name":"TEXINFRA"},"size":9579,"modificationTime":1649311086353,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311086356,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":530,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9579"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BODALCHEM/part-00000-682f7c58-7d3c-4bff-bdd0-5a612afdc5fa.c000.snappy.parquet","partitionValues":{"Company_Name":"BODALCHEM"},"size":10317,"modificationTime":1649311173164,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311173172,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":592,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10317"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

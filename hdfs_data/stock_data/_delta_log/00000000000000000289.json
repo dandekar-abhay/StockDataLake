@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHARATFORG/part-00000-31d2bde9-7c4d-46d0-a8bb-13e89bc40792.c000.snappy.parquet","partitionValues":{"Company_Name":"BHARATFORG"},"size":10093,"modificationTime":1649310746792,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310746798,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":288,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10093"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

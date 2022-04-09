@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TEXMOPIPES/part-00000-0948283f-bf6d-4dc3-be88-c15c1b4f5bab.c000.snappy.parquet","partitionValues":{"Company_Name":"TEXMOPIPES"},"size":10177,"modificationTime":1649311903445,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311903452,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1106,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10177"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RKFORGE/part-00000-7dd63eb6-2b90-4488-bd4e-28f6fd87b15b.c000.snappy.parquet","partitionValues":{"Company_Name":"RKFORGE"},"size":10354,"modificationTime":1649311823827,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311823832,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1049,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10354"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ISGEC/part-00000-cb1cbdaa-4f80-40ba-9a94-ab84837350ca.c000.snappy.parquet","partitionValues":{"Company_Name":"ISGEC"},"size":7659,"modificationTime":1649311084350,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311084353,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":529,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"166","numOutputBytes":"7659"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

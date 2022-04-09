@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LIKHITHA/part-00000-72d72ac2-e787-4d72-b18f-40980bad250f.c000.snappy.parquet","partitionValues":{"Company_Name":"LIKHITHA"},"size":10103,"modificationTime":1649311067667,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311067673,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":517,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10103"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

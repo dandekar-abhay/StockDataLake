@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MIRCELECTR/part-00000-2978d710-63be-4e9b-b517-4046fd98096d.c000.snappy.parquet","partitionValues":{"Company_Name":"MIRCELECTR"},"size":9268,"modificationTime":1649311369304,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311369311,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":721,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9268"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

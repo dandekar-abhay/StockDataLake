@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DIAMONDYD/part-00000-749c7747-5369-40f4-874f-deeb0bd4523f.c000.snappy.parquet","partitionValues":{"Company_Name":"DIAMONDYD"},"size":10237,"modificationTime":1649311443057,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311443065,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":771,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10237"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

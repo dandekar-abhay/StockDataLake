@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NCLIND/part-00000-97262ab6-318b-4e50-9997-d91ae0bb41ed.c000.snappy.parquet","partitionValues":{"Company_Name":"NCLIND"},"size":10276,"modificationTime":1649311583513,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311583521,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":871,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10276"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

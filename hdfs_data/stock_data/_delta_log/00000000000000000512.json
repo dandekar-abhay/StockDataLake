@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ONWARDTEC/part-00000-49af009b-33f2-4803-95cb-ff899e1768d2.c000.snappy.parquet","partitionValues":{"Company_Name":"ONWARDTEC"},"size":10389,"modificationTime":1649311059831,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311059839,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":511,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10389"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

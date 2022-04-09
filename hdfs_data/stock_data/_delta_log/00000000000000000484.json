@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RHIM/part-00000-c0f5862d-c801-4a2f-b153-5981ac68c44e.c000.snappy.parquet","partitionValues":{"Company_Name":"RHIM"},"size":10314,"modificationTime":1649311018354,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311018362,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":483,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10314"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

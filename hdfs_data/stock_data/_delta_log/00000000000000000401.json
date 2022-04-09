@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=3IINFOLTD/part-00000-e93b254f-2382-4dd0-8857-833f040e53c5.c000.snappy.parquet","partitionValues":{"Company_Name":"3IINFOLTD"},"size":4054,"modificationTime":1649310898712,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310898720,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":400,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"49","numOutputBytes":"4054"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

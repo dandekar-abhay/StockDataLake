@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KTKBANK/part-00000-c1ccde5b-5739-45e2-ae3d-6478c9a47b18.c000.snappy.parquet","partitionValues":{"Company_Name":"KTKBANK"},"size":9563,"modificationTime":1649311734450,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311734457,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":982,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9563"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GANDHITUBE/part-00000-9037fa9e-8e40-4409-b6d0-35d7e6a2b9fc.c000.snappy.parquet","partitionValues":{"Company_Name":"GANDHITUBE"},"size":10284,"modificationTime":1649311016924,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311016932,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":482,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10284"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

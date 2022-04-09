@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SNOWMAN/part-00000-48f04d26-225f-416b-98d3-4fc890a6f2fe.c000.snappy.parquet","partitionValues":{"Company_Name":"SNOWMAN"},"size":9835,"modificationTime":1649310940147,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310940155,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":429,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9835"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

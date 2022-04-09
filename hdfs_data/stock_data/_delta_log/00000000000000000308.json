@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GFLLIMITED/part-00000-aff880e3-41d7-4bef-89ca-62886a6a98a4.c000.snappy.parquet","partitionValues":{"Company_Name":"GFLLIMITED"},"size":10046,"modificationTime":1649310772928,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310772936,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":307,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10046"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

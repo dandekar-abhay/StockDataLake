@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GOCLCORP/part-00000-10824f36-89b3-49c8-98e3-5d5c0715c9cb.c000.snappy.parquet","partitionValues":{"Company_Name":"GOCLCORP"},"size":10186,"modificationTime":1649311090485,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311090488,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":533,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10186"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

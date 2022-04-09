@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SESHAPAPER/part-00000-970c5733-8fcd-40c9-969f-c3a7920547ee.c000.snappy.parquet","partitionValues":{"Company_Name":"SESHAPAPER"},"size":10273,"modificationTime":1649311561287,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311561295,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":856,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10273"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

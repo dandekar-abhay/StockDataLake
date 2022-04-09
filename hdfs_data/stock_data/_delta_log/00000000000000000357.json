@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=APTUS/part-00000-f0517ce5-6030-4a83-9519-b55c42187133.c000.snappy.parquet","partitionValues":{"Company_Name":"APTUS"},"size":5338,"modificationTime":1649310838690,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310838696,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":356,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"90","numOutputBytes":"5338"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

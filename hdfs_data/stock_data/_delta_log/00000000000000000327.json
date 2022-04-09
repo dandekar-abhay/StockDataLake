@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BRITANNIA/part-00000-486dc6fd-0b76-4a2d-9a3b-07063a5f9b95.c000.snappy.parquet","partitionValues":{"Company_Name":"BRITANNIA"},"size":10345,"modificationTime":1649310798661,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310798669,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":326,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10345"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

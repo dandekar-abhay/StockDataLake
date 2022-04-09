@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHAGERIA/part-00000-4e0515c7-f017-421b-b5ae-08b211a5809a.c000.snappy.parquet","partitionValues":{"Company_Name":"BHAGERIA"},"size":10301,"modificationTime":1649311971311,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311971314,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1155,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10301"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

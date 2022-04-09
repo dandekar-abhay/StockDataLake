@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SERVOTECH/part-00000-1d56d888-0cb3-4366-8d51-5604770a28fa.c000.snappy.parquet","partitionValues":{"Company_Name":"SERVOTECH"},"size":5156,"modificationTime":1649310788456,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310788459,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":319,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"83","numOutputBytes":"5156"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

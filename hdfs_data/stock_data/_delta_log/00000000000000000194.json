@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BANKINDIA/part-00000-8d720e9d-167a-4d80-8eb7-a594b9b3fac8.c000.snappy.parquet","partitionValues":{"Company_Name":"BANKINDIA"},"size":10418,"modificationTime":1649310629222,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310629225,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":193,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10418"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

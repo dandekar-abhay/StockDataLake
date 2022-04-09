@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAXHEALTH/part-00000-d49a4854-5139-4eb0-810e-1944e6046f26.c000.snappy.parquet","partitionValues":{"Company_Name":"MAXHEALTH"},"size":10291,"modificationTime":1649310635802,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310635804,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":199,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10291"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

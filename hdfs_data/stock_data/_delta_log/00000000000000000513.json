@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PIONDIST/part-00000-aaff14ca-f034-4582-880f-6acd1026ca72.c000.snappy.parquet","partitionValues":{"Company_Name":"PIONDIST"},"size":10157,"modificationTime":1649311061594,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311061601,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":512,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10157"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

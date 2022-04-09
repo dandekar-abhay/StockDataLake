@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHARTIARTL/part-00000-8128a40c-6333-429f-9747-9cf6fdfec624.c000.snappy.parquet","partitionValues":{"Company_Name":"BHARTIARTL"},"size":9939,"modificationTime":1649311691777,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311691784,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":949,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9939"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

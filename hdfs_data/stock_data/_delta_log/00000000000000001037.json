@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AXISBANK/part-00000-98759705-e735-4253-a52c-173a6ab84f03.c000.snappy.parquet","partitionValues":{"Company_Name":"AXISBANK"},"size":10244,"modificationTime":1649311807955,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311807958,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1036,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10244"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

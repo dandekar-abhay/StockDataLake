@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LINDEINDIA/part-00000-211cd04a-4a3a-4cef-b752-3ca57695d2d2.c000.snappy.parquet","partitionValues":{"Company_Name":"LINDEINDIA"},"size":10349,"modificationTime":1649310413800,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310413804,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":8,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10349"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

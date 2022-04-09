@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MACPOWER/part-00000-7f03c61f-e6ee-42c4-97ec-e81eb9acec54.c000.snappy.parquet","partitionValues":{"Company_Name":"MACPOWER"},"size":10332,"modificationTime":1649311344127,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311344132,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":704,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10332"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

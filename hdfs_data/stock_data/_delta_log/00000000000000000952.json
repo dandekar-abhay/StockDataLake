@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COFORGE/part-00000-119a9559-42a2-47be-a8e4-f493f4d5c5d9.c000.snappy.parquet","partitionValues":{"Company_Name":"COFORGE"},"size":10711,"modificationTime":1649311695194,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311695202,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":951,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10711"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

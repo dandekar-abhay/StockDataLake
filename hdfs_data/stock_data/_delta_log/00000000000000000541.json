@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HINDALCO/part-00000-2bd7b33e-867b-4cb5-9fdc-878bbecba7b0.c000.snappy.parquet","partitionValues":{"Company_Name":"HINDALCO"},"size":10152,"modificationTime":1649311100327,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311100334,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":540,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10152"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

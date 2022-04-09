@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADANIENT/part-00000-27a15e27-2dca-4aa1-86b0-8686ec824c6b.c000.snappy.parquet","partitionValues":{"Company_Name":"ADANIENT"},"size":10326,"modificationTime":1649311009026,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311009034,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":477,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10326"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

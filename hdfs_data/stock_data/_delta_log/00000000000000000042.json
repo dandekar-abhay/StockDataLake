@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JPASSOCIAT/part-00000-000d9f71-00e2-45c7-a2fa-cf2e02dde7fe.c000.snappy.parquet","partitionValues":{"Company_Name":"JPASSOCIAT"},"size":8015,"modificationTime":1649310455264,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310455267,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":41,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8015"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

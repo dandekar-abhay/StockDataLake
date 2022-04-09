@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAM-INDIA/part-00000-0afb6d6a-829f-4957-bddc-645cd703770e.c000.snappy.parquet","partitionValues":{"Company_Name":"NAM-INDIA"},"size":10190,"modificationTime":1649311760167,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311760175,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1000,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10190"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

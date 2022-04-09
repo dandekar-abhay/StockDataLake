@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AARTIIND/part-00000-3381c8b9-0e97-4a5d-bbf9-45f1d321353d.c000.snappy.parquet","partitionValues":{"Company_Name":"AARTIIND"},"size":10132,"modificationTime":1649311941530,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311941533,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1134,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10132"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

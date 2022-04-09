@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CONFIPET/part-00000-57350f20-2a71-4737-96ef-5e328fb7f5a0.c000.snappy.parquet","partitionValues":{"Company_Name":"CONFIPET"},"size":10420,"modificationTime":1649310766104,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310766107,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":302,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10420"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VARDHACRLC/part-00000-1bb7dfff-7b7e-443b-8acc-3d95246e2bd5.c000.snappy.parquet","partitionValues":{"Company_Name":"VARDHACRLC"},"size":10220,"modificationTime":1649310711228,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310711236,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":260,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10220"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

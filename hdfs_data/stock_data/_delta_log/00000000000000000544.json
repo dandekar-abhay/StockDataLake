@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARROWGREEN/part-00000-28b0e0d0-2168-49e1-8aee-aa35d148c751.c000.snappy.parquet","partitionValues":{"Company_Name":"ARROWGREEN"},"size":10431,"modificationTime":1649311104403,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311104414,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":543,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10431"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

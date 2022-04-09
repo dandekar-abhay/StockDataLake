@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AIROLAM/part-00000-8a821557-e3ee-4b8a-8400-330488382ac2.c000.snappy.parquet","partitionValues":{"Company_Name":"AIROLAM"},"size":4322,"modificationTime":1649311518001,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311518008,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":825,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"55","numOutputBytes":"4322"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

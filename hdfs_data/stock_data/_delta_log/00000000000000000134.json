@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AWHCL/part-00000-90375533-dfe4-4495-a439-299098294625.c000.snappy.parquet","partitionValues":{"Company_Name":"AWHCL"},"size":10530,"modificationTime":1649310561423,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310561429,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":133,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10530"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

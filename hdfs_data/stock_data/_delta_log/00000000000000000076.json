@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KOTHARIPET/part-00000-993e6ce8-2705-495c-98fe-66e393da3f02.c000.snappy.parquet","partitionValues":{"Company_Name":"KOTHARIPET"},"size":10159,"modificationTime":1649310496138,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310496141,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":75,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10159"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

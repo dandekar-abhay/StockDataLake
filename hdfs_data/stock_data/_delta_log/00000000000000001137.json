@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HINDMOTORS/part-00000-e7daa0a1-b64c-4a15-95b1-c388f7fd6329.c000.snappy.parquet","partitionValues":{"Company_Name":"HINDMOTORS"},"size":7922,"modificationTime":1649311944266,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311944273,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1136,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7922"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

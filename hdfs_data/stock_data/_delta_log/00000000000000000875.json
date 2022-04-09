@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARVINDFASN/part-00000-a4318525-8559-4d18-9c61-fc3915ae2e59.c000.snappy.parquet","partitionValues":{"Company_Name":"ARVINDFASN"},"size":10235,"modificationTime":1649311587961,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311587969,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":874,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10235"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

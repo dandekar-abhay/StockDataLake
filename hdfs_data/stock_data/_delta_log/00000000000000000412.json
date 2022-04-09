@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PARSVNATH/part-00000-866a7a20-e83c-4319-a043-157650ad0579.c000.snappy.parquet","partitionValues":{"Company_Name":"PARSVNATH"},"size":9223,"modificationTime":1649310915164,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310915174,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":411,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9223"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

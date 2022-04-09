@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TIINDIA/part-00000-dfddc65a-f119-4a25-a8e2-397baf05e28c.c000.snappy.parquet","partitionValues":{"Company_Name":"TIINDIA"},"size":10181,"modificationTime":1649310423592,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310423595,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":15,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10181"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

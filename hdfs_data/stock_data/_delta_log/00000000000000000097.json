@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KIOCL/part-00000-6b610758-2660-4bb9-b81b-8a93b5f61dd1.c000.snappy.parquet","partitionValues":{"Company_Name":"KIOCL"},"size":10095,"modificationTime":1649310520616,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310520624,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":96,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10095"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

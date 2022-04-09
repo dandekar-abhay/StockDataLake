@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SORILINFRA/part-00000-d14798ce-69c7-4d8d-9cb9-b92a0a57e63c.c000.snappy.parquet","partitionValues":{"Company_Name":"SORILINFRA"},"size":10531,"modificationTime":1649311997416,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311997424,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1174,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10531"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAITHANALL/part-00000-e41353c0-f473-45c3-9191-271aa771d582.c000.snappy.parquet","partitionValues":{"Company_Name":"MAITHANALL"},"size":10193,"modificationTime":1649311317640,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311317648,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":687,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10193"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

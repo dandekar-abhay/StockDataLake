@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TORNTPOWER/part-00000-2344408b-bd7d-4f4f-805d-598c2a1dc03d.c000.snappy.parquet","partitionValues":{"Company_Name":"TORNTPOWER"},"size":10086,"modificationTime":1649311429984,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311429990,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":763,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10086"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHREECEM/part-00000-a88f89ca-68fb-4e9f-8056-093aaf149c24.c000.snappy.parquet","partitionValues":{"Company_Name":"SHREECEM"},"size":10992,"modificationTime":1649311175480,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311175485,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":594,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10992"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

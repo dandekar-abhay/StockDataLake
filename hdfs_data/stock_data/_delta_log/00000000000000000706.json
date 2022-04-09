@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASPINWALL/part-00000-b261a449-b55b-4316-ae1c-eb3ebc3f5ee1.c000.snappy.parquet","partitionValues":{"Company_Name":"ASPINWALL"},"size":10396,"modificationTime":1649311345915,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311345923,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":705,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10396"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

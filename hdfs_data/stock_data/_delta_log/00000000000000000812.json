@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MCLEODRUSS/part-00000-f391fd0a-8fa9-4eb3-a477-541f3dc659ff.c000.snappy.parquet","partitionValues":{"Company_Name":"MCLEODRUSS"},"size":9734,"modificationTime":1649311498044,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311498050,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":811,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9734"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

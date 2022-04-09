@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ORIENTHOT/part-00000-6ff06e9d-063b-4b21-b423-62c31d266c45.c000.snappy.parquet","partitionValues":{"Company_Name":"ORIENTHOT"},"size":9045,"modificationTime":1649311651503,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311651508,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":919,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9045"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

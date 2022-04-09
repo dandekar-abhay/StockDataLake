@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MPSLTD/part-00000-77881811-613f-49d1-8f34-d6fda4dfc107.c000.snappy.parquet","partitionValues":{"Company_Name":"MPSLTD"},"size":10105,"modificationTime":1649310933330,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310933337,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":424,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10105"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

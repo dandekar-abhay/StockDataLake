@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MARINE/part-00000-9e9d4332-ae98-4fac-94be-ee7fb3b8aeed.c000.snappy.parquet","partitionValues":{"Company_Name":"MARINE"},"size":10459,"modificationTime":1649311358025,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311358032,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":713,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10459"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

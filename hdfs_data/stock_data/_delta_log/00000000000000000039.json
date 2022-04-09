@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NIRAJ/part-00000-639747c5-763a-4791-b3b7-2d45cc27456e.c000.snappy.parquet","partitionValues":{"Company_Name":"NIRAJ"},"size":9422,"modificationTime":1649310451331,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310451337,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":38,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9422"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

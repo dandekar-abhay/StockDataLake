@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RPSGVENT/part-00000-4b7af9fc-247d-4cb0-95f3-2548143b3631.c000.snappy.parquet","partitionValues":{"Company_Name":"RPSGVENT"},"size":10286,"modificationTime":1649311832579,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311832584,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1056,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10286"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AARVEEDEN/part-00000-cf06e71b-33f4-4163-8952-7f5e4559b73f.c000.snappy.parquet","partitionValues":{"Company_Name":"AARVEEDEN"},"size":8749,"modificationTime":1649310773897,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310773900,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":308,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8749"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

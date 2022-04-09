@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BRNL/part-00000-cdaed195-3c39-4bd8-b318-e50a2d412ac5.c000.snappy.parquet","partitionValues":{"Company_Name":"BRNL"},"size":8852,"modificationTime":1649311680287,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311680289,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":940,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8852"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

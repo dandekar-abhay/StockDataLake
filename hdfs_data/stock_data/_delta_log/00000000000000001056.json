@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ORIENTBELL/part-00000-248b624c-d9b0-4c24-88a5-1bd931bfe0a9.c000.snappy.parquet","partitionValues":{"Company_Name":"ORIENTBELL"},"size":10355,"modificationTime":1649311831600,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311831605,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1055,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10355"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

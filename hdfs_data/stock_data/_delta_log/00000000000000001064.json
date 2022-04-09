@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LASA/part-00000-be438b11-d0f1-40fa-86cc-3099b4eb1f75.c000.snappy.parquet","partitionValues":{"Company_Name":"LASA"},"size":10170,"modificationTime":1649311842466,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311842473,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1063,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10170"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

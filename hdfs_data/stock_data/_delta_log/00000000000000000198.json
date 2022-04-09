@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TIIL/part-00000-a9df86e8-e3b3-4d44-a85e-bf5b47042731.c000.snappy.parquet","partitionValues":{"Company_Name":"TIIL"},"size":10147,"modificationTime":1649310633889,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310633895,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":197,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10147"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

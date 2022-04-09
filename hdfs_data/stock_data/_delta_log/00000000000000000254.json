@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HECPROJECT/part-00000-11c5c89b-b682-4cf3-ba7c-0481af6e4efb.c000.snappy.parquet","partitionValues":{"Company_Name":"HECPROJECT"},"size":2378,"modificationTime":1649310702164,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310702171,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":253,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"2","numOutputBytes":"2378"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

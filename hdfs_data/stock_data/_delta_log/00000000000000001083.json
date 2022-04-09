@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HINDCOMPOS/part-00000-9b71398b-ceb0-4e06-b7fb-15beb0042d0f.c000.snappy.parquet","partitionValues":{"Company_Name":"HINDCOMPOS"},"size":10374,"modificationTime":1649311868755,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311868762,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1082,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10374"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

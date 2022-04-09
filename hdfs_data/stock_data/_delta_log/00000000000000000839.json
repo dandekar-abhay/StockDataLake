@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AJRINFRA/part-00000-3c103dfc-482f-4b12-b57d-b4e89e577718.c000.snappy.parquet","partitionValues":{"Company_Name":"AJRINFRA"},"size":6491,"modificationTime":1649311535689,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311535691,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":838,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6491"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

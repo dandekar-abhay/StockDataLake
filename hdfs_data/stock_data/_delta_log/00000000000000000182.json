@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PFIZER/part-00000-b07b2994-5565-4f95-81a1-983a1490c8c8.c000.snappy.parquet","partitionValues":{"Company_Name":"PFIZER"},"size":10568,"modificationTime":1649310614706,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310614712,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":181,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10568"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

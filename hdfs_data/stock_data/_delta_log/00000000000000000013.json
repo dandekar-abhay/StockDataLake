@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RELAXO/part-00000-7cfe7627-068e-47a8-8fad-3a9f928aaa18.c000.snappy.parquet","partitionValues":{"Company_Name":"RELAXO"},"size":10061,"modificationTime":1649310419927,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310419931,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":12,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10061"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

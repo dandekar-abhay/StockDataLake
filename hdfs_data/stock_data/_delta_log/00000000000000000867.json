@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=STERTOOLS/part-00000-6a87c8ba-4d39-4083-a828-0f6c69c1ec00.c000.snappy.parquet","partitionValues":{"Company_Name":"STERTOOLS"},"size":10239,"modificationTime":1649311575204,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311575207,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":866,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10239"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

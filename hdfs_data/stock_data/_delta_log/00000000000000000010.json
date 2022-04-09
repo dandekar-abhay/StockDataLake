@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NOCIL/part-00000-ec60bc1f-160a-4817-b18f-74eb69ee9d47.c000.snappy.parquet","partitionValues":{"Company_Name":"NOCIL"},"size":10276,"modificationTime":1649310415322,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310415327,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":9,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10276"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

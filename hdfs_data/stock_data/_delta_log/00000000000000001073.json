@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJAJCON/part-00000-fa51d135-57cc-4786-801d-f509f9d40e9f.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJAJCON"},"size":10508,"modificationTime":1649311854243,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311854250,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1072,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10508"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

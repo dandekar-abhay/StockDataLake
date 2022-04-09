@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AJANTPHARM/part-00000-ba426bc5-2aa9-4496-b194-279107399cdc.c000.snappy.parquet","partitionValues":{"Company_Name":"AJANTPHARM"},"size":10295,"modificationTime":1649311491414,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311491416,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":806,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10295"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUZLON/part-00000-1a431d29-767f-4982-81bf-b411c5f53991.c000.snappy.parquet","partitionValues":{"Company_Name":"SUZLON"},"size":7350,"modificationTime":1649311427561,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311427569,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":761,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7350"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

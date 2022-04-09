@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KIRIINDUS/part-00000-93059fd0-dcce-4210-a2ff-48b23f0cf292.c000.snappy.parquet","partitionValues":{"Company_Name":"KIRIINDUS"},"size":10250,"modificationTime":1649311779437,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311779442,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1014,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10250"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

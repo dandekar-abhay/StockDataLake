@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BALAJITELE/part-00000-7abe6544-fc43-4f68-be2f-d25ae2e64789.c000.snappy.parquet","partitionValues":{"Company_Name":"BALAJITELE"},"size":9688,"modificationTime":1649310404503,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310404509,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":2,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9688"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

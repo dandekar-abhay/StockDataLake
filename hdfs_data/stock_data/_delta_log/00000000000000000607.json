@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HITECHCORP/part-00000-65179f72-3092-41da-a336-5b97e2832bf3.c000.snappy.parquet","partitionValues":{"Company_Name":"HITECHCORP"},"size":10085,"modificationTime":1649311193957,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311193960,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":606,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10085"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

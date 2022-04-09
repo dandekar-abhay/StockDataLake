@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JKPAPER/part-00000-442700ee-80bb-44ad-88a4-cb8375897d2f.c000.snappy.parquet","partitionValues":{"Company_Name":"JKPAPER"},"size":10193,"modificationTime":1649311501152,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311501160,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":813,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10193"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUPERHOUSE/part-00000-861cd8d2-dae7-4de1-93ba-841ce1c8db0f.c000.snappy.parquet","partitionValues":{"Company_Name":"SUPERHOUSE"},"size":10419,"modificationTime":1649311064302,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311064309,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":514,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10419"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

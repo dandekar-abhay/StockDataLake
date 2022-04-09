@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUBROS/part-00000-fe6336e6-1156-4893-bc8f-0dd33083f0cf.c000.snappy.parquet","partitionValues":{"Company_Name":"SUBROS"},"size":10336,"modificationTime":1649311855242,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311855244,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1073,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10336"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

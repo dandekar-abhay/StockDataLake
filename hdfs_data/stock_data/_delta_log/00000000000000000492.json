@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GLS/part-00000-81d2b3a0-0e89-4392-98db-3b9602723c88.c000.snappy.parquet","partitionValues":{"Company_Name":"GLS"},"size":5781,"modificationTime":1649311030706,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311030711,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":491,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"101","numOutputBytes":"5781"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

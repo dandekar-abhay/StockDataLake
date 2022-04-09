@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VESUVIUS/part-00000-5a1d6e81-74d3-405f-81c5-09383f0c2a40.c000.snappy.parquet","partitionValues":{"Company_Name":"VESUVIUS"},"size":9970,"modificationTime":1649311973192,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311973197,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1157,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9970"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

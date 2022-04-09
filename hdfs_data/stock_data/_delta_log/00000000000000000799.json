@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TERASOFT/part-00000-9191b4f2-bfa3-4420-befb-c723fa8958a6.c000.snappy.parquet","partitionValues":{"Company_Name":"TERASOFT"},"size":10222,"modificationTime":1649311480260,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311480267,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":798,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10222"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

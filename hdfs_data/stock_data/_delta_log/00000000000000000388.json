@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASIANTILES/part-00000-c4be93a7-7d04-47ae-8681-c790ae6804a5.c000.snappy.parquet","partitionValues":{"Company_Name":"ASIANTILES"},"size":10703,"modificationTime":1649310880510,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310880516,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":387,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10703"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

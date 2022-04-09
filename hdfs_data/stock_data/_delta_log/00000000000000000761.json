@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=APCOTEXIND/part-00000-49cc6879-da34-47e9-88cc-f885d288348b.c000.snappy.parquet","partitionValues":{"Company_Name":"APCOTEXIND"},"size":10036,"modificationTime":1649311426111,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311426119,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":760,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10036"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

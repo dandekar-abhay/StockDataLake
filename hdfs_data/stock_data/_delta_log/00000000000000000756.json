@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BCP/part-00000-fb486b1e-127e-4149-8592-7f0e2ee26915.c000.snappy.parquet","partitionValues":{"Company_Name":"BCP"},"size":6929,"modificationTime":1649311418870,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311418876,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":755,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6929"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

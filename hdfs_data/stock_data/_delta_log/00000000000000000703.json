@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MSPL/part-00000-36963eeb-2004-4c41-8048-cd9eea8ef0e9.c000.snappy.parquet","partitionValues":{"Company_Name":"MSPL"},"size":7657,"modificationTime":1649311340862,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311340869,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":702,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7657"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HSCL/part-00000-4f5caaf9-d6e0-4c59-9e36-38bdb5e43be5.c000.snappy.parquet","partitionValues":{"Company_Name":"HSCL"},"size":9512,"modificationTime":1649311780810,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311780816,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1015,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9512"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

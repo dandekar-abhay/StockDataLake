@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SECURKLOUD/part-00000-ecc4b662-b62f-45e0-9771-2b63c0c8d1e3.c000.snappy.parquet","partitionValues":{"Company_Name":"SECURKLOUD"},"size":10479,"modificationTime":1649311110324,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311110331,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":547,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10479"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

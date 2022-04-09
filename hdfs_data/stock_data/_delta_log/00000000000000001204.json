@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PITTIENG/part-00000-3058fcce-0651-4790-ae83-1d1f93013305.c000.snappy.parquet","partitionValues":{"Company_Name":"PITTIENG"},"size":10269,"modificationTime":1649312037098,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312037105,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1203,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10269"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

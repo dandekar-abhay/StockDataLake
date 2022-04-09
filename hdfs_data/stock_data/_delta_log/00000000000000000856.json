@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GANESHHOUC/part-00000-25eb4f71-1c81-48f2-b525-4daf55fed8be.c000.snappy.parquet","partitionValues":{"Company_Name":"GANESHHOUC"},"size":10367,"modificationTime":1649311559909,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311559916,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":855,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10367"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

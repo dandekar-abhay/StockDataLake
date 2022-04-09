@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=A2ZINFRA/part-00000-0cd169b8-9f71-4ad5-a6d0-67a51d4285b9.c000.snappy.parquet","partitionValues":{"Company_Name":"A2ZINFRA"},"size":7204,"modificationTime":1649310435217,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310435221,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":25,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7204"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

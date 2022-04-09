@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BATAINDIA/part-00000-6e871d02-e04b-4795-a18c-e0eabc5b1c3f.c000.snappy.parquet","partitionValues":{"Company_Name":"BATAINDIA"},"size":10232,"modificationTime":1649310534977,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310534980,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":109,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10232"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

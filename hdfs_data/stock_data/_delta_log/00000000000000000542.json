@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAHLOG/part-00000-45e1d876-9153-449c-80c0-33e86b1a74d9.c000.snappy.parquet","partitionValues":{"Company_Name":"MAHLOG"},"size":10105,"modificationTime":1649311101267,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311101272,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":541,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10105"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

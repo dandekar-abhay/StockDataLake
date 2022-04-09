@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MANGCHEFER/part-00000-d3079460-9c9f-43e5-99f2-f2c969e935ea.c000.snappy.parquet","partitionValues":{"Company_Name":"MANGCHEFER"},"size":10215,"modificationTime":1649311604583,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311604589,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":886,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10215"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

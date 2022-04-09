@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EIDPARRY/part-00000-ea1c764d-75db-463e-b96c-fd4bafe96e2f.c000.snappy.parquet","partitionValues":{"Company_Name":"EIDPARRY"},"size":10169,"modificationTime":1649312012641,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312012644,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1185,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10169"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

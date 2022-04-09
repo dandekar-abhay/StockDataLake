@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GABRIEL/part-00000-980a868c-dd29-41de-a5f4-fa047dbe13ed.c000.snappy.parquet","partitionValues":{"Company_Name":"GABRIEL"},"size":10411,"modificationTime":1649311137205,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311137213,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":566,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10411"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

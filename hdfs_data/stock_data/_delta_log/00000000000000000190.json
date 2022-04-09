@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUDARSCHEM/part-00000-92725e41-f70d-4675-89de-11870bf9630b.c000.snappy.parquet","partitionValues":{"Company_Name":"SUDARSCHEM"},"size":10013,"modificationTime":1649310623545,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310623548,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":189,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10013"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

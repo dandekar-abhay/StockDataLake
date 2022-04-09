@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CONSOFINVT/part-00000-408de9e9-a6b1-4c40-a325-03d4eb3904f9.c000.snappy.parquet","partitionValues":{"Company_Name":"CONSOFINVT"},"size":10667,"modificationTime":1649310564822,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310564824,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":136,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10667"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

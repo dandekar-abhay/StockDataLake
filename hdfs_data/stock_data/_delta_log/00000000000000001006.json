@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NUVOCO/part-00000-807dfaaf-361b-45b5-a2d4-8162ac9835ea.c000.snappy.parquet","partitionValues":{"Company_Name":"NUVOCO"},"size":5330,"modificationTime":1649311767137,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311767144,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1005,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"91","numOutputBytes":"5330"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

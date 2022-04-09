@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AGROPHOS/part-00000-a49dadb3-75d1-4dce-b535-afdb8bb149f8.c000.snappy.parquet","partitionValues":{"Company_Name":"AGROPHOS"},"size":8727,"modificationTime":1649311095928,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311095936,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":537,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8727"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

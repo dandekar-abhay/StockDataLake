@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CHEMCON/part-00000-0fa04987-76ad-4c78-8ea4-4d312dda923d.c000.snappy.parquet","partitionValues":{"Company_Name":"CHEMCON"},"size":10138,"modificationTime":1649311683522,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311683529,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":943,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10138"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJAJ-AUTO/part-00000-a73ee3d0-6641-456a-9069-46887cf1d53b.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJAJ-AUTO"},"size":10537,"modificationTime":1649311770476,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311770478,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1008,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10537"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

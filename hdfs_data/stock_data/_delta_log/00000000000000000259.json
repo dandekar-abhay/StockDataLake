@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARIHANTCAP/part-00000-668acb60-fae6-4832-ae06-42de9e5a09f5.c000.snappy.parquet","partitionValues":{"Company_Name":"ARIHANTCAP"},"size":6952,"modificationTime":1649310707867,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310707870,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":258,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"138","numOutputBytes":"6952"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

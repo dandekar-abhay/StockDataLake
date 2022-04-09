@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GLOBAL/part-00000-f82a201d-8e4d-45f0-9cc0-2828761fb64d.c000.snappy.parquet","partitionValues":{"Company_Name":"GLOBAL"},"size":9656,"modificationTime":1649310706452,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310706455,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":257,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9656"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

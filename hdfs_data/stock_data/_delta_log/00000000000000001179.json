@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CARERATING/part-00000-2a957916-2eb0-46f9-8363-aaebd1f73d8b.c000.snappy.parquet","partitionValues":{"Company_Name":"CARERATING"},"size":10097,"modificationTime":1649312002988,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312002995,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1178,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10097"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

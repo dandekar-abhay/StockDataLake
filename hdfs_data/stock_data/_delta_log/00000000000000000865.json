@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AKG/part-00000-46e8d660-a55c-47b1-99bc-a4553d64d431.c000.snappy.parquet","partitionValues":{"Company_Name":"AKG"},"size":9371,"modificationTime":1649311572450,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311572455,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":864,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"217","numOutputBytes":"9371"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

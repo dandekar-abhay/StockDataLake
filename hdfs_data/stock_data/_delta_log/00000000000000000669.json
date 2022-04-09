@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNDARMFIN/part-00000-1f6818f5-6339-4f87-b5ca-2e47800529b6.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNDARMFIN"},"size":10336,"modificationTime":1649311287678,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311287680,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":668,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10336"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

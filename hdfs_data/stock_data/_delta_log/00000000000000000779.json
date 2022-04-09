@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASAHIINDIA/part-00000-0a278538-b0ef-40bc-93b5-942de9eb4f33.c000.snappy.parquet","partitionValues":{"Company_Name":"ASAHIINDIA"},"size":10409,"modificationTime":1649311453322,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311453330,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":778,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10409"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

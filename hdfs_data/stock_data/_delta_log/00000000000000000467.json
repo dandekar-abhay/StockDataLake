@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SPICEJET/part-00000-14930b88-b461-446c-922e-6395b740855e.c000.snappy.parquet","partitionValues":{"Company_Name":"SPICEJET"},"size":10164,"modificationTime":1649310993327,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310993333,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":466,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10164"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

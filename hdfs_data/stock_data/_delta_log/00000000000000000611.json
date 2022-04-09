@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ESSARSHPNG/part-00000-089f406d-354d-483c-a3f1-72a9fc73514d.c000.snappy.parquet","partitionValues":{"Company_Name":"ESSARSHPNG"},"size":7432,"modificationTime":1649311201647,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311201655,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":610,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7432"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

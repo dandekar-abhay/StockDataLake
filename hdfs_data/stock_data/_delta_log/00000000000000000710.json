@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SALZERELEC/part-00000-0fa1994e-95f9-4dcf-97e1-a6eefef2551f.c000.snappy.parquet","partitionValues":{"Company_Name":"SALZERELEC"},"size":10657,"modificationTime":1649311351874,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311351877,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":709,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10657"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SMCGLOBAL/part-00000-5743f4df-c327-43f3-a6f6-99bb033293d3.c000.snappy.parquet","partitionValues":{"Company_Name":"SMCGLOBAL"},"size":8873,"modificationTime":1649311209569,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311209577,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":616,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"210","numOutputBytes":"8873"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

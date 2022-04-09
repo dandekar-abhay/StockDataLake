@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PAGEIND/part-00000-390b68a7-e567-48c9-b1da-5b9baca01859.c000.snappy.parquet","partitionValues":{"Company_Name":"PAGEIND"},"size":11009,"modificationTime":1649311872830,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311872837,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1085,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"11009"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

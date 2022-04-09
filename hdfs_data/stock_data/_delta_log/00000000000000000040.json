@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BANKBARODA/part-00000-2727f756-c9ed-4fde-86b3-40cd6ffc6656.c000.snappy.parquet","partitionValues":{"Company_Name":"BANKBARODA"},"size":10221,"modificationTime":1649310452850,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310452859,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":39,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10221"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VMART/part-00000-c9e215d6-c811-470e-bcef-103d112f75eb.c000.snappy.parquet","partitionValues":{"Company_Name":"VMART"},"size":10581,"modificationTime":1649311457302,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311457307,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":781,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10581"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GOODYEAR/part-00000-aa79bc7c-f619-4cb0-8fc1-908f83358761.c000.snappy.parquet","partitionValues":{"Company_Name":"GOODYEAR"},"size":10353,"modificationTime":1649311511909,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311511916,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":821,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10353"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

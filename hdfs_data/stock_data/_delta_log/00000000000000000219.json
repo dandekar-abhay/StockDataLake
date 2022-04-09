@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BEL/part-00000-a5ff8d0f-13fa-4b50-b123-13a0aeb0f296.c000.snappy.parquet","partitionValues":{"Company_Name":"BEL"},"size":10232,"modificationTime":1649310657571,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310657574,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":218,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10232"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

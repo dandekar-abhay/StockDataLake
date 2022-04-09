@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CANFINHOME/part-00000-1916d958-2476-45d8-947a-cb9a4bd9ccf7.c000.snappy.parquet","partitionValues":{"Company_Name":"CANFINHOME"},"size":10053,"modificationTime":1649310810006,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310810014,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":334,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10053"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

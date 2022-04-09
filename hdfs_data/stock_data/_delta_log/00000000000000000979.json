@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HEG/part-00000-fabdc8ce-fa6f-493a-85fe-bb1f9c9b89b3.c000.snappy.parquet","partitionValues":{"Company_Name":"HEG"},"size":10422,"modificationTime":1649311729467,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311729474,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":978,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10422"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

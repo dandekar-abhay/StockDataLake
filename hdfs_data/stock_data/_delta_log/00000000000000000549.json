@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAYBARMARU/part-00000-5814732b-24b8-43b0-a551-76b5181f720b.c000.snappy.parquet","partitionValues":{"Company_Name":"JAYBARMARU"},"size":10192,"modificationTime":1649311111344,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311111350,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":548,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10192"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

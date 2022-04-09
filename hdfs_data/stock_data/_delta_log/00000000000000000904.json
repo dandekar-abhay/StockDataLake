@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MRO-TEK/part-00000-5681f52d-c0f0-4779-85c1-f9b5314563e0.c000.snappy.parquet","partitionValues":{"Company_Name":"MRO-TEK"},"size":9362,"modificationTime":1649311629339,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311629346,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":903,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"211","numOutputBytes":"9362"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

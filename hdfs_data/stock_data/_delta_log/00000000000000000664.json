@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KALPATPOWR/part-00000-c879e845-b0a6-4a2b-9cf6-d3101b8048ba.c000.snappy.parquet","partitionValues":{"Company_Name":"KALPATPOWR"},"size":10292,"modificationTime":1649311282366,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311282374,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":663,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10292"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUULD/part-00000-33dc5849-0bdf-464c-965e-54821139f4e0.c000.snappy.parquet","partitionValues":{"Company_Name":"SUULD"},"size":10154,"modificationTime":1649311758125,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311758132,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":999,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10154"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

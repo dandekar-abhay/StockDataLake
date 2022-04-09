@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KANORICHEM/part-00000-d68373b2-b476-4593-b14c-919cd45295ad.c000.snappy.parquet","partitionValues":{"Company_Name":"KANORICHEM"},"size":10246,"modificationTime":1649310630250,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310630253,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":194,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10246"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

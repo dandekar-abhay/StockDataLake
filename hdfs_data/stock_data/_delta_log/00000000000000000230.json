@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VOLTAS/part-00000-102bfee0-6d87-4b1e-aee4-7a0a47824eee.c000.snappy.parquet","partitionValues":{"Company_Name":"VOLTAS"},"size":10278,"modificationTime":1649310670427,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310670430,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":229,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10278"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

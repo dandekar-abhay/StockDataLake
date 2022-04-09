@@ -1,0 +1,65 @@
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 15:00:36.388771-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 15:00:39.565328
+21STCENMGM,21st Century Management Services Limited,2022-04-02 15:00:42.377554
+3IINFOLTD,3i Infotech Limited,2022-04-02 15:00:45.236578
+3MINDIA,3M India Limited,2022-04-02 15:00:48.005097
+3PLAND,3P Land Holdings Limited,2022-04-02 15:01:06.385742
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 15:03:58.291629-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 15:04:01.443676
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 15:04:55.016812-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 15:04:58.058350
+21STCENMGM,21st Century Management Services Limited,2022-04-02 15:05:00.805157
+3IINFOLTD,3i Infotech Limited,2022-04-02 15:05:03.594995
+3MINDIA,3M India Limited,2022-04-02 15:05:06.419893
+3PLAND,3P Land Holdings Limited,2022-04-02 15:05:24.757724
+5PAISA,5Paisa Capital Limited,2022-04-02 15:05:27.708349
+63MOONS,63 moons technologies limited,2022-04-02 15:05:30.624491
+AAREYDRUGS,Aarey Drugs & Pharmaceuticals Limited,2022-04-02 15:05:53.915600
+AARON,Aaron Industries Limited,2022-04-02 15:06:12.271978
+AARTIDRUGS,Aarti Drugs Limited,2022-04-02 15:06:15.316966
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 15:07:41.443003-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 15:07:44.565345
+21STCENMGM,21st Century Management Services Limited,2022-04-02 15:07:47.387484
+3IINFOLTD,3i Infotech Limited,2022-04-02 15:07:50.220187
+3MINDIA,3M India Limited,2022-04-02 15:07:53.028663
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 15:08:49.235333-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 15:08:52.284752
+21STCENMGM,21st Century Management Services Limited,2022-04-02 15:08:55.082155
+3IINFOLTD,3i Infotech Limited,2022-04-02 15:08:57.885536
+3MINDIA,3M India Limited,2022-04-02 15:09:19.152997
+3PLAND,3P Land Holdings Limited,2022-04-02 15:09:22.009182
+5PAISA,5Paisa Capital Limited,2022-04-02 15:09:24.782093
+63MOONS,63 moons technologies limited,2022-04-02 15:09:27.629123
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 15:10:49.929284-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 15:10:52.981401
+21STCENMGM,21st Century Management Services Limited,2022-04-02 15:10:55.828226
+3IINFOLTD,3i Infotech Limited,2022-04-02 15:10:58.735021
+3MINDIA,3M India Limited,2022-04-02 15:11:19.862713
+3PLAND,3P Land Holdings Limited,2022-04-02 15:11:22.660866
+5PAISA,5Paisa Capital Limited,2022-04-02 15:11:40.702037
+63MOONS,63 moons technologies limited,2022-04-02 15:11:43.551818
+AAKASH,Aakash Exploration Services Limited,2022-04-02 15:11:46.233658
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-02 16:15:34.430146-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-02 16:15:37.690812
+21STCENMGM,21st Century Management Services Limited,2022-04-02 16:15:40.537797
+3IINFOLTD,3i Infotech Limited,2022-04-02 16:15:43.434210
+3MINDIA,3M India Limited,2022-04-02 16:15:46.280610
+----------------------------------------------------------------
+-----------FOLLOWING DATA WAS GATHERED ON: 2022-04-03 14:37:39.084312-----------------
+----------------------------------------------------------------
+20MICRONS,20 Microns Limited,2022-04-03 14:37:43.174179
+21STCENMGM,21st Century Management Services Limited,2022-04-03 14:37:46.715146

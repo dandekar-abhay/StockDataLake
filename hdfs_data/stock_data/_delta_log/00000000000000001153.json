@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=THYROCARE/part-00000-f443d6fb-57b9-4227-b7a3-0540070bfa9a.c000.snappy.parquet","partitionValues":{"Company_Name":"THYROCARE"},"size":10118,"modificationTime":1649311967169,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311967176,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1152,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

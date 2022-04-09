@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GICHSGFIN/part-00000-22406493-b8a1-402a-ac02-b091117b1a39.c000.snappy.parquet","partitionValues":{"Company_Name":"GICHSGFIN"},"size":10406,"modificationTime":1649312001613,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312001619,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1177,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10406"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

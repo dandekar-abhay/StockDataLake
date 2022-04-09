@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=20MICRONS/part-00000-4cc985df-9c39-49d4-a2a9-465303d3ba91.c000.snappy.parquet","partitionValues":{"Company_Name":"20MICRONS"},"size":9771,"modificationTime":1649311865589,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311865594,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1080,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9771"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

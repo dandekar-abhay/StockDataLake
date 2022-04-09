@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GODREJAGRO/part-00000-cc942454-b761-403e-8aa3-d09601771688.c000.snappy.parquet","partitionValues":{"Company_Name":"GODREJAGRO"},"size":9962,"modificationTime":1649310501898,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310501902,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":80,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9962"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

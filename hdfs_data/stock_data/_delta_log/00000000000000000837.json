@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HOMEFIRST/part-00000-76dad0ec-1d8e-4008-951b-1ffc4fc162be.c000.snappy.parquet","partitionValues":{"Company_Name":"HOMEFIRST"},"size":9481,"modificationTime":1649311532983,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311532986,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":836,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"226","numOutputBytes":"9481"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

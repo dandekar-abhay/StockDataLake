@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHREEPUSHK/part-00000-d097eb86-4fc6-4f4e-9d75-c366089c6a04.c000.snappy.parquet","partitionValues":{"Company_Name":"SHREEPUSHK"},"size":10138,"modificationTime":1649311676446,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311676451,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":938,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10138"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

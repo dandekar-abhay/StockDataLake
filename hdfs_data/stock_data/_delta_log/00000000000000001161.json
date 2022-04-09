@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MANAKALUCO/part-00000-42056f9c-6034-4e8e-ac67-4e36aa1ee445.c000.snappy.parquet","partitionValues":{"Company_Name":"MANAKALUCO"},"size":8720,"modificationTime":1649311977944,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311977951,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1160,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8720"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GREENLAM/part-00000-4d4e74f9-033b-4881-b640-96888fcf7976.c000.snappy.parquet","partitionValues":{"Company_Name":"GREENLAM"},"size":10673,"modificationTime":1649311817823,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311817828,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1044,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10673"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

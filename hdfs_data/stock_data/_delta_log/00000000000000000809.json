@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FOSECOIND/part-00000-0ac15b1b-30a1-4446-9bf3-97d07646add1.c000.snappy.parquet","partitionValues":{"Company_Name":"FOSECOIND"},"size":10084,"modificationTime":1649311494140,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311494148,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":808,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10084"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

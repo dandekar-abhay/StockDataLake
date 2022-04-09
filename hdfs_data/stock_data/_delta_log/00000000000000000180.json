@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CUB/part-00000-64417c5f-dd09-403b-a904-28a5deb4f18d.c000.snappy.parquet","partitionValues":{"Company_Name":"CUB"},"size":10340,"modificationTime":1649310612452,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310612461,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":179,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10340"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

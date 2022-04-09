@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=REPCOHOME/part-00000-82145c91-df9a-4096-bb7d-3ee90a7d2dd6.c000.snappy.parquet","partitionValues":{"Company_Name":"REPCOHOME"},"size":10309,"modificationTime":1649311114701,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311114709,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":550,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10309"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

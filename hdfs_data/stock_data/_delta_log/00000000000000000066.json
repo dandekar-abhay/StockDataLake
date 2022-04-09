@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IMPAL/part-00000-a4f3e444-fc37-4965-82b7-ebcbcf8f3b90.c000.snappy.parquet","partitionValues":{"Company_Name":"IMPAL"},"size":10253,"modificationTime":1649310483927,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310483933,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":65,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10253"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CCL/part-00000-60c10e23-a564-4f50-962b-fb6c0d22e31a.c000.snappy.parquet","partitionValues":{"Company_Name":"CCL"},"size":10266,"modificationTime":1649310771555,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310771563,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":306,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10266"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

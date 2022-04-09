@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HITECH/part-00000-161b571d-d442-4c11-ab0a-a99de0445693.c000.snappy.parquet","partitionValues":{"Company_Name":"HITECH"},"size":10189,"modificationTime":1649311697136,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311697139,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":953,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10189"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

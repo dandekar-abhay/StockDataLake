@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AMIORG/part-00000-a6801bfb-0d2a-472f-96e6-0c2947797976.c000.snappy.parquet","partitionValues":{"Company_Name":"AMIORG"},"size":4945,"modificationTime":1649311620504,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311620512,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":897,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"76","numOutputBytes":"4945"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

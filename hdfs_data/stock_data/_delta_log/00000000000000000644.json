@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHALPAINTS/part-00000-db28eef4-dfab-4843-a24e-217d09c7f3b5.c000.snappy.parquet","partitionValues":{"Company_Name":"SHALPAINTS"},"size":10242,"modificationTime":1649311252329,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311252337,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":643,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10242"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RVNL/part-00000-daacd6f7-f204-449f-a637-97854ecd75dc.c000.snappy.parquet","partitionValues":{"Company_Name":"RVNL"},"size":8892,"modificationTime":1649311821454,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311821462,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1047,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8892"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

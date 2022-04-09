@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HPAL/part-00000-cb8ce840-d55a-4d8b-8082-35fbaf612105.c000.snappy.parquet","partitionValues":{"Company_Name":"HPAL"},"size":2560,"modificationTime":1649311763280,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311763288,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1002,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"5","numOutputBytes":"2560"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

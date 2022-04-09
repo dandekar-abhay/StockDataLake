@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MFL/part-00000-a92ffe8c-d44c-47a1-966d-90233cb73a33.c000.snappy.parquet","partitionValues":{"Company_Name":"MFL"},"size":5498,"modificationTime":1649311506756,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311506759,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":818,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"93","numOutputBytes":"5498"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

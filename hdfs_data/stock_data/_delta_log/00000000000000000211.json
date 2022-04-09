@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ATUL/part-00000-3649a5a0-0212-4e0a-8f03-3bf1e9788121.c000.snappy.parquet","partitionValues":{"Company_Name":"ATUL"},"size":10775,"modificationTime":1649310648336,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310648339,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":210,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10775"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

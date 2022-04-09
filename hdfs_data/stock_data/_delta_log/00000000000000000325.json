@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAFNAPH/part-00000-f64a8365-2010-4abc-828b-77f8b697419a.c000.snappy.parquet","partitionValues":{"Company_Name":"BAFNAPH"},"size":10457,"modificationTime":1649310795944,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310795947,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":324,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10457"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

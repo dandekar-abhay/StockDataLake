@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RPOWER/part-00000-161dc1f0-0807-4e0b-a2c3-2f5ba7c1e99b.c000.snappy.parquet","partitionValues":{"Company_Name":"RPOWER"},"size":8539,"modificationTime":1649310560037,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310560040,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":132,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8539"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

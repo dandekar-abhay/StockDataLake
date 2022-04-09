@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KSB/part-00000-8c315061-184f-4f03-ab30-81c9b1524fcc.c000.snappy.parquet","partitionValues":{"Company_Name":"KSB"},"size":10165,"modificationTime":1649311097320,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311097326,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":538,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10165"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FSC/part-00000-f42bebdc-d3af-4e1d-adae-63e7c4242601.c000.snappy.parquet","partitionValues":{"Company_Name":"FSC"},"size":10332,"modificationTime":1649311092252,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311092260,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":534,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10332"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

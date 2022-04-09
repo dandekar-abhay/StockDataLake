@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JINDWORLD/part-00000-320a0938-bc93-400e-b2bd-d4148c7dcc31.c000.snappy.parquet","partitionValues":{"Company_Name":"JINDWORLD"},"size":10445,"modificationTime":1649311365925,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311365932,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":719,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10445"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

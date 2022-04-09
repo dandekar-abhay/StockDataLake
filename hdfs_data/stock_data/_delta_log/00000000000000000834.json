@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DEVYANI/part-00000-8d38852f-b1b5-4f41-82fb-ca30da40ab81.c000.snappy.parquet","partitionValues":{"Company_Name":"DEVYANI"},"size":5532,"modificationTime":1649311528823,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311528826,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":833,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"95","numOutputBytes":"5532"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

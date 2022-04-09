@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VRLLOG/part-00000-46b7975a-e961-4c06-8b0e-e79fdd84a56a.c000.snappy.parquet","partitionValues":{"Company_Name":"VRLLOG"},"size":10220,"modificationTime":1649311347325,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311347329,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":706,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10220"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

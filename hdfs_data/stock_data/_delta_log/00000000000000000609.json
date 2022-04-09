@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GAIL/part-00000-493c5b46-da50-4db4-b07c-6757eed69799.c000.snappy.parquet","partitionValues":{"Company_Name":"GAIL"},"size":10188,"modificationTime":1649311197297,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311197301,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":608,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10188"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

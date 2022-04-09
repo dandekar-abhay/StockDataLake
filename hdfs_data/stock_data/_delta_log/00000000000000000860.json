@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GSPL/part-00000-ca1e318b-5aae-4a72-b989-808b4feacb54.c000.snappy.parquet","partitionValues":{"Company_Name":"GSPL"},"size":10031,"modificationTime":1649311565399,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311565402,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":859,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10031"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

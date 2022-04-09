@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OMINFRAL/part-00000-1e0ea7e0-38c5-47e9-9fc6-ef6facc30fdd.c000.snappy.parquet","partitionValues":{"Company_Name":"OMINFRAL"},"size":9493,"modificationTime":1649311822462,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311822466,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1048,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9493"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

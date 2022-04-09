@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HEROMOTOCO/part-00000-cc250583-bee1-4c6a-b7c8-9164ff2af083.c000.snappy.parquet","partitionValues":{"Company_Name":"HEROMOTOCO"},"size":10422,"modificationTime":1649310554867,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310554870,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":127,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10422"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

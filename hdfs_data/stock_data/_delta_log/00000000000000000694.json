@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HAL/part-00000-b485cb6d-f291-471f-b130-a4ca1784847c.c000.snappy.parquet","partitionValues":{"Company_Name":"HAL"},"size":10076,"modificationTime":1649311326478,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311326486,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":693,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10076"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

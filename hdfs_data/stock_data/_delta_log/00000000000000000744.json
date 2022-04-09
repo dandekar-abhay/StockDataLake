@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAVNETEDUL/part-00000-ec1ad3c2-f422-4781-9917-fc57530cfe17.c000.snappy.parquet","partitionValues":{"Company_Name":"NAVNETEDUL"},"size":10203,"modificationTime":1649311401200,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311401206,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":743,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10203"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

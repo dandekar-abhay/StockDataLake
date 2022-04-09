@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GUJGASLTD/part-00000-45b71878-830e-4a04-9b8d-17c9c98224c2.c000.snappy.parquet","partitionValues":{"Company_Name":"GUJGASLTD"},"size":10115,"modificationTime":1649310886611,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310886617,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":391,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10115"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

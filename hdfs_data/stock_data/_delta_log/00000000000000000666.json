@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SASTASUNDR/part-00000-e77ab688-85a5-4329-8126-1cd464a8a60e.c000.snappy.parquet","partitionValues":{"Company_Name":"SASTASUNDR"},"size":10574,"modificationTime":1649311284301,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311284307,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":665,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10574"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

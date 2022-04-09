@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DSSL/part-00000-e848323c-d80b-4cdb-b4be-ccca5daf2a1f.c000.snappy.parquet","partitionValues":{"Company_Name":"DSSL"},"size":10646,"modificationTime":1649311719325,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311719331,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":970,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10646"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

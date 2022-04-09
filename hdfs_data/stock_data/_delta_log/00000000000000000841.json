@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CORDSCABLE/part-00000-d7fd5b31-6959-442c-8ddd-2e3b3942884e.c000.snappy.parquet","partitionValues":{"Company_Name":"CORDSCABLE"},"size":9924,"modificationTime":1649311539095,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311539103,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":840,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9924"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

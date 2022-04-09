@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADANIPOWER/part-00000-929b2d13-3508-4f05-8973-1c72ac452a82.c000.snappy.parquet","partitionValues":{"Company_Name":"ADANIPOWER"},"size":10400,"modificationTime":1649311730830,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311730838,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":979,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10400"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

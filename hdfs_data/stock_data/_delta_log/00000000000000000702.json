@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAGREEKCAP/part-00000-b6d18aa3-27d0-40eb-a8ec-9d76dde0ea25.c000.snappy.parquet","partitionValues":{"Company_Name":"NAGREEKCAP"},"size":7147,"modificationTime":1649311339030,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311339033,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":701,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"226","numOutputBytes":"7147"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

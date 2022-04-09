@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FILATEX/part-00000-44f9c190-5d02-48a8-9001-11863437f774.c000.snappy.parquet","partitionValues":{"Company_Name":"FILATEX"},"size":10553,"modificationTime":1649311799345,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311799352,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1029,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10553"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

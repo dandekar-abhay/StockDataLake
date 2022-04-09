@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BALRAMCHIN/part-00000-09d1f46d-c22c-48e5-b931-b5d40886af03.c000.snappy.parquet","partitionValues":{"Company_Name":"BALRAMCHIN"},"size":10219,"modificationTime":1649311130002,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311130009,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":561,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10219"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INEOSSTYRO/part-00000-6524aed3-3d3f-430d-8864-2a57ee5563b7.c000.snappy.parquet","partitionValues":{"Company_Name":"INEOSSTYRO"},"size":10175,"modificationTime":1649310675304,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310675311,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":233,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10175"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

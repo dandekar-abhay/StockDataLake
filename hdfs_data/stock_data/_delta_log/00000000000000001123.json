@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UNITEDTEA/part-00000-cbc10fb2-e233-4a82-ab50-6825172c106c.c000.snappy.parquet","partitionValues":{"Company_Name":"UNITEDTEA"},"size":10184,"modificationTime":1649311925251,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311925255,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1122,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10184"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

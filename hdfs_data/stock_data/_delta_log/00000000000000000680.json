@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JINDRILL/part-00000-c23c5e1a-90c8-41f9-98f1-7574c2fa1d8a.c000.snappy.parquet","partitionValues":{"Company_Name":"JINDRILL"},"size":10551,"modificationTime":1649311305204,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311305211,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":679,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10551"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

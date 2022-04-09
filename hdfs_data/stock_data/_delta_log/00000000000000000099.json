@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UFO/part-00000-755ac64d-9a09-4c9e-bd35-fa068302a4ca.c000.snappy.parquet","partitionValues":{"Company_Name":"UFO"},"size":10476,"modificationTime":1649310522710,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310522713,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":98,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10476"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

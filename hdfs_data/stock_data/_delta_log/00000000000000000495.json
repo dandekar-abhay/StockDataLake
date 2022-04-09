@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDIANB/part-00000-c1b2a3ba-b7ae-4127-bacd-09273392f4e9.c000.snappy.parquet","partitionValues":{"Company_Name":"INDIANB"},"size":10589,"modificationTime":1649311034439,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311034442,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":494,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10589"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

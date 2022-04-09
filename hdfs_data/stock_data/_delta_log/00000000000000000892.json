@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NMDC/part-00000-3c93d5a0-e372-440c-b242-2a5a8407f98d.c000.snappy.parquet","partitionValues":{"Company_Name":"NMDC"},"size":10083,"modificationTime":1649311611754,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311611756,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":891,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10083"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

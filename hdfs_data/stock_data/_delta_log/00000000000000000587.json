@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WELCORP/part-00000-f01a0eb4-8982-4879-ae70-e03f96c2562d.c000.snappy.parquet","partitionValues":{"Company_Name":"WELCORP"},"size":10653,"modificationTime":1649311164249,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311164256,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":586,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10653"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUVIDHAA/part-00000-3dd0ee95-8fb1-4872-b305-c0ee4c342bb4.c000.snappy.parquet","partitionValues":{"Company_Name":"SUVIDHAA"},"size":8518,"modificationTime":1649311000412,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311000420,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":471,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"188","numOutputBytes":"8518"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DATAMATICS/part-00000-bb8d06bb-0dae-47f0-9dda-8df22ba74893.c000.snappy.parquet","partitionValues":{"Company_Name":"DATAMATICS"},"size":10255,"modificationTime":1649310476651,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310476654,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":59,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10255"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

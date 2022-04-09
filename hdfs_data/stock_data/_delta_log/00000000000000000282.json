@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ORIENTELEC/part-00000-5ff943be-87c7-4471-a881-fe2051a66352.c000.snappy.parquet","partitionValues":{"Company_Name":"ORIENTELEC"},"size":10141,"modificationTime":1649310737728,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310737731,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":281,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10141"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

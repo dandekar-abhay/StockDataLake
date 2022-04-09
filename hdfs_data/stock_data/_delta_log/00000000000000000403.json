@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DFMFOODS/part-00000-5d214745-76d7-4894-9fe9-88ef37d3d69e.c000.snappy.parquet","partitionValues":{"Company_Name":"DFMFOODS"},"size":10551,"modificationTime":1649310901478,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310901486,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":402,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10551"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

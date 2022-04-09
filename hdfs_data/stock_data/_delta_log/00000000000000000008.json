@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VARROC/part-00000-1e4a0082-5100-4d76-9452-7f1cff1d0238.c000.snappy.parquet","partitionValues":{"Company_Name":"VARROC"},"size":10328,"modificationTime":1649310412477,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310412482,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":7,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10328"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

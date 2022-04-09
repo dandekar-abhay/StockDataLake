@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TDPOWERSYS/part-00000-0dd4fa64-8466-40c3-86cf-5602f30decd6.c000.snappy.parquet","partitionValues":{"Company_Name":"TDPOWERSYS"},"size":10409,"modificationTime":1649311927015,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311927022,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1123,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10409"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

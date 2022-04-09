@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=METROBRAND/part-00000-25e21e2d-1854-4980-9dc1-d85ce5d0dfbf.c000.snappy.parquet","partitionValues":{"Company_Name":"METROBRAND"},"size":2735,"modificationTime":1649312022569,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312022571,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1192,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"8","numOutputBytes":"2735"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

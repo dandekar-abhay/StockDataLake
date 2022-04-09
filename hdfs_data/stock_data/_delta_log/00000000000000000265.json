@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GULFPETRO/part-00000-54430c8a-badb-4919-9919-d29d0e407290.c000.snappy.parquet","partitionValues":{"Company_Name":"GULFPETRO"},"size":10077,"modificationTime":1649310716256,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310716262,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":264,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10077"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHOPERSTOP/part-00000-b968f66f-5ae6-4d19-848a-c1ae415b7117.c000.snappy.parquet","partitionValues":{"Company_Name":"SHOPERSTOP"},"size":10238,"modificationTime":1649310833065,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310833074,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":351,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10238"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

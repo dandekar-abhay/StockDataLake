@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VASWANI/part-00000-c7c6cdce-1113-4b70-b5a2-6518e0cb0aa9.c000.snappy.parquet","partitionValues":{"Company_Name":"VASWANI"},"size":8637,"modificationTime":1649311505806,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311505812,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":817,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8637"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

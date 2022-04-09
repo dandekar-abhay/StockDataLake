@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUPPETRO/part-00000-0b7a8dad-2ec1-4b2b-ab5c-8b6d4f52d8d7.c000.snappy.parquet","partitionValues":{"Company_Name":"SUPPETRO"},"size":10553,"modificationTime":1649310783780,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310783786,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":315,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10553"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

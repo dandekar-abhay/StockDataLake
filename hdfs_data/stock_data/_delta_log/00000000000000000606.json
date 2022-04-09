@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EKC/part-00000-4d8b4e86-29bd-42c2-b8e8-42e60c5a042a.c000.snappy.parquet","partitionValues":{"Company_Name":"EKC"},"size":10205,"modificationTime":1649311192535,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311192541,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":605,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10205"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LAXMICOT/part-00000-2ae9e105-9015-42db-a568-90f20c52e9fe.c000.snappy.parquet","partitionValues":{"Company_Name":"LAXMICOT"},"size":3681,"modificationTime":1649311588931,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311588934,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":875,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"35","numOutputBytes":"3681"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HBSL/part-00000-35cd0a27-cbdb-4599-8362-a6f6159cbe4b.c000.snappy.parquet","partitionValues":{"Company_Name":"HBSL"},"size":9972,"modificationTime":1649310736791,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310736794,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":280,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9972"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

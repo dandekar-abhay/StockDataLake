@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FMNL/part-00000-5c963833-e6c7-42c5-a31a-1c36a0940a3d.c000.snappy.parquet","partitionValues":{"Company_Name":"FMNL"},"size":8843,"modificationTime":1649311142151,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311142158,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":569,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8843"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

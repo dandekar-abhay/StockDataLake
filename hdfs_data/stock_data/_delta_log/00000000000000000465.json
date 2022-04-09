@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GOLDIAM/part-00000-f97f8331-6e17-407c-b758-c31318673bbc.c000.snappy.parquet","partitionValues":{"Company_Name":"GOLDIAM"},"size":10334,"modificationTime":1649310990580,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310990588,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":464,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10334"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NIBL/part-00000-d43aaab2-43fe-4710-81e4-b1a90d01595b.c000.snappy.parquet","partitionValues":{"Company_Name":"NIBL"},"size":8403,"modificationTime":1649310812757,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310812764,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":336,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"219","numOutputBytes":"8403"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

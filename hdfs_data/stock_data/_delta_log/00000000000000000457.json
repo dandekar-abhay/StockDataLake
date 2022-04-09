@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CHOLAFIN/part-00000-0a93d7a9-b1bc-49bc-b899-6e00ca6ca9c7.c000.snappy.parquet","partitionValues":{"Company_Name":"CHOLAFIN"},"size":10060,"modificationTime":1649310978530,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310978538,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":456,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10060"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

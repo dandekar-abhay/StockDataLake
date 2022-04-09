@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MARALOVER/part-00000-fadb8c31-8eb0-4ce2-b051-41815742c631.c000.snappy.parquet","partitionValues":{"Company_Name":"MARALOVER"},"size":10307,"modificationTime":1649311372481,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311372489,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":723,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10307"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

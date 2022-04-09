@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TIMESGTY/part-00000-7233124a-574e-4603-8074-a694167cb40e.c000.snappy.parquet","partitionValues":{"Company_Name":"TIMESGTY"},"size":9915,"modificationTime":1649311776650,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311776660,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1012,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9915"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

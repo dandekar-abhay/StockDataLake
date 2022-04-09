@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KEI/part-00000-eeae437e-1e0a-4dcb-9459-c7337cf986b6.c000.snappy.parquet","partitionValues":{"Company_Name":"KEI"},"size":10216,"modificationTime":1649311227568,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311227574,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":628,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10216"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

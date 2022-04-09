@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=REVATHI/part-00000-448338e9-5a43-4d29-ada4-da8a7a69c0cf.c000.snappy.parquet","partitionValues":{"Company_Name":"REVATHI"},"size":9996,"modificationTime":1649310890719,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310890727,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":394,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9996"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

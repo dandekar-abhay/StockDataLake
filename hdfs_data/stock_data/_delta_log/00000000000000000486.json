@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DICIND/part-00000-46d914ae-b81f-4d39-afc7-fc2011641183.c000.snappy.parquet","partitionValues":{"Company_Name":"DICIND"},"size":10398,"modificationTime":1649311021882,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311021890,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":485,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10398"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

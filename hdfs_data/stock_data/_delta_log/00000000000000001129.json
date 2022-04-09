@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CERA/part-00000-6f9465c2-03bb-4da2-93c7-9b39226a298e.c000.snappy.parquet","partitionValues":{"Company_Name":"CERA"},"size":10591,"modificationTime":1649311933863,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311933870,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1128,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10591"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

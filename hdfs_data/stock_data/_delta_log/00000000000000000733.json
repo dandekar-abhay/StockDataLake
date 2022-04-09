@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAICORPLTD/part-00000-6abe1caf-4fd5-49cf-b3a4-ebe259e5a230.c000.snappy.parquet","partitionValues":{"Company_Name":"JAICORPLTD"},"size":10249,"modificationTime":1649311384994,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311385000,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":732,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10249"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KOLTEPATIL/part-00000-f50596dc-8876-4456-888c-00c3a2c2b8ff.c000.snappy.parquet","partitionValues":{"Company_Name":"KOLTEPATIL"},"size":10350,"modificationTime":1649311969931,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311969933,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1154,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10350"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

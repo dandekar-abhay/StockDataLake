@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASAHISONG/part-00000-c77fbb19-5906-4ec5-bd72-2001e68de015.c000.snappy.parquet","partitionValues":{"Company_Name":"ASAHISONG"},"size":10007,"modificationTime":1649311567784,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311567792,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":860,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10007"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

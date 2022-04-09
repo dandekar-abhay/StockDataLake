@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=STOVEKRAFT/part-00000-0276c74c-b2ce-4d25-85af-c0d675fa83d1.c000.snappy.parquet","partitionValues":{"Company_Name":"STOVEKRAFT"},"size":9475,"modificationTime":1649311571494,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311571499,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":863,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"224","numOutputBytes":"9475"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

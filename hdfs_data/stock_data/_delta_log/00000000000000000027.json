@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AMBER/part-00000-0a627a4e-1a1d-4888-a085-ba5cdb2d867d.c000.snappy.parquet","partitionValues":{"Company_Name":"AMBER"},"size":10544,"modificationTime":1649310436734,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310436744,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":26,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10544"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

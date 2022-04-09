@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KREBSBIO/part-00000-01a97c9d-2db9-4c61-bd3c-6269cf1aff53.c000.snappy.parquet","partitionValues":{"Company_Name":"KREBSBIO"},"size":10649,"modificationTime":1649310427121,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310427124,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":18,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10649"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

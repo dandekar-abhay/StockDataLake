@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=APOLSINHOT/part-00000-fd5bb1ac-435a-4be6-936a-48d09880447b.c000.snappy.parquet","partitionValues":{"Company_Name":"APOLSINHOT"},"size":10253,"modificationTime":1649311477098,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311477101,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":796,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10253"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

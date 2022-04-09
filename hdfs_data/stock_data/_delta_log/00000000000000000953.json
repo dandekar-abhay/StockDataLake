@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AARTIDRUGS/part-00000-e381ffad-5e9a-429c-b310-a3bac791e3bf.c000.snappy.parquet","partitionValues":{"Company_Name":"AARTIDRUGS"},"size":9973,"modificationTime":1649311696235,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311696237,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":952,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9973"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

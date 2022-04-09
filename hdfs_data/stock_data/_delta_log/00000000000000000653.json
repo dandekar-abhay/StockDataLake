@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GENUSPOWER/part-00000-4c1fab4f-9635-4e2a-b0a4-e76ea39c2487.c000.snappy.parquet","partitionValues":{"Company_Name":"GENUSPOWER"},"size":10574,"modificationTime":1649311265531,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311265534,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":652,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10574"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

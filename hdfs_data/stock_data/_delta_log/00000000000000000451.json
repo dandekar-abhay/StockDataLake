@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ALLCARGO/part-00000-dcbc33bb-2009-4070-b7ff-52003d79f90f.c000.snappy.parquet","partitionValues":{"Company_Name":"ALLCARGO"},"size":10313,"modificationTime":1649310970281,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310970289,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":450,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10313"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

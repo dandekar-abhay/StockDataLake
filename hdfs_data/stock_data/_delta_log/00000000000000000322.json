@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AIAENG/part-00000-a610748f-473b-49d4-9d78-b3f977b90ac4.c000.snappy.parquet","partitionValues":{"Company_Name":"AIAENG"},"size":10222,"modificationTime":1649310791850,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310791853,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":321,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10222"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

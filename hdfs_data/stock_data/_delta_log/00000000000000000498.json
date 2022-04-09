@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PNC/part-00000-dab389a9-fad1-485f-b636-c23eaff107b2.c000.snappy.parquet","partitionValues":{"Company_Name":"PNC"},"size":10031,"modificationTime":1649311038946,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311038954,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":497,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10031"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

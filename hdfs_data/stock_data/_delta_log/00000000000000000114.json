@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BORORENEW/part-00000-8ae5fb56-de3a-4899-9e88-859b917acad5.c000.snappy.parquet","partitionValues":{"Company_Name":"BORORENEW"},"size":10394,"modificationTime":1649310539532,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310539541,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":113,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10394"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

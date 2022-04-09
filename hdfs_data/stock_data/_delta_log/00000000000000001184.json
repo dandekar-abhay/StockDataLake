@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AHLUCONT/part-00000-4807477d-b96f-4723-bb36-f5b145662d97.c000.snappy.parquet","partitionValues":{"Company_Name":"AHLUCONT"},"size":10136,"modificationTime":1649312010720,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312010728,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1183,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10136"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COMPINFO/part-00000-f5c70bef-1846-4b9a-b23b-17b7c51fd967.c000.snappy.parquet","partitionValues":{"Company_Name":"COMPINFO"},"size":9437,"modificationTime":1649311754003,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311754011,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":996,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9437"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

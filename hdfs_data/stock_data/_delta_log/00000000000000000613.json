@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OMAXE/part-00000-3164206b-00b3-43fc-bea7-bd4881db05af.c000.snappy.parquet","partitionValues":{"Company_Name":"OMAXE"},"size":9744,"modificationTime":1649311204412,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311204420,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":612,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9744"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

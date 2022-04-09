@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SREEL/part-00000-a2c2ece8-a7b6-4c3a-a2ed-6597a70363dc.c000.snappy.parquet","partitionValues":{"Company_Name":"SREEL"},"size":10465,"modificationTime":1649310841110,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310841113,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":358,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10465"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

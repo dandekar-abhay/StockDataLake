@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KOTARISUG/part-00000-7fc206d8-77ad-4ebb-8ec1-e2b112e54bc4.c000.snappy.parquet","partitionValues":{"Company_Name":"KOTARISUG"},"size":9768,"modificationTime":1649310410927,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310410934,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":6,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9768"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CREDITACC/part-00000-35547caa-e1ea-4c0a-88ba-4629f4aa9535.c000.snappy.parquet","partitionValues":{"Company_Name":"CREDITACC"},"size":10040,"modificationTime":1649310615671,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310615674,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":182,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10040"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

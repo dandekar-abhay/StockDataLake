@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GMMPFAUDLR/part-00000-9d1edf6c-e5bc-47c9-878a-6cce2ca98f20.c000.snappy.parquet","partitionValues":{"Company_Name":"GMMPFAUDLR"},"size":10550,"modificationTime":1649310651029,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310651037,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":212,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10550"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

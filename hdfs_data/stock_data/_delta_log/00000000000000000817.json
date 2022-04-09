@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VENKEYS/part-00000-f15c4e65-d569-4c80-829f-3780479d5ab5.c000.snappy.parquet","partitionValues":{"Company_Name":"VENKEYS"},"size":10440,"modificationTime":1649311504404,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311504414,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":816,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10440"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

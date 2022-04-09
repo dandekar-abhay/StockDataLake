@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HIKAL/part-00000-492c6494-6dff-4aa4-ae12-d52e6f683d1b.c000.snappy.parquet","partitionValues":{"Company_Name":"HIKAL"},"size":10198,"modificationTime":1649310519181,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310519187,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":95,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10198"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

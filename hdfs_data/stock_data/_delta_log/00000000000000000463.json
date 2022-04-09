@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADSL/part-00000-3c898f94-3e70-43b6-9604-13855f18dbe0.c000.snappy.parquet","partitionValues":{"Company_Name":"ADSL"},"size":10677,"modificationTime":1649310987479,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310987484,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":462,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10677"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

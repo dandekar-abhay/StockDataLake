@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RAMKY/part-00000-6e8aa146-f85c-43d9-aaec-d9d11c871d21.c000.snappy.parquet","partitionValues":{"Company_Name":"RAMKY"},"size":10306,"modificationTime":1649311309598,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311309600,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":682,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10306"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

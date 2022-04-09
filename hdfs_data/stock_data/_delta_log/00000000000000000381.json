@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SANOFI/part-00000-0b3002e4-40a2-49a0-a1ab-24933fdfc2ef.c000.snappy.parquet","partitionValues":{"Company_Name":"SANOFI"},"size":10718,"modificationTime":1649310871705,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310871712,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":380,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10718"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

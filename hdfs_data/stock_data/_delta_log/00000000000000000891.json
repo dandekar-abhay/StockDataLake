@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHANKARA/part-00000-b7f986d4-6c80-491f-8f1c-17f543d2fada.c000.snappy.parquet","partitionValues":{"Company_Name":"SHANKARA"},"size":10149,"modificationTime":1649311610800,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311610808,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":890,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10149"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}
