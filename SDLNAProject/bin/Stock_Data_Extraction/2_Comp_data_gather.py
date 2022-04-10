@@ -21,8 +21,9 @@ import csv
 import time
 
 # datetime object containing current date and time
-abs_path = os.path.dirname(os.path.abspath(__file__))
+abs_path = os.path.dirname(os.path.abspath(__file__))   #/home/akash/Downloads/SDLNAProject_final/SDLNAProject/bin/Stock_Data_Extraction/2_Comp_data_gather.py
 # print(os.getcwd())
+
 
 os.chdir(f'{abs_path}/../../etc/config/')
 config = configparser.ConfigParser()
@@ -63,7 +64,7 @@ with open('./2_scriptstock.csv', 'rt') as f:
         while True:
             try:
                 gk = 0
-                chrome.get(f'https://www.screener.in/company/{row[0]}')
+                chrome.get(f'https://www.screener.in/company/{row[0]}') #https://www.screener.in/company/20MICRONS
                 time.sleep(2)
                 export = chrome.find_element_by_xpath('//*[@id="top"]/div[1]/form/button')
 
@@ -111,6 +112,7 @@ with open('./2_scriptstock.csv', 'rt') as f:
 
             break;
 file1.close()
+file2.close()
 f.close()
 
 

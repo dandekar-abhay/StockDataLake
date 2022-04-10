@@ -1,0 +1,100 @@
+:: loading settings :: url = jar:file:/home/akash/DBDA_HOME/spark-3.1.3-bin-hadoop3.2/jars/ivy-2.4.0.jar!/org/apache/ivy/core/settings/ivysettings.xml
+Enter the no. of days to check the lagging trend:(Keep it below 7)Last 3 days uptrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|   KIRLOSENG|            3|
+|   3IINFOLTD|            3|
+|  SCHAEFFLER|            3|
+|   VIKASPROP|            3|
+|      AAKASH|            3|
+|    FMGOETZE|            3|
+|        IDEA|            3|
+|   PANAMAPET|            3|
+|    ANGELONE|            3|
+|       ARIES|            3|
+|      AUBANK|            3|
+|       GEPIL|            3|
+|      MAXIND|            3|
+|    A2ZINFRA|            3|
+|     KILITCH|            3|
+|    PETRONET|            3|
+|  INCREDIBLE|            3|
+|  MAHESHWARI|            3|
+|      RALLIS|            3|
+|       ROLLT|            3|
++------------+-------------+
+only showing top 20 rows
+
+Lagging 7 days downtrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
++------------+-------------+
+
+Last 3 days downtrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|  HITECHCORP|            3|
+|    MINDAIND|            3|
+|  IBULHSGFIN|            3|
+|   ELGIEQUIP|            3|
+|      SASKEN|            3|
+|     HUBTOWN|            3|
+|     POKARNA|            3|
+|     GOLDIAM|            3|
+|    HDFCBANK|            3|
+|        ISEC|            3|
+|      PFOCUS|            3|
+|      NCLIND|            3|
+|    SAPPHIRE|            3|
+|   BLKASHYAP|            3|
+|  ARVINDFASN|            3|
+|     DHUNINV|            3|
+|  KEYFINSERV|            3|
+|  AJANTPHARM|            3|
+|        BASF|            3|
+|         SGL|            3|
++------------+-------------+
+only showing top 20 rows
+
+Lagging 7 days uptrending Companies are:
+
++------------+-------------+
+|Company_Name|count_of_days|
++------------+-------------+
+|    GODREJCP|            7|
+|    ASHOKLEY|            7|
+|         SGL|            7|
+|   DALBHARAT|            7|
+|  HINDUNILVR|            7|
+|  SIMPLEXINF|            7|
+|   AXISCADES|            7|
+|    TVSMOTOR|            7|
+|     BIGBLOC|            7|
+|   BAJAJELEC|            7|
+|      COLPAL|            7|
+|    ADANIENT|            7|
+|  BLUESTARCO|            7|
+|   BRITANNIA|            7|
+|   CRAFTSMAN|            7|
++------------+-------------+
+
+Companies to Buy stocks based on 10 days analysis are:
++------------+
+|Company_Name|
++------------+
++------------+
+
+Companies to short the stocks based on 10 days analysis are:
++------------+
+|Company_Name|
++------------+
+|         SGL|
+|   AXISCADES|
++------------+
+
