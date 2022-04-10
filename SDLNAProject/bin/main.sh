@@ -13,10 +13,7 @@ jtrader zerodha startsession
 
 echo "Collecting data now ...."
 bash ./Stock_Data_Extraction/1_BASHStockScript.sh
-#if grep -Fxq "Error" Eror_log_main.txt
-#then
-#  jtrader zerodha startsession
-#fi
+
 sleep 4s
 
 echo "Performing File Handling operations now ...."
@@ -24,7 +21,7 @@ echo "To proceed further make sure to 'change the renaming files config files co
 read -p "Press any key to continue... " -n 1 -s
 
 
-mkdir ../data/scriptnamedata_"$date_var"
+mkdir ../data/data_"$date_var"/scriptnamedata
 #hdfs dfs -mkdir ./data_"$date_var"
 
 python ./File_handling/renaming_files.py
@@ -34,8 +31,15 @@ echo "Choose the pattern recognition technique to follow:
 
     Enter the choice number you want to perform:  "
 read choice3
+touch ../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
 if [ $choice3 == "1" ]
 then
-    python ../Spark_window_pattern_recognition/Candle_pattern_prog.py  | tee ../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
+  python ../Spark_window_pattern_recognition/Candle_pattern_prog.py  | tee -a ../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
+  counter=$(( counter +1))
+  echo "------------------------------------------------------------------------------------------------------">>../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
+  echo " NEXT OUTPUT |  NEXT OUTPUT |  NEXT OUTPUT |  NEXT OUTPUT |  NEXT OUTPUT |  NEXT OUTPUT |  NEXT OUTPUT">>../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
+  echo "------------------------------------------------------------------------------------------------------">>../Spark_window_pattern_recognition/Analysis_Output_"$date_var".txt
+
 fi
+
 echo

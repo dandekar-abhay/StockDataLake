@@ -14,7 +14,7 @@ spark = configure_spark_with_delta_pip(builder).getOrCreate()
 
 df = spark.read\
     .format("Delta")\
-    .load("hdfs://localhost:9000/user/akash/data_2022-04-07/stock_data/")
+    .load("hdfs://localhost:9000/user/akash/data_2022-04-09/stock_data/")
 
 df = df.withColumn("date", func.to_date(func.col("date")))
 # df.printSchema()
@@ -44,21 +44,21 @@ df_3_down_cnt=df_3_down.groupBy("Company_Name").agg(count('Day_Trend').alias('co
 
 df_7_up_cnt=df_7_up.groupBy("Company_Name").agg(count('Day_Trend').alias('count_of_days')).where(col('count_of_days')==choice)
 
-print("Last 3 days uptrending Companies are:")
-print()
-df_3_up_cnt.show()
-
-print(f"Lagging {choice} days downtrending Companies are:")
-print()
-df_7_down_cnt.show()
-
-print("Last 3 days downtrending Companies are:")
-print()
-df_3_down_cnt.show()
-
-print(f"Lagging {choice} days uptrending Companies are:")
-print()
-df_7_up_cnt.show()
+# print("Last 3 days uptrending Companies are:")
+# print()
+# df_3_up_cnt.show()
+#
+# print(f"Lagging {choice} days downtrending Companies are:")
+# print()
+# df_7_down_cnt.show()
+#
+# print("Last 3 days downtrending Companies are:")
+# print()
+# df_3_down_cnt.show()
+#
+# print(f"Lagging {choice} days uptrending Companies are:")
+# print()
+# df_7_up_cnt.show()
 
 print(f"Companies to Buy stocks based on {choice+3} days analysis are:")
 list_7_down=(df_7_down_cnt.select('Company_Name').
@@ -72,7 +72,7 @@ df_3_down_cnt.filter(df_3_down_cnt.Company_Name.isin(list_7_up)).select('Company
 # Output:
 
 # Enter the no. of days to check the lagging trend:(Keep it below 7)5
-# Last 3 days uptrending Companies are:
+# Last 3 days uptrending Companies are: 27-30
 
 # +------------+-------------+
 # |Company_Name|count_of_days|
@@ -100,7 +100,7 @@ df_3_down_cnt.filter(df_3_down_cnt.Company_Name.isin(list_7_up)).select('Company
 # +------------+-------------+
 # only showing top 20 rows
 #
-# Lagging 5 days downtrending Companies are:
+# Lagging 5 days downtrending Companies are:    22-27
 #
 # +------------+-------------+
 # |Company_Name|count_of_days|
