@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DHANBANK/part-00000-24165694-2e78-4eee-8652-503b4c838c28.c000.snappy.parquet","partitionValues":{"Company_Name":"DHANBANK"},"size":7742,"modificationTime":1649310905974,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310905979,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":405,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7742"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

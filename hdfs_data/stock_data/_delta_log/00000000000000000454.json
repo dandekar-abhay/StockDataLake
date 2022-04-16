@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=QUICKHEAL/part-00000-a902335c-833d-41f9-a537-de013b6f50cf.c000.snappy.parquet","partitionValues":{"Company_Name":"QUICKHEAL"},"size":10174,"modificationTime":1649310973955,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310973962,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":453,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10174"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

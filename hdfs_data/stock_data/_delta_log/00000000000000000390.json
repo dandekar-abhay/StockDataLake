@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PANACHE/part-00000-7e269cb2-9948-4730-997a-976454939186.c000.snappy.parquet","partitionValues":{"Company_Name":"PANACHE"},"size":9997,"modificationTime":1649310883268,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310883276,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":389,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9997"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

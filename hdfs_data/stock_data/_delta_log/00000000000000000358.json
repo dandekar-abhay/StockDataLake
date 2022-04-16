@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KHAICHEM/part-00000-381c0f8e-645e-486a-80ac-00429f0c6404.c000.snappy.parquet","partitionValues":{"Company_Name":"KHAICHEM"},"size":10343,"modificationTime":1649310840057,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310840061,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":357,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10343"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

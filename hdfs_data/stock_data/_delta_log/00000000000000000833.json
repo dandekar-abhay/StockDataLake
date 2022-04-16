@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TVSSRICHAK/part-00000-639a8160-fdd8-4186-aa70-661989b2a667.c000.snappy.parquet","partitionValues":{"Company_Name":"TVSSRICHAK"},"size":10323,"modificationTime":1649311527906,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311527908,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":832,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10323"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

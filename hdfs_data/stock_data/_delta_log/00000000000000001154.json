@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PRESSMN/part-00000-feed067b-42ff-4c31-9a4b-ae83ab596863.c000.snappy.parquet","partitionValues":{"Company_Name":"PRESSMN"},"size":9044,"modificationTime":1649311968542,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311968550,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1153,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9044"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

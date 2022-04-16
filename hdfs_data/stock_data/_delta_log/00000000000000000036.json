@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AJOONI/part-00000-d7135eac-73a6-46ad-ad95-580345d38b56.c000.snappy.parquet","partitionValues":{"Company_Name":"AJOONI"},"size":7617,"modificationTime":1649310447721,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310447724,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":35,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"164","numOutputBytes":"7617"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNTECK/part-00000-e5e0532a-d513-4506-8153-67c27020db33.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNTECK"},"size":10175,"modificationTime":1649310956538,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310956545,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":440,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10175"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

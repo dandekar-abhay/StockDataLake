@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BYKE/part-00000-cbd41eb5-e575-4b2c-973e-2dbef116b6e4.c000.snappy.parquet","partitionValues":{"Company_Name":"BYKE"},"size":9479,"modificationTime":1649310628308,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310628311,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":192,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9479"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

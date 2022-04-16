@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNDRMBRAK/part-00000-3114ce41-5b99-4165-bb6a-2861faac1605.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNDRMBRAK"},"size":10456,"modificationTime":1649311749481,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311749489,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":993,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10456"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

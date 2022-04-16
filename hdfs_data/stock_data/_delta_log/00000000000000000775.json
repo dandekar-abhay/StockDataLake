@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GET&D/part-00000-5334f440-fc1e-453a-9ddd-0ac4f477ef8b.c000.snappy.parquet","partitionValues":{"Company_Name":"GET&D"},"size":10316,"modificationTime":1649311447557,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311447560,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":774,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10316"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

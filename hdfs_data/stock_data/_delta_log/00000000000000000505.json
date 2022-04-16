@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VIKASLIFE/part-00000-783df6aa-cea0-408e-8bbf-e64a0df56e7e.c000.snappy.parquet","partitionValues":{"Company_Name":"VIKASLIFE"},"size":6659,"modificationTime":1649311048729,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311048736,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":504,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6659"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

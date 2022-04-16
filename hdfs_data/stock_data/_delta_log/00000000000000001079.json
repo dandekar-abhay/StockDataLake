@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MTARTECH/part-00000-664b8953-ae6e-4d58-bbe0-f6f566d8c651.c000.snappy.parquet","partitionValues":{"Company_Name":"MTARTECH"},"size":8799,"modificationTime":1649311862111,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311862119,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1078,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"199","numOutputBytes":"8799"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

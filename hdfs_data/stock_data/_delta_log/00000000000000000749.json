@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDIAMART/part-00000-ae1f8de1-4c7f-42d3-8541-b190e56a7709.c000.snappy.parquet","partitionValues":{"Company_Name":"INDIAMART"},"size":10663,"modificationTime":1649311408144,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311408151,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":748,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10663"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

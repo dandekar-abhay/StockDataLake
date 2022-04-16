@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PARAS/part-00000-0331070d-c391-4fec-b4cf-d4d1927cfd36.c000.snappy.parquet","partitionValues":{"Company_Name":"PARAS"},"size":4583,"modificationTime":1649310458169,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310458178,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":43,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"63","numOutputBytes":"4583"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

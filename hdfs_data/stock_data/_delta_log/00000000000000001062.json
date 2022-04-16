@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHRIRAMPPS/part-00000-d79965b2-6792-4764-b1db-3c7b680e0671.c000.snappy.parquet","partitionValues":{"Company_Name":"SHRIRAMPPS"},"size":2757,"modificationTime":1649311839730,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311839736,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1061,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"10","numOutputBytes":"2757"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CAREERP/part-00000-3e78ec41-027b-451f-87fd-f4911dcb307f.c000.snappy.parquet","partitionValues":{"Company_Name":"CAREERP"},"size":10247,"modificationTime":1649311882725,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311882732,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1092,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10247"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

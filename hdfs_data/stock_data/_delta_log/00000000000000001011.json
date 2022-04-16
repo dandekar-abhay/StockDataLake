@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NITCO/part-00000-d0815143-0991-40a8-9283-807c1afcca3b.c000.snappy.parquet","partitionValues":{"Company_Name":"NITCO"},"size":9009,"modificationTime":1649311773483,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311773485,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1010,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9009"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

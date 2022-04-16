@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PARAGMILK/part-00000-1adc30be-b47f-4e8c-a454-122091ccccda.c000.snappy.parquet","partitionValues":{"Company_Name":"PARAGMILK"},"size":10518,"modificationTime":1649310976761,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310976768,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":455,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10518"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COLPAL/part-00000-6371e21b-9168-4af6-8eac-a5f65fcbbd71.c000.snappy.parquet","partitionValues":{"Company_Name":"COLPAL"},"size":10216,"modificationTime":1649311236505,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311236508,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":634,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10216"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SMLT/part-00000-e23d0030-b918-4ade-98c8-e65f658d7326.c000.snappy.parquet","partitionValues":{"Company_Name":"SMLT"},"size":3329,"modificationTime":1649311551069,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311551077,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":849,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"27","numOutputBytes":"3329"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=THEMISMED/part-00000-13197a21-4f6e-4777-85e4-24cfc95bfc28.c000.snappy.parquet","partitionValues":{"Company_Name":"THEMISMED"},"size":10224,"modificationTime":1649310672954,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310672958,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":231,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10224"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

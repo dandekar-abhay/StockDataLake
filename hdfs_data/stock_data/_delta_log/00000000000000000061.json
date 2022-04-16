@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SANSERA/part-00000-7dfde957-1c0a-4029-8500-95c993f20d6a.c000.snappy.parquet","partitionValues":{"Company_Name":"SANSERA"},"size":4645,"modificationTime":1649310478333,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310478342,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":60,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"68","numOutputBytes":"4645"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

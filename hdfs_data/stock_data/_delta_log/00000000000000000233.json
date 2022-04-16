@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAZDA/part-00000-4a88ac7a-c179-416b-bb86-fa8e6f6b4176.c000.snappy.parquet","partitionValues":{"Company_Name":"MAZDA"},"size":10025,"modificationTime":1649310673893,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310673899,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":232,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10025"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

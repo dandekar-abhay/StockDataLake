@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EXCEL/part-00000-4e1325b9-3b14-4dc5-9141-d9528d768ed4.c000.snappy.parquet","partitionValues":{"Company_Name":"EXCEL"},"size":7185,"modificationTime":1649311234526,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311234534,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":632,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7185"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHAGYAPROP/part-00000-99dd9c4b-ee28-4af9-9abe-b6557130abd4.c000.snappy.parquet","partitionValues":{"Company_Name":"BHAGYAPROP"},"size":8811,"modificationTime":1649310744478,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310744480,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":286,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8811"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

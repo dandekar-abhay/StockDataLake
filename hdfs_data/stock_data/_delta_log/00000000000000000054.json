@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SURANAT&P/part-00000-9bbf86d3-fe82-4c75-875c-770205e5851d.c000.snappy.parquet","partitionValues":{"Company_Name":"SURANAT&P"},"size":7811,"modificationTime":1649310470521,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310470525,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":53,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7811"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

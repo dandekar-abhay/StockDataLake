@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MATRIMONY/part-00000-072a55d3-5f98-4713-93b5-05836b13e14e.c000.snappy.parquet","partitionValues":{"Company_Name":"MATRIMONY"},"size":10102,"modificationTime":1649311382030,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311382033,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":730,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10102"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

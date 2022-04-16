@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATACONSUM/part-00000-7b13db5e-de3c-4495-9d8a-f9cf9aa0ffd8.c000.snappy.parquet","partitionValues":{"Company_Name":"TATACONSUM"},"size":10037,"modificationTime":1649310728620,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310728623,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":274,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10037"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

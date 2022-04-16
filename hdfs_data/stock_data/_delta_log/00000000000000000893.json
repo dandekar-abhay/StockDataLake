@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RANASUG/part-00000-28c954e5-1a55-4e2c-be00-4ece6db7b778.c000.snappy.parquet","partitionValues":{"Company_Name":"RANASUG"},"size":9590,"modificationTime":1649311613181,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311613187,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":892,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9590"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

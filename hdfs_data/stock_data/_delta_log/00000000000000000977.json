@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ALPA/part-00000-6e379fde-addf-4c9b-9b91-90292a04a766.c000.snappy.parquet","partitionValues":{"Company_Name":"ALPA"},"size":9880,"modificationTime":1649311726311,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311726313,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":976,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9880"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJAJFINSV/part-00000-4e9b54d4-4774-4fa0-8bf5-4e0ee8454612.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJAJFINSV"},"size":11009,"modificationTime":1649310864501,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310864507,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":375,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"11009"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

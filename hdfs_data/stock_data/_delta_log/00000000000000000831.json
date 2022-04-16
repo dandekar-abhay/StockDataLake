@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RAMCOCEM/part-00000-2dfdc1ea-4eb8-4128-9bcc-2bcc63da2863.c000.snappy.parquet","partitionValues":{"Company_Name":"RAMCOCEM"},"size":10065,"modificationTime":1649311525578,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311525585,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":830,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10065"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

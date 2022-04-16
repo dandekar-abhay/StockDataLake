@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MCDOWELL-N/part-00000-1543f10c-22e6-4739-a31c-f880f3757f9f.c000.snappy.parquet","partitionValues":{"Company_Name":"MCDOWELL-N"},"size":10107,"modificationTime":1649310917490,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310917496,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":413,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10107"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

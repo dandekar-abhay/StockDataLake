@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PAISALO/part-00000-81816420-cdcb-4603-addf-ca97205eadea.c000.snappy.parquet","partitionValues":{"Company_Name":"PAISALO"},"size":10078,"modificationTime":1649311125654,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311125661,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":558,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10078"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

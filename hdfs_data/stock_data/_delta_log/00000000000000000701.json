@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=STLTECH/part-00000-ebebef23-3a21-4171-a267-640cead7b4c1.c000.snappy.parquet","partitionValues":{"Company_Name":"STLTECH"},"size":10154,"modificationTime":1649311337681,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311337684,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":700,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10154"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

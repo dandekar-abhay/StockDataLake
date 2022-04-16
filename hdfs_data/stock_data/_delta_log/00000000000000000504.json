@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ROUTE/part-00000-b985ee61-79c6-4c39-b5cd-a3f05c689fd4.c000.snappy.parquet","partitionValues":{"Company_Name":"ROUTE"},"size":10215,"modificationTime":1649311047365,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311047372,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":503,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10215"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

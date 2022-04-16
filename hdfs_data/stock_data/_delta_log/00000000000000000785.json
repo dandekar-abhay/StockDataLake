@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VISHAL/part-00000-9101512c-0b41-4ceb-915c-8fa48e30af4f.c000.snappy.parquet","partitionValues":{"Company_Name":"VISHAL"},"size":9917,"modificationTime":1649311460551,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311460559,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":784,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9917"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

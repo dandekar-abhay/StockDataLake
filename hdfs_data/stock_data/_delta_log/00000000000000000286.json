@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MANGALAM/part-00000-93959cd1-ed85-4b7f-a717-6e96843c2841.c000.snappy.parquet","partitionValues":{"Company_Name":"MANGALAM"},"size":10412,"modificationTime":1649310743119,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310743123,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":285,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10412"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANMOL/part-00000-f63083c2-8697-44e7-84df-db92f9e119a4.c000.snappy.parquet","partitionValues":{"Company_Name":"ANMOL"},"size":7113,"modificationTime":1649311784442,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311784445,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1018,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"145","numOutputBytes":"7113"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

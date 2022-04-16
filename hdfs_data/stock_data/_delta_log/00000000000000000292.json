@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RBLBANK/part-00000-5ba56995-162b-41fa-b744-c3f7abd4fa5b.c000.snappy.parquet","partitionValues":{"Company_Name":"RBLBANK"},"size":10312,"modificationTime":1649310751706,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310751709,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":291,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10312"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

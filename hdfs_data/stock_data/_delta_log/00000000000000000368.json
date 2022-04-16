@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VEDL/part-00000-2faa0cf0-5dab-4e96-8fc2-0d8818377925.c000.snappy.parquet","partitionValues":{"Company_Name":"VEDL"},"size":10279,"modificationTime":1649310854145,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310854147,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":367,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10279"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASTRON/part-00000-71a7d20f-2261-4294-9016-8d3096d31330.c000.snappy.parquet","partitionValues":{"Company_Name":"ASTRON"},"size":9972,"modificationTime":1649311281447,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311281449,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":662,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9972"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CGCL/part-00000-deced0db-43a5-4461-97c2-cdffbbcc99d1.c000.snappy.parquet","partitionValues":{"Company_Name":"CGCL"},"size":10382,"modificationTime":1649310463223,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310463226,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":47,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10382"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

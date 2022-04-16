@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FINCABLES/part-00000-ff1abc0c-ad79-4460-ae6f-a7b9b7bc1d5e.c000.snappy.parquet","partitionValues":{"Company_Name":"FINCABLES"},"size":10056,"modificationTime":1649311145539,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311145544,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":571,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10056"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

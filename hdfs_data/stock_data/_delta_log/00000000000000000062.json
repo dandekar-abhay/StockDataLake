@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ESABINDIA/part-00000-be53cc2b-9dae-448d-9487-2f294c33b23a.c000.snappy.parquet","partitionValues":{"Company_Name":"ESABINDIA"},"size":10253,"modificationTime":1649310479361,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310479364,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":61,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10253"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

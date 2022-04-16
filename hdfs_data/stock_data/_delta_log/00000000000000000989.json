@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATASTLLP/part-00000-11a5fa5c-8599-49a4-84ea-056e69a26beb.c000.snappy.parquet","partitionValues":{"Company_Name":"TATASTLLP"},"size":10315,"modificationTime":1649311741890,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311741893,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":988,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10315"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

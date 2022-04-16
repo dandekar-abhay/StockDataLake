@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=POWERMECH/part-00000-597b4fdf-fea8-4acb-b6e5-0615719c391c.c000.snappy.parquet","partitionValues":{"Company_Name":"POWERMECH"},"size":10214,"modificationTime":1649311685936,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311685939,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":945,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10214"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANDHRACEMT/part-00000-5099a56e-c808-4a52-b432-ae444c1429c0.c000.snappy.parquet","partitionValues":{"Company_Name":"ANDHRACEMT"},"size":8932,"modificationTime":1649311414575,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311414583,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":752,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8932"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

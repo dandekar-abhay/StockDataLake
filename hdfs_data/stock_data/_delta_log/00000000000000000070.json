@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PONNIERODE/part-00000-eb42ce2b-f246-461b-8c1b-66a609b1e315.c000.snappy.parquet","partitionValues":{"Company_Name":"PONNIERODE"},"size":10398,"modificationTime":1649310488543,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310488546,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":69,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10398"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BESTAGRO/part-00000-6c38fef6-5f07-4f6e-b6e1-557f13b8118b.c000.snappy.parquet","partitionValues":{"Company_Name":"BESTAGRO"},"size":9302,"modificationTime":1649310807230,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310807236,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":332,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"213","numOutputBytes":"9302"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJAJHIND/part-00000-959720b2-b060-4f14-9db1-73af2b133816.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJAJHIND"},"size":8602,"modificationTime":1649311725353,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311725360,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":975,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8602"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

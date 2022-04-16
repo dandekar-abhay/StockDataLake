@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GALAXYSURF/part-00000-c6ea6365-3ccb-4f9a-973c-fd7d24248029.c000.snappy.parquet","partitionValues":{"Company_Name":"GALAXYSURF"},"size":10465,"modificationTime":1649310499204,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310499207,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":78,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10465"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

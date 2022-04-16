@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MOHITIND/part-00000-3938c4f3-d43c-4276-a5c2-70c6fb944c4f.c000.snappy.parquet","partitionValues":{"Company_Name":"MOHITIND"},"size":8682,"modificationTime":1649311256056,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311256060,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":646,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"246","numOutputBytes":"8682"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

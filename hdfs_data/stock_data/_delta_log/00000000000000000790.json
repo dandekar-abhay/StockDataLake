@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SPANDANA/part-00000-b9bb67da-173e-4502-b018-464e7ff9620f.c000.snappy.parquet","partitionValues":{"Company_Name":"SPANDANA"},"size":10105,"modificationTime":1649311466951,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311466960,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":789,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10105"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

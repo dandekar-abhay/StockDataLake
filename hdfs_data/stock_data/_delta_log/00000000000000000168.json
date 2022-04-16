@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DLF/part-00000-1a9455d8-78d1-4854-af10-a6e1e32706b2.c000.snappy.parquet","partitionValues":{"Company_Name":"DLF"},"size":10081,"modificationTime":1649310598332,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310598336,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":167,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10081"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

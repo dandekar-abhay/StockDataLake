@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AUSOMENT/part-00000-26934728-3031-4f8b-ab9b-83a5f4d89f8f.c000.snappy.parquet","partitionValues":{"Company_Name":"AUSOMENT"},"size":10474,"modificationTime":1649310459208,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310459211,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":44,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10474"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

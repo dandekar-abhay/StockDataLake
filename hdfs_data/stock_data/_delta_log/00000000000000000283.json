@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ELECTCAST/part-00000-65111257-97e8-4811-be78-6c500ed0c4ef.c000.snappy.parquet","partitionValues":{"Company_Name":"ELECTCAST"},"size":9297,"modificationTime":1649310739473,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310739481,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":282,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9297"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GODREJCP/part-00000-0051dbb1-2037-4d31-8366-3db15872b95b.c000.snappy.parquet","partitionValues":{"Company_Name":"GODREJCP"},"size":10153,"modificationTime":1649311829249,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311829256,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1053,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10153"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

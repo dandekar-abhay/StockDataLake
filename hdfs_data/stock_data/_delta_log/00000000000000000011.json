@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UCOBANK/part-00000-e8cd188b-ccc8-47ba-9042-05fc554ca5fb.c000.snappy.parquet","partitionValues":{"Company_Name":"UCOBANK"},"size":7346,"modificationTime":1649310417130,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310417135,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":10,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7346"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

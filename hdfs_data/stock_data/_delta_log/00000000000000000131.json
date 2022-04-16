@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANKITMETAL/part-00000-41faedaf-45a0-4c7e-b263-ecf3c58c86f3.c000.snappy.parquet","partitionValues":{"Company_Name":"ANKITMETAL"},"size":7469,"modificationTime":1649310558092,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310558094,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":130,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"239","numOutputBytes":"7469"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

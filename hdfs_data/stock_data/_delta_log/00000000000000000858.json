@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MUTHOOTFIN/part-00000-dc5a2b12-0a2a-4a0d-ad51-72be260ad7c2.c000.snappy.parquet","partitionValues":{"Company_Name":"MUTHOOTFIN"},"size":10304,"modificationTime":1649311562655,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311562662,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":857,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10304"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

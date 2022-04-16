@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AMARAJABAT/part-00000-76a244e2-b6d0-4219-847e-8d91fdb9e35d.c000.snappy.parquet","partitionValues":{"Company_Name":"AMARAJABAT"},"size":10068,"modificationTime":1649310681177,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310681185,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":237,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10068"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

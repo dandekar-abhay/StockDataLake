@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHIL/part-00000-b403a42d-f688-4617-8210-b32e5c2c29ac.c000.snappy.parquet","partitionValues":{"Company_Name":"SHIL"},"size":10110,"modificationTime":1649312000149,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312000156,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1176,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10110"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

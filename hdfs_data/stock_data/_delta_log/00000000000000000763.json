@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASTRAZEN/part-00000-1767396e-e27a-434a-82c7-706b966dd517.c000.snappy.parquet","partitionValues":{"Company_Name":"ASTRAZEN"},"size":10454,"modificationTime":1649311428574,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311428580,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":762,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10454"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

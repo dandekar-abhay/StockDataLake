@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDBANK/part-00000-4240d322-bbaa-40e5-ab6d-9f5bf4fbe6b5.c000.snappy.parquet","partitionValues":{"Company_Name":"INDBANK"},"size":9297,"modificationTime":1649310663794,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310663800,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":223,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9297"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

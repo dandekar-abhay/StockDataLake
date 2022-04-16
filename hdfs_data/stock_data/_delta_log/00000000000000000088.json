@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JISLDVREQS/part-00000-4e8a9c91-d0f5-4fdc-bdbd-08feb54c1774.c000.snappy.parquet","partitionValues":{"Company_Name":"JISLDVREQS"},"size":9234,"modificationTime":1649310509625,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310509629,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":87,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9234"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

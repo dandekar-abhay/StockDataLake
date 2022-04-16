@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BANARBEADS/part-00000-8c689800-8ad8-4db8-80d3-63129f2723c9.c000.snappy.parquet","partitionValues":{"Company_Name":"BANARBEADS"},"size":10121,"modificationTime":1649311129039,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311129047,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":560,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10121"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

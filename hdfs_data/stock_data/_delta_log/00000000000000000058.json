@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GMRINFRA/part-00000-05f68829-674d-4d92-bcef-daea72e075c5.c000.snappy.parquet","partitionValues":{"Company_Name":"GMRINFRA"},"size":9468,"modificationTime":1649310474646,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310474649,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":57,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9468"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

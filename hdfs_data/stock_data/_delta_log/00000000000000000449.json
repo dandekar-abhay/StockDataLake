@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LIBAS/part-00000-cd15f7d4-5de6-4fc8-9fe9-790a019bab37.c000.snappy.parquet","partitionValues":{"Company_Name":"LIBAS"},"size":9937,"modificationTime":1649310966792,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310966798,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":448,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9937"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

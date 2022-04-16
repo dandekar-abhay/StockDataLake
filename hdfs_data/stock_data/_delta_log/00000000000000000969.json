@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LCCINFOTEC/part-00000-112d18e4-1b37-480d-90a5-5cbbacff8ac1.c000.snappy.parquet","partitionValues":{"Company_Name":"LCCINFOTEC"},"size":5966,"modificationTime":1649311715938,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311715943,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":968,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"188","numOutputBytes":"5966"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NURECA/part-00000-4080ea7f-9918-4bcd-a2c5-3ecf6444a493.c000.snappy.parquet","partitionValues":{"Company_Name":"NURECA"},"size":9077,"modificationTime":1649311058456,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311058466,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":510,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"210","numOutputBytes":"9077"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

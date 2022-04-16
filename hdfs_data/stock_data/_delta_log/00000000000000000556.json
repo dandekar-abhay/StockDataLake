@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SOBHA/part-00000-aa9f2b7e-d1ac-44c0-a97b-c90c28603209.c000.snappy.parquet","partitionValues":{"Company_Name":"SOBHA"},"size":10192,"modificationTime":1649311121482,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311121489,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":555,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10192"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

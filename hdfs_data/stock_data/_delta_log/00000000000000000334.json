@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KIRLOSENG/part-00000-874e4578-3cd6-4198-afd9-c72461ec9034.c000.snappy.parquet","partitionValues":{"Company_Name":"KIRLOSENG"},"size":10209,"modificationTime":1649310808579,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310808587,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":333,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10209"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

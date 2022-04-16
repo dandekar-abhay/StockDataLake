@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MANAKCOAT/part-00000-e49a6dd3-6951-49a1-a870-22e24ecd99eb.c000.snappy.parquet","partitionValues":{"Company_Name":"MANAKCOAT"},"size":9133,"modificationTime":1649311860320,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311860322,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1077,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9133"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FLFL/part-00000-f0df01a7-2fb5-4da3-aca0-8d55fff268c5.c000.snappy.parquet","partitionValues":{"Company_Name":"FLFL"},"size":10233,"modificationTime":1649311446425,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311446432,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":773,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10233"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

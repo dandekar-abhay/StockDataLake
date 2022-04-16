@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WELENT/part-00000-d5b2d505-79d9-4785-828e-8392a582f244.c000.snappy.parquet","partitionValues":{"Company_Name":"WELENT"},"size":10231,"modificationTime":1649310758109,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310758113,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":296,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10231"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

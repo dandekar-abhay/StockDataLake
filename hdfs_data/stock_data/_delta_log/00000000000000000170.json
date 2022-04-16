@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RADICO/part-00000-7ca8f172-c597-430f-b64d-aedfca04996c.c000.snappy.parquet","partitionValues":{"Company_Name":"RADICO"},"size":10186,"modificationTime":1649310600262,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310600264,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":169,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10186"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

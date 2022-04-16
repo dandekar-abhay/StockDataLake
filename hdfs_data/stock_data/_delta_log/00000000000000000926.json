@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SIGACHI/part-00000-3609da91-2eca-4f3a-aa9c-80ba4105fbd9.c000.snappy.parquet","partitionValues":{"Company_Name":"SIGACHI"},"size":3589,"modificationTime":1649311659114,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311659121,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":925,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"34","numOutputBytes":"3589"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

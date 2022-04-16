@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SBICARD/part-00000-32a92b5c-6e24-4861-a73f-08e660ad6adf.c000.snappy.parquet","partitionValues":{"Company_Name":"SBICARD"},"size":10145,"modificationTime":1649311954589,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311954596,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1143,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10145"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VIVIMEDLAB/part-00000-10156717-643f-4396-b261-d6850fbd4142.c000.snappy.parquet","partitionValues":{"Company_Name":"VIVIMEDLAB"},"size":9298,"modificationTime":1649311435884,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311435888,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":767,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9298"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

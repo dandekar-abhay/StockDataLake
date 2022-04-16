@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNFLAG/part-00000-0d9f7a80-2cb5-4aba-83bf-aeace4b73ed8.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNFLAG"},"size":10142,"modificationTime":1649310460693,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310460696,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":45,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10142"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JINDALSAW/part-00000-462646e6-04ff-4ee8-9366-ec5c42d2824f.c000.snappy.parquet","partitionValues":{"Company_Name":"JINDALSAW"},"size":10528,"modificationTime":1649311793467,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311793469,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1025,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10528"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

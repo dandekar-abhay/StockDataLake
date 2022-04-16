@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NXTDIGITAL/part-00000-5d48aa26-e596-445d-8a6f-6df1efbbe8ea.c000.snappy.parquet","partitionValues":{"Company_Name":"NXTDIGITAL"},"size":10308,"modificationTime":1649311360321,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311360324,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":715,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10308"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

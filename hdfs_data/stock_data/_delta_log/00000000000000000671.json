@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WINDLAS/part-00000-cbbe4e68-87c4-446f-9f51-0a3dc7112d77.c000.snappy.parquet","partitionValues":{"Company_Name":"WINDLAS"},"size":5490,"modificationTime":1649311292031,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311292036,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":670,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"95","numOutputBytes":"5490"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

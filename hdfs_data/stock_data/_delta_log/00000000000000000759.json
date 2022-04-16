@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VIJAYA/part-00000-2bbd3bfc-45bd-4e98-be20-04112abe1cb1.c000.snappy.parquet","partitionValues":{"Company_Name":"VIJAYA"},"size":4988,"modificationTime":1649311422688,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311422695,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":758,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"76","numOutputBytes":"4988"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

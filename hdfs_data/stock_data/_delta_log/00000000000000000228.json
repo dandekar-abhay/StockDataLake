@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATAMOTORS/part-00000-ba1958af-a23f-45ce-80cd-7eedde3be674.c000.snappy.parquet","partitionValues":{"Company_Name":"TATAMOTORS"},"size":10251,"modificationTime":1649310668507,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310668515,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":227,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10251"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

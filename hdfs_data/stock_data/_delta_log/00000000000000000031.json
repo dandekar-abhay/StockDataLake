@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BCLIND/part-00000-65d454f3-9fd2-4a10-82f1-334a8c1a00ac.c000.snappy.parquet","partitionValues":{"Company_Name":"BCLIND"},"size":8886,"modificationTime":1649310441721,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310441724,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":30,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"205","numOutputBytes":"8886"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

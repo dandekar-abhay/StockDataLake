@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUTLEJTEX/part-00000-ae33558f-5f4f-4a8f-ba0c-50316e92cf3f.c000.snappy.parquet","partitionValues":{"Company_Name":"SUTLEJTEX"},"size":10393,"modificationTime":1649311228916,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311228924,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":629,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10393"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

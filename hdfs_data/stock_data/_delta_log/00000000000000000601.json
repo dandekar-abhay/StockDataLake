@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IRCON/part-00000-ff6312f4-2689-466b-85af-55196b555d40.c000.snappy.parquet","partitionValues":{"Company_Name":"IRCON"},"size":8630,"modificationTime":1649311184452,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311184456,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":600,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8630"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

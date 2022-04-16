@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LUMAXIND/part-00000-3a3413c4-43a0-4a1c-adb8-614dd698e7c1.c000.snappy.parquet","partitionValues":{"Company_Name":"LUMAXIND"},"size":10164,"modificationTime":1649311573411,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311573417,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":865,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10164"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

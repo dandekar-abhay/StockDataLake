@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MANAKSTEEL/part-00000-150c8d12-7e91-4a44-995f-5297b33450ea.c000.snappy.parquet","partitionValues":{"Company_Name":"MANAKSTEEL"},"size":9519,"modificationTime":1649311990709,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311990716,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1169,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9519"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

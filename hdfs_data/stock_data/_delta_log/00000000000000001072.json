@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LYKALABS/part-00000-79f30049-5897-4eef-95a6-aa87b2a50c1e.c000.snappy.parquet","partitionValues":{"Company_Name":"LYKALABS"},"size":10738,"modificationTime":1649311852435,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311852437,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1071,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10738"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

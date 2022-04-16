@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARIES/part-00000-b1fb4339-d3dd-4f20-b6a5-b30fbb73d6de.c000.snappy.parquet","partitionValues":{"Company_Name":"ARIES"},"size":10292,"modificationTime":1649311592566,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311592568,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":878,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10292"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

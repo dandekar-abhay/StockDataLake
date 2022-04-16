@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TIMETECHNO/part-00000-614531f3-1491-4e9e-a4da-2d2217ab987e.c000.snappy.parquet","partitionValues":{"Company_Name":"TIMETECHNO"},"size":10298,"modificationTime":1649310981385,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310981393,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":458,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10298"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

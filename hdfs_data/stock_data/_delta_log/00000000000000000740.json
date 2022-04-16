@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WESTLIFE/part-00000-f38ab11b-a2f9-4afd-ad5c-63cb00bdd8c9.c000.snappy.parquet","partitionValues":{"Company_Name":"WESTLIFE"},"size":10016,"modificationTime":1649311395272,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311395275,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":739,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10016"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

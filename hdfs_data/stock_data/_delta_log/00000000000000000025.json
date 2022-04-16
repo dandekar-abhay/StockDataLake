@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KUANTUM/part-00000-b2441edf-eaab-48f8-8108-56cc9062045c.c000.snappy.parquet","partitionValues":{"Company_Name":"KUANTUM"},"size":10412,"modificationTime":1649310434075,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310434078,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":24,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10412"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JUSTDIAL/part-00000-6b87093d-83d6-427b-babe-a3be34ad34e2.c000.snappy.parquet","partitionValues":{"Company_Name":"JUSTDIAL"},"size":10226,"modificationTime":1649310879543,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310879551,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":386,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10226"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

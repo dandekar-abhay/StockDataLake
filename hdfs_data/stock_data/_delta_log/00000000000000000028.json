@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ZEEL/part-00000-3d4e04b6-c37f-420d-988e-bed4cc3dd2e0.c000.snappy.parquet","partitionValues":{"Company_Name":"ZEEL"},"size":10366,"modificationTime":1649310438137,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310438140,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":27,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10366"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

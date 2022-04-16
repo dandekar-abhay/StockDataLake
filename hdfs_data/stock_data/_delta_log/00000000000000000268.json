@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SVPGLOB/part-00000-3c9ac323-cb27-4bb6-96bd-0352251fad3e.c000.snappy.parquet","partitionValues":{"Company_Name":"SVPGLOB"},"size":6302,"modificationTime":1649310719571,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310719580,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":267,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"117","numOutputBytes":"6302"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GRINDWELL/part-00000-18c5ebbf-2777-443b-a5ee-f0943e717fce.c000.snappy.parquet","partitionValues":{"Company_Name":"GRINDWELL"},"size":10273,"modificationTime":1649311681207,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311681213,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":941,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10273"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

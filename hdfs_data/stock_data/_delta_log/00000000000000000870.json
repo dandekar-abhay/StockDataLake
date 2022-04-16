@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=STEELCITY/part-00000-fff910b8-92aa-465c-b561-474cc7c0154d.c000.snappy.parquet","partitionValues":{"Company_Name":"STEELCITY"},"size":9896,"modificationTime":1649311580092,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311580100,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":869,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9896"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

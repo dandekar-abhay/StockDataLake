@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHREYAS/part-00000-e4709b05-9001-4ce3-a227-09f09130a9c8.c000.snappy.parquet","partitionValues":{"Company_Name":"SHREYAS"},"size":10212,"modificationTime":1649310693066,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310693073,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":246,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10212"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

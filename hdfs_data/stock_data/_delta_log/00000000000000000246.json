@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SKIPPER/part-00000-ebd180a2-f906-4513-ad6e-4e07625e3483.c000.snappy.parquet","partitionValues":{"Company_Name":"SKIPPER"},"size":10383,"modificationTime":1649310691703,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310691711,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":245,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10383"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TGBHOTELS/part-00000-0723e2dc-f898-4869-919d-1c335af5ee0c.c000.snappy.parquet","partitionValues":{"Company_Name":"TGBHOTELS"},"size":7882,"modificationTime":1649310831714,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310831722,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":350,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7882"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

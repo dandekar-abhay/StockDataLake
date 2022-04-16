@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SAPPHIRE/part-00000-3ff6dbef-d9f6-42d0-bb71-7fa6b9adfc25.c000.snappy.parquet","partitionValues":{"Company_Name":"SAPPHIRE"},"size":3500,"modificationTime":1649311166998,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311167005,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":588,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"31","numOutputBytes":"3500"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

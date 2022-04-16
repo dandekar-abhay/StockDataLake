@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=POONAWALLA/part-00000-54dd38a0-bac6-4505-bb61-c0faffae0d54.c000.snappy.parquet","partitionValues":{"Company_Name":"POONAWALLA"},"size":10200,"modificationTime":1649310960728,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310960736,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":443,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10200"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

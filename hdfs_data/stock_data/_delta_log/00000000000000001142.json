@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SUNDRMFAST/part-00000-7025fe4f-b3a0-4d9a-aef7-a195346b59a9.c000.snappy.parquet","partitionValues":{"Company_Name":"SUNDRMFAST"},"size":10118,"modificationTime":1649311952244,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311952252,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1141,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

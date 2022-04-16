@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ALANKIT/part-00000-f51f4664-9510-4a65-b56b-2a93a0a9296e.c000.snappy.parquet","partitionValues":{"Company_Name":"ALANKIT"},"size":8444,"modificationTime":1649310804897,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310804905,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":330,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8444"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UMANGDAIRY/part-00000-16071786-72a0-4d02-a8ad-082e8833a957.c000.snappy.parquet","partitionValues":{"Company_Name":"UMANGDAIRY"},"size":10129,"modificationTime":1649310938814,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310938817,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":428,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10129"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

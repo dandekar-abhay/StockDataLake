@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IDFCFIRSTB/part-00000-b1981788-a3c5-467e-b6e5-1b49840875a5.c000.snappy.parquet","partitionValues":{"Company_Name":"IDFCFIRSTB"},"size":9901,"modificationTime":1649310637941,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310637944,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":201,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9901"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

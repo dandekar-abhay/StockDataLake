@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GREENPLY/part-00000-76843c96-3e41-4fba-99af-516a6236c559.c000.snappy.parquet","partitionValues":{"Company_Name":"GREENPLY"},"size":10326,"modificationTime":1649311756747,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311756754,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":998,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10326"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GENCON/part-00000-06ac7650-5950-4b32-bb35-e0f563dce541.c000.snappy.parquet","partitionValues":{"Company_Name":"GENCON"},"size":8872,"modificationTime":1649311844801,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311844806,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1065,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"217","numOutputBytes":"8872"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

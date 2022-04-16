@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAJAJELEC/part-00000-0695d565-05e7-40c1-b478-67a9edbda434.c000.snappy.parquet","partitionValues":{"Company_Name":"BAJAJELEC"},"size":10146,"modificationTime":1649311044641,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311044652,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":501,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10146"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

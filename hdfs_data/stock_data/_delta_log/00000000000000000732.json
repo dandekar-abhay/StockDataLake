@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARTEMISMED/part-00000-6f48789f-c750-4974-b5d5-f1a286bc663c.c000.snappy.parquet","partitionValues":{"Company_Name":"ARTEMISMED"},"size":9475,"modificationTime":1649311383408,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311383412,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":731,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9475"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

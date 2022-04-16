@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VINYLINDIA/part-00000-107a5f45-030c-41e7-ac82-b0810e7b1635.c000.snappy.parquet","partitionValues":{"Company_Name":"VINYLINDIA"},"size":10400,"modificationTime":1649310950017,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310950025,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":436,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10400"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COCHINSHIP/part-00000-51f2884a-c9fa-49a6-acdd-444fb0ea7603.c000.snappy.parquet","partitionValues":{"Company_Name":"COCHINSHIP"},"size":10394,"modificationTime":1649311486386,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311486392,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":802,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10394"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AHLEAST/part-00000-33370072-4a98-4ce2-abaf-136afa6ab4d8.c000.snappy.parquet","partitionValues":{"Company_Name":"AHLEAST"},"size":10378,"modificationTime":1649310985138,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310985146,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":460,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10378"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

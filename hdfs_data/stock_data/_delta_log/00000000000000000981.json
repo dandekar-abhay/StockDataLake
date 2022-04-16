@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PSB/part-00000-b1e14b05-1d46-494c-8f19-6f8868646e8e.c000.snappy.parquet","partitionValues":{"Company_Name":"PSB"},"size":8358,"modificationTime":1649311732477,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311732483,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":980,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8358"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

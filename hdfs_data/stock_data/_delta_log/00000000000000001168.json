@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RTNPOWER/part-00000-69f981ca-8724-45b4-adc9-2cab6fd41455.c000.snappy.parquet","partitionValues":{"Company_Name":"RTNPOWER"},"size":7574,"modificationTime":1649311987172,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311987176,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1167,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7574"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

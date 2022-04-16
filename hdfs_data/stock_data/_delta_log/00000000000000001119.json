@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EMMBI/part-00000-dac4af68-3bb1-4cb5-ad53-d9488aa7d832.c000.snappy.parquet","partitionValues":{"Company_Name":"EMMBI"},"size":10208,"modificationTime":1649311919537,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311919543,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1118,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10208"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CCHHL/part-00000-4a0461a0-6982-4b41-8237-28b8fe70d2af.c000.snappy.parquet","partitionValues":{"Company_Name":"CCHHL"},"size":7525,"modificationTime":1649310755375,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310755378,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":294,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7525"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

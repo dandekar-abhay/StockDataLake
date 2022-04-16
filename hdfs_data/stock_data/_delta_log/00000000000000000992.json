@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DHARAMSI/part-00000-6c247022-ae55-4aa8-85f7-241885fef19c.c000.snappy.parquet","partitionValues":{"Company_Name":"DHARAMSI"},"size":3209,"modificationTime":1649311746678,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311746686,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":991,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"23","numOutputBytes":"3209"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

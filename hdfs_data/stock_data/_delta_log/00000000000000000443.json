@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IFCI/part-00000-6650aa61-64a3-4dd2-8e72-b1add2ab124c.c000.snappy.parquet","partitionValues":{"Company_Name":"IFCI"},"size":8232,"modificationTime":1649310959310,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310959318,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":442,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8232"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

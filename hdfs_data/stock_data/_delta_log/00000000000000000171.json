@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HARRMALAYA/part-00000-4413b771-e5e0-4ade-a8c5-df0271101ba8.c000.snappy.parquet","partitionValues":{"Company_Name":"HARRMALAYA"},"size":10237,"modificationTime":1649310601865,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310601873,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":170,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10237"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

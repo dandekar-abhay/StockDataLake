@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KMSUGAR/part-00000-9c0a57fb-7368-4dbf-b89b-0627db0ab690.c000.snappy.parquet","partitionValues":{"Company_Name":"KMSUGAR"},"size":9415,"modificationTime":1649311342665,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311342673,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":703,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9415"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

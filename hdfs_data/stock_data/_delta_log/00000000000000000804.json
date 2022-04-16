@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PIONEEREMB/part-00000-8c1ea3f7-8435-4d31-87a7-56132c42de43.c000.snappy.parquet","partitionValues":{"Company_Name":"PIONEEREMB"},"size":10074,"modificationTime":1649311487301,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311487307,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":803,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10074"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

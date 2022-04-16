@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ROSSARI/part-00000-2184161d-2a94-4c3b-8296-a0f3b1142129.c000.snappy.parquet","partitionValues":{"Company_Name":"ROSSARI"},"size":10135,"modificationTime":1649310547116,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310547124,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":120,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10135"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

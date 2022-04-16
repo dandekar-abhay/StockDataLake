@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SONATSOFTW/part-00000-2a8e8de8-b227-4d7f-aacc-2ee84b8871ad.c000.snappy.parquet","partitionValues":{"Company_Name":"SONATSOFTW"},"size":10180,"modificationTime":1649310787461,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310787468,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":318,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10180"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

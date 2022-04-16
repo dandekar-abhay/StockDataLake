@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WEIZMANIND/part-00000-ac643ba0-33b3-48e6-a8d6-4add81308bfe.c000.snappy.parquet","partitionValues":{"Company_Name":"WEIZMANIND"},"size":9776,"modificationTime":1649310445054,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310445057,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":33,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9776"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

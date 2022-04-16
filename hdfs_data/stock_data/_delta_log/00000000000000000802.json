@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANGELONE/part-00000-4927a6b3-48f0-4dd3-968f-c79b91024a0d.c000.snappy.parquet","partitionValues":{"Company_Name":"ANGELONE"},"size":10269,"modificationTime":1649311485037,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311485045,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":801,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10269"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EXXARO/part-00000-2b29756e-6b3f-4bb9-ac67-169696089a92.c000.snappy.parquet","partitionValues":{"Company_Name":"EXXARO"},"size":5511,"modificationTime":1649310801486,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310801492,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":328,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"95","numOutputBytes":"5511"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

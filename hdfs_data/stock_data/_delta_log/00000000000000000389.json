@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BLKASHYAP/part-00000-302b3e8d-9c46-485e-82a5-be6627fc226c.c000.snappy.parquet","partitionValues":{"Company_Name":"BLKASHYAP"},"size":9641,"modificationTime":1649310881896,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310881904,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":388,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9641"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

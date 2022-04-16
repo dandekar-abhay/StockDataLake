@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VERTOZ/part-00000-a7c56ee3-b4e0-441d-be83-599b91493f9e.c000.snappy.parquet","partitionValues":{"Company_Name":"VERTOZ"},"size":10451,"modificationTime":1649311413084,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311413089,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":751,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10451"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

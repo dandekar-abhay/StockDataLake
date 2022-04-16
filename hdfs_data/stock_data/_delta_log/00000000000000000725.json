@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MALUPAPER/part-00000-04df7236-564c-4b7d-be9b-2195f72cf34e.c000.snappy.parquet","partitionValues":{"Company_Name":"MALUPAPER"},"size":9444,"modificationTime":1649311373847,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311373856,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":724,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9444"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

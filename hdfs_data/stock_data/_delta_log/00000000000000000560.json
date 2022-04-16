@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ALLSEC/part-00000-9f6316d0-8e20-450c-8802-dca9b5f725a4.c000.snappy.parquet","partitionValues":{"Company_Name":"ALLSEC"},"size":10148,"modificationTime":1649311127013,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311127020,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":559,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10148"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

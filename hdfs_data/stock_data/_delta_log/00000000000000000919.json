@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GPIL/part-00000-33ea7ca1-fbc3-474a-ad95-96e38cc3c8b7.c000.snappy.parquet","partitionValues":{"Company_Name":"GPIL"},"size":10190,"modificationTime":1649311650533,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311650540,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":918,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10190"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

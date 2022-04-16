@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DOLATALGO/part-00000-38891091-b427-487a-bd37-01660f55234e.c000.snappy.parquet","partitionValues":{"Company_Name":"DOLATALGO"},"size":10428,"modificationTime":1649311733444,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311733450,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":981,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10428"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

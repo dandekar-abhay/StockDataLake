@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SOLARINDS/part-00000-cf07fb84-f85d-4def-b49e-8e0bf0b55894.c000.snappy.parquet","partitionValues":{"Company_Name":"SOLARINDS"},"size":10283,"modificationTime":1649310836356,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310836359,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":354,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10283"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

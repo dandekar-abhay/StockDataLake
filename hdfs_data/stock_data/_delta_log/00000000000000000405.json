@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FCONSUMER/part-00000-55b3ed2f-3d65-4a96-90bc-f5f82456a537.c000.snappy.parquet","partitionValues":{"Company_Name":"FCONSUMER"},"size":7327,"modificationTime":1649310904182,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310904190,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":404,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7327"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RUSHIL/part-00000-88530d3c-2c68-422e-b4ef-76e0f95ce4ba.c000.snappy.parquet","partitionValues":{"Company_Name":"RUSHIL"},"size":10180,"modificationTime":1649310604283,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310604286,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":172,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10180"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

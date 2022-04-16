@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PTL/part-00000-43364278-218a-4a24-bd3f-182b1006f41a.c000.snappy.parquet","partitionValues":{"Company_Name":"PTL"},"size":8785,"modificationTime":1649310813757,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310813760,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":337,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8785"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MAHABANK/part-00000-0ee7dc73-337c-42bd-a0eb-dbc45226b68d.c000.snappy.parquet","partitionValues":{"Company_Name":"MAHABANK"},"size":9034,"modificationTime":1649311312951,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311312958,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":684,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9034"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

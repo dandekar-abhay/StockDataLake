@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HOVS/part-00000-ec69eb2f-93f0-4f84-905f-69581488f23e.c000.snappy.parquet","partitionValues":{"Company_Name":"HOVS"},"size":10236,"modificationTime":1649311045614,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311045617,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":502,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10236"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

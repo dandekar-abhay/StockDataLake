@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FORCEMOT/part-00000-c910cda2-7cb1-4dd0-a567-a3f732829bac.c000.snappy.parquet","partitionValues":{"Company_Name":"FORCEMOT"},"size":10059,"modificationTime":1649311515274,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311515282,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":823,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10059"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

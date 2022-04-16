@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GOCOLORS/part-00000-29431dac-e991-41bc-b2d4-7e40a6c1ae3d.c000.snappy.parquet","partitionValues":{"Company_Name":"GOCOLORS"},"size":3228,"modificationTime":1649310781472,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310781479,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":313,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"24","numOutputBytes":"3228"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

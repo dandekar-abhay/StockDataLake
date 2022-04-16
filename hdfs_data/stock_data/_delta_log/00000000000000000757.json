@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LOTUSEYE/part-00000-6068d769-d5f0-4f4b-bc4f-ab122919f959.c000.snappy.parquet","partitionValues":{"Company_Name":"LOTUSEYE"},"size":9456,"modificationTime":1649311419899,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311419902,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":756,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9456"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

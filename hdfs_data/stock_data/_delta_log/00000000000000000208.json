@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BALAXI/part-00000-ff7225e9-8746-4768-8614-a5ae48650304.c000.snappy.parquet","partitionValues":{"Company_Name":"BALAXI"},"size":10291,"modificationTime":1649310644836,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310644844,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":207,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10291"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SCHNEIDER/part-00000-3d6f156c-f210-47a9-88ad-b2a92b2ed1e6.c000.snappy.parquet","partitionValues":{"Company_Name":"SCHNEIDER"},"size":10607,"modificationTime":1649310937837,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310937844,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":427,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10607"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

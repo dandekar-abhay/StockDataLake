@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SADBHIN/part-00000-fe55f27b-127c-4d4d-96d9-61f0434e4005.c000.snappy.parquet","partitionValues":{"Company_Name":"SADBHIN"},"size":9450,"modificationTime":1649311621486,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311621488,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":898,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9450"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

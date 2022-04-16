@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KAUSHALYA/part-00000-910c7d28-e899-4f69-991e-95f1c2114797.c000.snappy.parquet","partitionValues":{"Company_Name":"KAUSHALYA"},"size":6620,"modificationTime":1649311938279,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311938282,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1131,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6620"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KIRLOSBROS/part-00000-2e809035-2b21-48a7-a86d-c3b37b9e7cab.c000.snappy.parquet","partitionValues":{"Company_Name":"KIRLOSBROS"},"size":10153,"modificationTime":1649311195456,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311195459,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":607,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10153"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

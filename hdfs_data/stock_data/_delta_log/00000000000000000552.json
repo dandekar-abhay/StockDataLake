@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JINDALSTEL/part-00000-8c898c46-a5b7-4c70-8197-c5b7bf9818d0.c000.snappy.parquet","partitionValues":{"Company_Name":"JINDALSTEL"},"size":10298,"modificationTime":1649311116057,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311116065,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":551,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10298"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

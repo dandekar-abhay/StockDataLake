@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UFLEX/part-00000-77d9242c-609b-4b55-9a54-14a48c86d449.c000.snappy.parquet","partitionValues":{"Company_Name":"UFLEX"},"size":10109,"modificationTime":1649310924885,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310924893,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":418,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10109"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

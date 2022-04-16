@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KABRAEXTRU/part-00000-60bc227d-e68e-4fcf-a387-d87bf449e6f3.c000.snappy.parquet","partitionValues":{"Company_Name":"KABRAEXTRU"},"size":10196,"modificationTime":1649310994711,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310994721,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":467,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10196"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

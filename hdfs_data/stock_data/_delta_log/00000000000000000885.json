@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HDFC/part-00000-d9306d11-2d8f-4bdb-8982-bf6e3f44828d.c000.snappy.parquet","partitionValues":{"Company_Name":"HDFC"},"size":10407,"modificationTime":1649311601790,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311601797,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":884,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10407"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

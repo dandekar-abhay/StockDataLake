@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MANAPPURAM/part-00000-86605dd2-650d-4e95-82cc-7da518b67d2a.c000.snappy.parquet","partitionValues":{"Company_Name":"MANAPPURAM"},"size":10503,"modificationTime":1649311523133,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311523137,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":829,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10503"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

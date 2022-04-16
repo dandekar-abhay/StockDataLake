@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FORTIS/part-00000-e843ab30-bc8c-4540-8b1c-4fe3a9ac4158.c000.snappy.parquet","partitionValues":{"Company_Name":"FORTIS"},"size":10175,"modificationTime":1649310482877,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310482880,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":64,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10175"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

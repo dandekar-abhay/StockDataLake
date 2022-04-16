@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VINEETLAB/part-00000-baaaf4cc-b1ee-4e04-8dca-686be334f3be.c000.snappy.parquet","partitionValues":{"Company_Name":"VINEETLAB"},"size":7030,"modificationTime":1649311684949,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311684957,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":944,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"138","numOutputBytes":"7030"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

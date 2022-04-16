@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANANDRATHI/part-00000-1a5c71d9-b330-4a11-b55a-1c72c6f41e3a.c000.snappy.parquet","partitionValues":{"Company_Name":"ANANDRATHI"},"size":2891,"modificationTime":1649311875618,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311875625,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1087,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"14","numOutputBytes":"2891"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

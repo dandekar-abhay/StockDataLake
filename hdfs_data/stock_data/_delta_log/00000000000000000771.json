@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FLEXITUFF/part-00000-8f954ad3-5909-453b-b785-70c98f1887a0.c000.snappy.parquet","partitionValues":{"Company_Name":"FLEXITUFF"},"size":9045,"modificationTime":1649311441298,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311441301,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":770,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9045"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

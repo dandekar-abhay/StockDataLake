@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HAVELLS/part-00000-db79ec86-f01b-4ca0-aa3a-f35880a50971.c000.snappy.parquet","partitionValues":{"Company_Name":"HAVELLS"},"size":10109,"modificationTime":1649311258835,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311258839,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":648,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10109"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INCREDIBLE/part-00000-2a960bb4-900a-45d6-bd57-3dcd20b294d8.c000.snappy.parquet","partitionValues":{"Company_Name":"INCREDIBLE"},"size":9306,"modificationTime":1649311624825,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311624831,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":900,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9306"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ACRYSIL/part-00000-20e4b77f-74f2-4e71-b98b-3250af0dd2b0.c000.snappy.parquet","partitionValues":{"Company_Name":"ACRYSIL"},"size":9963,"modificationTime":1649310885266,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310885269,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":390,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"239","numOutputBytes":"9963"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

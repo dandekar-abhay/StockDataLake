@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UNIDT/part-00000-0dcad18a-b863-41b3-9286-201b37bdff3d.c000.snappy.parquet","partitionValues":{"Company_Name":"UNIDT"},"size":10277,"modificationTime":1649311450187,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311450189,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":776,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10277"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

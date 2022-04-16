@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JPINFRATEC/part-00000-0e5bae4f-1dfc-4008-983d-2156ef4311a6.c000.snappy.parquet","partitionValues":{"Company_Name":"JPINFRATEC"},"size":6603,"modificationTime":1649310578302,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310578305,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":149,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6603"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

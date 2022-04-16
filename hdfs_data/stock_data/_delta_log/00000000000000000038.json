@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MARICO/part-00000-cc54bf2b-3572-4d79-8fbb-01434085dd99.c000.snappy.parquet","partitionValues":{"Company_Name":"MARICO"},"size":10126,"modificationTime":1649310449823,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310449827,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":37,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10126"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

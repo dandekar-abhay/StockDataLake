@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RATNAMANI/part-00000-204cf69e-c877-42aa-bd73-74a761200373.c000.snappy.parquet","partitionValues":{"Company_Name":"RATNAMANI"},"size":10587,"modificationTime":1649311838804,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311838807,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1060,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10587"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

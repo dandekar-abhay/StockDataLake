@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TINPLATE/part-00000-f67033a6-add7-4b43-aafd-cf90cd562985.c000.snappy.parquet","partitionValues":{"Company_Name":"TINPLATE"},"size":10101,"modificationTime":1649311948423,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311948428,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1139,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10101"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

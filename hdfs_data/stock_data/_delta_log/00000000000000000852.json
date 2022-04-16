@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HERANBA/part-00000-09f0668c-7659-437f-95b8-4ca549b661e3.c000.snappy.parquet","partitionValues":{"Company_Name":"HERANBA"},"size":8858,"modificationTime":1649311554055,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311554058,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":851,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"204","numOutputBytes":"8858"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

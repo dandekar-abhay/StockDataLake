@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=REPL/part-00000-558d8f4b-0881-48e2-a594-ad8ed3d0f241.c000.snappy.parquet","partitionValues":{"Company_Name":"REPL"},"size":10536,"modificationTime":1649310576203,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310576205,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":147,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10536"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

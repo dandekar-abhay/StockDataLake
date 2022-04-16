@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARIHANTSUP/part-00000-4e015084-4b22-4d10-96b8-eee4156f8adf.c000.snappy.parquet","partitionValues":{"Company_Name":"ARIHANTSUP"},"size":10420,"modificationTime":1649311455914,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311455916,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":780,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10420"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

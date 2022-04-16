@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CANBK/part-00000-b0289c17-366b-4cc0-85b0-8552fdfdef2e.c000.snappy.parquet","partitionValues":{"Company_Name":"CANBK"},"size":10362,"modificationTime":1649311283337,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311283343,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":664,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10362"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

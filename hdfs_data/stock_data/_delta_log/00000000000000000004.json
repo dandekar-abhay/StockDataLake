@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OBEROIRLTY/part-00000-fc757edb-1ed7-44fd-9f14-ccc74b7907db.c000.snappy.parquet","partitionValues":{"Company_Name":"OBEROIRLTY"},"size":10148,"modificationTime":1649310406121,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310406127,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":3,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10148"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

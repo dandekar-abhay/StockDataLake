@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TCNSBRANDS/part-00000-42ab7aa4-5184-4d0a-80c0-d00e1ef33f11.c000.snappy.parquet","partitionValues":{"Company_Name":"TCNSBRANDS"},"size":10118,"modificationTime":1649311873802,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311873804,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1086,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

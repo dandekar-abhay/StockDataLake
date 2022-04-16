@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MITTAL/part-00000-373853c4-b749-4e96-a939-ae165fda4862.c000.snappy.parquet","partitionValues":{"Company_Name":"MITTAL"},"size":7455,"modificationTime":1649311955963,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311955968,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1144,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7455"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHALBY/part-00000-1ebfa54b-2934-4cef-bb7a-50837d3dc900.c000.snappy.parquet","partitionValues":{"Company_Name":"SHALBY"},"size":10127,"modificationTime":1649311590272,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311590279,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":876,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10127"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

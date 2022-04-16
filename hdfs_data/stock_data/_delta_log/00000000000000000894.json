@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HCL-INSYS/part-00000-70c1b955-0890-414f-af48-bbd6b593286a.c000.snappy.parquet","partitionValues":{"Company_Name":"HCL-INSYS"},"size":8670,"modificationTime":1649311614163,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311614166,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":893,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8670"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

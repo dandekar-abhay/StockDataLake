@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CELEBRITY/part-00000-95636463-23f5-45d1-a3a8-9288b960945c.c000.snappy.parquet","partitionValues":{"Company_Name":"CELEBRITY"},"size":8261,"modificationTime":1649311913866,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311913872,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1113,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8261"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

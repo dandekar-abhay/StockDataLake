@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PNBHOUSING/part-00000-243b2d7f-7533-49b2-9e65-e985ac801b9e.c000.snappy.parquet","partitionValues":{"Company_Name":"PNBHOUSING"},"size":10191,"modificationTime":1649311802358,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311802361,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1031,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10191"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INOXWIND/part-00000-d3942d12-7e25-44dd-8a0b-c923efe81c2b.c000.snappy.parquet","partitionValues":{"Company_Name":"INOXWIND"},"size":10212,"modificationTime":1649311390565,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311390572,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":736,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10212"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

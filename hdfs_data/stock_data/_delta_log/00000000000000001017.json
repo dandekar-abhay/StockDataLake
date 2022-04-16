@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=RADIOCITY/part-00000-9f22d292-bf30-42ef-a032-ddfd115766e3.c000.snappy.parquet","partitionValues":{"Company_Name":"RADIOCITY"},"size":7588,"modificationTime":1649311782173,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311782180,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1016,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7588"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

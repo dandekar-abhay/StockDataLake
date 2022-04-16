@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ELGIEQUIP/part-00000-ff9ccf00-fcee-41f8-b1f4-bf7559198458.c000.snappy.parquet","partitionValues":{"Company_Name":"ELGIEQUIP"},"size":10425,"modificationTime":1649311653073,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311653080,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":920,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10425"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

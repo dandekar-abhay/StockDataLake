@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=FAIRCHEMOR/part-00000-6f4da5c9-b1dd-4c4d-b24b-665c95433987.c000.snappy.parquet","partitionValues":{"Company_Name":"FAIRCHEMOR"},"size":10270,"modificationTime":1649311995117,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311995124,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1172,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10270"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

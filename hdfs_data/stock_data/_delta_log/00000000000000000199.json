@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MINDTREE/part-00000-c4226e92-8f3f-4fdf-ad25-986aabed897d.c000.snappy.parquet","partitionValues":{"Company_Name":"MINDTREE"},"size":10619,"modificationTime":1649310634861,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310634865,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":198,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10619"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

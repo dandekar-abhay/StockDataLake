@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TATAELXSI/part-00000-a32b52d8-20d2-431e-8c0d-957d66232226.c000.snappy.parquet","partitionValues":{"Company_Name":"TATAELXSI"},"size":10682,"modificationTime":1649311010400,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311010408,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":478,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10682"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

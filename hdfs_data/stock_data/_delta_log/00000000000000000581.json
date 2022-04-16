@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAHARPOLY/part-00000-6346532e-fdb6-4a03-a954-377ec16cac77.c000.snappy.parquet","partitionValues":{"Company_Name":"NAHARPOLY"},"size":10185,"modificationTime":1649311157323,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311157329,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":580,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10185"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

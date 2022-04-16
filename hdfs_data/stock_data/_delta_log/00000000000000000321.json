@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ONELIFECAP/part-00000-f78e243c-f210-4427-869e-b8e9cc3adbc8.c000.snappy.parquet","partitionValues":{"Company_Name":"ONELIFECAP"},"size":8389,"modificationTime":1649310790867,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310790875,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":320,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"218","numOutputBytes":"8389"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

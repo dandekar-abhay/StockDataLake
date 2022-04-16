@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MBLINFRA/part-00000-ec2e12de-5a51-4e64-b0f7-aac2e7530207.c000.snappy.parquet","partitionValues":{"Company_Name":"MBLINFRA"},"size":8907,"modificationTime":1649312017102,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312017110,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1188,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8907"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

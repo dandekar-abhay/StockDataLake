@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=WSTCSTPAPR/part-00000-a280091d-7113-4ba2-84d6-c0458c9879cd.c000.snappy.parquet","partitionValues":{"Company_Name":"WSTCSTPAPR"},"size":10302,"modificationTime":1649311331008,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311331016,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":696,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10302"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

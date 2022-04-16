@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AYMSYNTEX/part-00000-65ecd83a-4c84-4905-8601-7570fe3d5077.c000.snappy.parquet","partitionValues":{"Company_Name":"AYMSYNTEX"},"size":10131,"modificationTime":1649311885841,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311885848,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1094,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10131"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

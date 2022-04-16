@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHARATWIRE/part-00000-c7955d40-bbaa-4566-9d0d-5c3de21680fc.c000.snappy.parquet","partitionValues":{"Company_Name":"BHARATWIRE"},"size":10035,"modificationTime":1649311399864,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311399866,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":742,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10035"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

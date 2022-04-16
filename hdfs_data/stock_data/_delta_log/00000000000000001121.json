@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=5PAISA/part-00000-34bf3351-51de-47aa-b1f9-dc472c53ab58.c000.snappy.parquet","partitionValues":{"Company_Name":"5PAISA"},"size":10321,"modificationTime":1649311922108,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311922111,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1120,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10321"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

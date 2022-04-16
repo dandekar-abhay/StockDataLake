@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=UDAICEMENT/part-00000-ac6b2a11-c659-4475-9231-9095ab02d6de.c000.snappy.parquet","partitionValues":{"Company_Name":"UDAICEMENT"},"size":2630,"modificationTime":1649310531951,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310531959,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":106,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"7","numOutputBytes":"2630"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

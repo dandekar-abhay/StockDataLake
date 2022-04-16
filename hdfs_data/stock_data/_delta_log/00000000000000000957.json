@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MFSL/part-00000-bb0634a8-ca1c-44a6-89a3-ca2f96c22ae4.c000.snappy.parquet","partitionValues":{"Company_Name":"MFSL"},"size":10100,"modificationTime":1649311700389,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311700394,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":956,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10100"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=POLICYBZR/part-00000-dff346b7-e1b2-46a8-8e4e-6776721c6960.c000.snappy.parquet","partitionValues":{"Company_Name":"POLICYBZR"},"size":3613,"modificationTime":1649310665763,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310665769,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":225,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"34","numOutputBytes":"3613"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

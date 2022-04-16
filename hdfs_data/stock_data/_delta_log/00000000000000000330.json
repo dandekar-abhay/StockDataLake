@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=OSWALAGRO/part-00000-2abc4e4a-cc9d-4537-abea-6ac1e3dda7e4.c000.snappy.parquet","partitionValues":{"Company_Name":"OSWALAGRO"},"size":9293,"modificationTime":1649310802853,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310802860,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":329,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9293"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

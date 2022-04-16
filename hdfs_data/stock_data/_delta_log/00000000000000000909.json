@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SOMICONVEY/part-00000-50e41035-c7ac-444a-a9bb-eb8f37299ddd.c000.snappy.parquet","partitionValues":{"Company_Name":"SOMICONVEY"},"size":10158,"modificationTime":1649311635800,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311635805,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":908,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10158"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TEGA/part-00000-8e1f535e-5cfc-4e20-8341-6a3d95e991d5.c000.snappy.parquet","partitionValues":{"Company_Name":"TEGA"},"size":2955,"modificationTime":1649311720248,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311720253,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":971,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"15","numOutputBytes":"2955"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

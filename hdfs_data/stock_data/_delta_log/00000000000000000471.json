@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CLSEL/part-00000-fcbd523d-6602-4d74-b355-6ae902b0e30a.c000.snappy.parquet","partitionValues":{"Company_Name":"CLSEL"},"size":7703,"modificationTime":1649310999045,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310999051,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":470,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"161","numOutputBytes":"7703"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

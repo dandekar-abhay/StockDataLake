@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CHEMPLASTS/part-00000-84dcc9b9-fe18-457e-a1db-cf83082be84e.c000.snappy.parquet","partitionValues":{"Company_Name":"CHEMPLASTS"},"size":5350,"modificationTime":1649310761221,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310761230,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":298,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"90","numOutputBytes":"5350"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

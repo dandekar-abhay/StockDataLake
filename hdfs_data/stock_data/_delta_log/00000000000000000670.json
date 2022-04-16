@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDTERRAIN/part-00000-43d50274-32d0-4a10-b88e-b218f436e19b.c000.snappy.parquet","partitionValues":{"Company_Name":"INDTERRAIN"},"size":10244,"modificationTime":1649311289079,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311289081,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":669,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10244"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

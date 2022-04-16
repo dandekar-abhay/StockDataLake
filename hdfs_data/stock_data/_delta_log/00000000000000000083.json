@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BIRLACABLE/part-00000-30cf66b8-b459-4581-a582-9c46436fc626.c000.snappy.parquet","partitionValues":{"Company_Name":"BIRLACABLE"},"size":10267,"modificationTime":1649310504354,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310504362,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":82,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10267"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

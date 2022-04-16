@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LINCOLN/part-00000-d55f0278-81ad-403f-855e-663258c49066.c000.snappy.parquet","partitionValues":{"Company_Name":"LINCOLN"},"size":10208,"modificationTime":1649310590452,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310590455,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":160,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10208"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MHRIL/part-00000-7c17d728-c693-401a-8c19-7c83912ef25a.c000.snappy.parquet","partitionValues":{"Company_Name":"MHRIL"},"size":10246,"modificationTime":1649311186251,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311186253,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":601,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10246"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

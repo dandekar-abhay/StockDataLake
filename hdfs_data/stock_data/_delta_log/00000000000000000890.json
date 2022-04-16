@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SALASAR/part-00000-b319a25d-7dc4-4488-a501-da045c8a2ba9.c000.snappy.parquet","partitionValues":{"Company_Name":"SALASAR"},"size":10274,"modificationTime":1649311608388,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311608390,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":889,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10274"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

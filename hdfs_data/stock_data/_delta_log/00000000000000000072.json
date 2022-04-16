@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IIFLSEC/part-00000-5b068914-e733-4c83-aa3d-94126e80190a.c000.snappy.parquet","partitionValues":{"Company_Name":"IIFLSEC"},"size":10545,"modificationTime":1649310491648,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310491655,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":71,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10545"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

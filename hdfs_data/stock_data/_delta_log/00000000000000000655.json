@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SBCL/part-00000-a2c7419a-803e-4707-ae62-98cc5ea7d8d4.c000.snappy.parquet","partitionValues":{"Company_Name":"SBCL"},"size":6670,"modificationTime":1649311268872,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311268877,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":654,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"131","numOutputBytes":"6670"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SHANTIGEAR/part-00000-85910462-8053-4ee5-a317-51fae404d0aa.c000.snappy.parquet","partitionValues":{"Company_Name":"SHANTIGEAR"},"size":10614,"modificationTime":1649311144169,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311144177,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":570,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10614"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

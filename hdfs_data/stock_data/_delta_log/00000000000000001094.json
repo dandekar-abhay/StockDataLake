@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=XELPMOC/part-00000-b0403aac-eff0-4375-a9a1-0bbfbce7f74e.c000.snappy.parquet","partitionValues":{"Company_Name":"XELPMOC"},"size":10204,"modificationTime":1649311884072,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311884080,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1093,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10204"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

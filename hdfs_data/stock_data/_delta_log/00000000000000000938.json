@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COMPUSOFT/part-00000-030d26b7-5b76-41b7-abda-4c2b9ed9b3dd.c000.snappy.parquet","partitionValues":{"Company_Name":"COMPUSOFT"},"size":8362,"modificationTime":1649311675072,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311675075,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":937,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8362"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

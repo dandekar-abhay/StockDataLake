@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SANDHAR/part-00000-f984c385-755e-4f9c-8a51-f124ad6e1dd1.c000.snappy.parquet","partitionValues":{"Company_Name":"SANDHAR"},"size":10447,"modificationTime":1649311160969,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311160976,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":583,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10447"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

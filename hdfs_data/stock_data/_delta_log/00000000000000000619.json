@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BALAMINES/part-00000-c8e74cfb-54a1-4d78-879f-0defe0a2c6a2.c000.snappy.parquet","partitionValues":{"Company_Name":"BALAMINES"},"size":10622,"modificationTime":1649311212388,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311212392,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":618,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10622"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

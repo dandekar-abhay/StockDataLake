@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ARSSINFRA/part-00000-a34d42b2-bade-42fd-9d82-8bcab2daef0d.c000.snappy.parquet","partitionValues":{"Company_Name":"ARSSINFRA"},"size":9079,"modificationTime":1649311880970,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311880973,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1091,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9079"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

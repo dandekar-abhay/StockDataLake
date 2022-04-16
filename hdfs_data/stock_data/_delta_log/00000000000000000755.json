@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VASCONEQ/part-00000-31d9169f-cde8-47d6-8a4c-471b601c272a.c000.snappy.parquet","partitionValues":{"Company_Name":"VASCONEQ"},"size":9258,"modificationTime":1649311417836,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311417844,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":754,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9258"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

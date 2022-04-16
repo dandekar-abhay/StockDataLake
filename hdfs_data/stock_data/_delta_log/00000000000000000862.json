@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CEATLTD/part-00000-a8341137-b3b5-438a-875e-dad1bca52ca8.c000.snappy.parquet","partitionValues":{"Company_Name":"CEATLTD"},"size":10247,"modificationTime":1649311569151,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311569156,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":861,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10247"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

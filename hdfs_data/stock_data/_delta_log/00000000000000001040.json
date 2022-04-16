@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AUTOIND/part-00000-a37d673b-a697-4861-b56f-7f93a6436484.c000.snappy.parquet","partitionValues":{"Company_Name":"AUTOIND"},"size":10118,"modificationTime":1649311811141,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311811148,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1039,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CTE/part-00000-4de0e5d2-bc66-4381-a057-d7037eea69b7.c000.snappy.parquet","partitionValues":{"Company_Name":"CTE"},"size":10622,"modificationTime":1649311335190,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311335196,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":699,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10622"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

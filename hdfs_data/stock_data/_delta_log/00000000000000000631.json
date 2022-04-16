@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AUTOAXLES/part-00000-53c9b3e4-8043-4648-b979-47051d2ec53a.c000.snappy.parquet","partitionValues":{"Company_Name":"AUTOAXLES"},"size":10249,"modificationTime":1649311231400,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311231408,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":630,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10249"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=INDIANHUME/part-00000-03648c59-1d95-4069-abda-eb5aa2242f86.c000.snappy.parquet","partitionValues":{"Company_Name":"INDIANHUME"},"size":10443,"modificationTime":1649311706229,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311706234,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":960,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10443"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

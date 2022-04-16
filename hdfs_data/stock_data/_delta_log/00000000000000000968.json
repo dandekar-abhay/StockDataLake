@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=IBREALEST/part-00000-dda98d66-a6e8-4b85-99e4-bc9ef39439d8.c000.snappy.parquet","partitionValues":{"Company_Name":"IBREALEST"},"size":10205,"modificationTime":1649311714564,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311714566,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":967,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10205"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

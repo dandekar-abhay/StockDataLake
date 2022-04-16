@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JSL/part-00000-5f4753c8-3103-4a8d-8b2b-68cb713b4d3c.c000.snappy.parquet","partitionValues":{"Company_Name":"JSL"},"size":10165,"modificationTime":1649310584777,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310584783,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":155,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10165"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

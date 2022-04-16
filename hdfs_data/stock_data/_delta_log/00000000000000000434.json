@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DWARKESH/part-00000-13b3ee94-9476-437e-9f34-c1c8c5e2d3e8.c000.snappy.parquet","partitionValues":{"Company_Name":"DWARKESH"},"size":10393,"modificationTime":1649310945906,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310945914,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":433,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10393"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

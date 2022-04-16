@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LPDC/part-00000-99b80b7b-1ccc-4e2e-9eef-f14d46a0cd93.c000.snappy.parquet","partitionValues":{"Company_Name":"LPDC"},"size":7622,"modificationTime":1649311643659,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311643661,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":913,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"7622"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

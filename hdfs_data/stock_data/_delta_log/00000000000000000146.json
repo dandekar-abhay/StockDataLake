@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AXISCADES/part-00000-d390447f-9be7-4d55-8de3-06079951b07c.c000.snappy.parquet","partitionValues":{"Company_Name":"AXISCADES"},"size":10190,"modificationTime":1649310574253,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310574258,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":145,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10190"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

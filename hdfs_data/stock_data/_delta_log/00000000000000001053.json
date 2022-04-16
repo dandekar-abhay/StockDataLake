@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ADORWELD/part-00000-e88b419d-31f4-4472-b525-98333513a6ca.c000.snappy.parquet","partitionValues":{"Company_Name":"ADORWELD"},"size":10128,"modificationTime":1649311827896,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311827902,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1052,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10128"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

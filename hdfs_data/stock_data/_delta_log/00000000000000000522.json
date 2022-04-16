@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NIITLTD/part-00000-ea20ebdc-ed9b-4999-8a20-89b63386e94b.c000.snappy.parquet","partitionValues":{"Company_Name":"NIITLTD"},"size":10297,"modificationTime":1649311073421,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311073429,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":521,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10297"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

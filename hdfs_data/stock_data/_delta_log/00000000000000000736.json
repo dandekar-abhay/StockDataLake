@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ANDREWYU/part-00000-02126fcf-9ea5-41f8-b49c-5b1ecbfc3ab4.c000.snappy.parquet","partitionValues":{"Company_Name":"ANDREWYU"},"size":5323,"modificationTime":1649311389132,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311389135,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":735,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"102","numOutputBytes":"5323"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

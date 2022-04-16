@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HONAUT/part-00000-aaab9d40-3fb4-4f94-ab61-243cfe9df789.c000.snappy.parquet","partitionValues":{"Company_Name":"HONAUT"},"size":10945,"modificationTime":1649310425893,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310425897,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":17,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10945"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

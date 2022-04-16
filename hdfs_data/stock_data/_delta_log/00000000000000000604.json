@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHARATGEAR/part-00000-48cddfe4-1b98-4480-b924-bf824f729237.c000.snappy.parquet","partitionValues":{"Company_Name":"BHARATGEAR"},"size":10118,"modificationTime":1649311189384,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311189387,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":603,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10118"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

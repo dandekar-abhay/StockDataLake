@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EIHOTEL/part-00000-e4debdc3-0253-4bfc-9e29-2e85850f96d8.c000.snappy.parquet","partitionValues":{"Company_Name":"EIHOTEL"},"size":10374,"modificationTime":1649312028022,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312028025,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1196,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10374"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

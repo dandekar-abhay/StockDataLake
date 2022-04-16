@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAMNAAUTO/part-00000-21a7ca02-8ea5-4f23-b2bf-872a92b945d2.c000.snappy.parquet","partitionValues":{"Company_Name":"JAMNAAUTO"},"size":10341,"modificationTime":1649311707546,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311707554,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":961,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10341"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

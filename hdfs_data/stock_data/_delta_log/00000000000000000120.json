@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GILLANDERS/part-00000-e79da05f-bac6-4110-9937-093aeb5c690b.c000.snappy.parquet","partitionValues":{"Company_Name":"GILLANDERS"},"size":9859,"modificationTime":1649310545462,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310545465,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":119,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9859"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

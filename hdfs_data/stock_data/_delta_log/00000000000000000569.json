@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SOMANYCERA/part-00000-6b279e00-a86c-44fb-a2dd-fb141bd2780d.c000.snappy.parquet","partitionValues":{"Company_Name":"SOMANYCERA"},"size":10423,"modificationTime":1649311140389,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311140396,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":568,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10423"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASHIANA/part-00000-ab7b50e3-690c-40c7-8f97-82af674ec6ad.c000.snappy.parquet","partitionValues":{"Company_Name":"ASHIANA"},"size":10259,"modificationTime":1649312042751,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312042754,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1208,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10259"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

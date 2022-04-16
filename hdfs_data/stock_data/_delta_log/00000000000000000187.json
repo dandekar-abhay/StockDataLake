@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=AVANTIFEED/part-00000-40e0e95d-0a49-4c0d-a14f-fbf70532bd07.c000.snappy.parquet","partitionValues":{"Company_Name":"AVANTIFEED"},"size":9968,"modificationTime":1649310620272,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310620275,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":186,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9968"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

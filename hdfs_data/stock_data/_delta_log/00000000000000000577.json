@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CESC/part-00000-4faceece-e362-4db1-a1fd-e5bc0a9db541.c000.snappy.parquet","partitionValues":{"Company_Name":"CESC"},"size":10079,"modificationTime":1649311151989,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311151994,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":576,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10079"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

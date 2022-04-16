@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COROMANDEL/part-00000-2e4db603-03e6-41a3-8981-c694fd12b6d7.c000.snappy.parquet","partitionValues":{"Company_Name":"COROMANDEL"},"size":9975,"modificationTime":1649311029320,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311029323,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":490,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9975"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

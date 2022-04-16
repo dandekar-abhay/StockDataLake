@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VALIANTORG/part-00000-bf652780-5dfd-47da-bf3b-71d93c743be0.c000.snappy.parquet","partitionValues":{"Company_Name":"VALIANTORG"},"size":10282,"modificationTime":1649310800074,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310800082,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":327,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10282"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

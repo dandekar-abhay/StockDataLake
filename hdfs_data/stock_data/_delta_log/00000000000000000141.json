@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=REMSONSIND/part-00000-8586ac59-b428-4ab4-834b-11c7048c0415.c000.snappy.parquet","partitionValues":{"Company_Name":"REMSONSIND"},"size":10582,"modificationTime":1649310569384,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310569391,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":140,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10582"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NOIDATOLL/part-00000-f70a8874-8acd-4686-9836-44e1dc4fae05.c000.snappy.parquet","partitionValues":{"Company_Name":"NOIDATOLL"},"size":6922,"modificationTime":1649311105832,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311105834,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":544,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"6922"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VGUARD/part-00000-55e84faf-3e13-4c83-a90b-63b1ebeffa4c.c000.snappy.parquet","partitionValues":{"Company_Name":"VGUARD"},"size":10322,"modificationTime":1649311520340,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311520344,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":827,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10322"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

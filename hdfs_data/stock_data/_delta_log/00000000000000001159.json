@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DHAMPURSUG/part-00000-eafed983-6a83-49c9-b7dd-1f2b710ccebb.c000.snappy.parquet","partitionValues":{"Company_Name":"DHAMPURSUG"},"size":10225,"modificationTime":1649311974554,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311974564,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1158,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10225"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

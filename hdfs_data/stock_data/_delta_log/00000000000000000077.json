@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=JAGSNPHARM/part-00000-036a75f3-344d-448c-a4ed-b6a81886111a.c000.snappy.parquet","partitionValues":{"Company_Name":"JAGSNPHARM"},"size":10498,"modificationTime":1649310497122,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310497126,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":76,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10498"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

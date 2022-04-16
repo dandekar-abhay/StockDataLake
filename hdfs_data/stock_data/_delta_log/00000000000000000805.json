@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EXIDEIND/part-00000-4c6b2a85-8792-42c8-bbca-75745704099d.c000.snappy.parquet","partitionValues":{"Company_Name":"EXIDEIND"},"size":10197,"modificationTime":1649311488654,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311488661,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":804,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10197"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

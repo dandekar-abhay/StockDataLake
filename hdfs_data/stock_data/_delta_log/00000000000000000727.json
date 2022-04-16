@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BHAGCHEM/part-00000-333f2aeb-ef25-43a9-a4c4-786083935f47.c000.snappy.parquet","partitionValues":{"Company_Name":"BHAGCHEM"},"size":4190,"modificationTime":1649311376661,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311376668,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":726,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"53","numOutputBytes":"4190"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

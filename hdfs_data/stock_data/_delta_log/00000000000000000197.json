@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HIRECT/part-00000-3adea883-fb82-4100-b41c-67dddfa65aca.c000.snappy.parquet","partitionValues":{"Company_Name":"HIRECT"},"size":10248,"modificationTime":1649310632923,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310632930,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":196,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10248"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

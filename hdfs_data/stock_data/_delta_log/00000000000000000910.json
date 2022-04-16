@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BLISSGVS/part-00000-962b474e-2def-43c0-97c7-32df7d7bc15e.c000.snappy.parquet","partitionValues":{"Company_Name":"BLISSGVS"},"size":10353,"modificationTime":1649311637156,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311637163,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":909,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10353"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SIGIND/part-00000-5f5c3b49-000b-428b-86ca-5956559042e1.c000.snappy.parquet","partitionValues":{"Company_Name":"SIGIND"},"size":10158,"modificationTime":1649311545952,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311545959,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":845,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10158"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

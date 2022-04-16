@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=MRF/part-00000-6fc94cfd-0bef-4023-ad93-c42d740c25b2.c000.snappy.parquet","partitionValues":{"Company_Name":"MRF"},"size":11052,"modificationTime":1649310625128,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310625136,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":190,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"11052"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

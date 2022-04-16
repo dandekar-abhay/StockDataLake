@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KKCL/part-00000-49c923d9-2b49-4cd5-a704-9301e7a8b53a.c000.snappy.parquet","partitionValues":{"Company_Name":"KKCL"},"size":10253,"modificationTime":1649310740439,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310740441,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":283,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10253"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

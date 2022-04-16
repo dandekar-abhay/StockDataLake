@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=LTTS/part-00000-57ed39fc-d12f-44d4-9674-e98c911cb440.c000.snappy.parquet","partitionValues":{"Company_Name":"LTTS"},"size":10627,"modificationTime":1649311298158,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311298164,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":674,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10627"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

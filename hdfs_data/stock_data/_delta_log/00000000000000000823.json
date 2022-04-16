@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASALCBR/part-00000-3d971cb9-ff14-41c2-9c0d-7598754091e2.c000.snappy.parquet","partitionValues":{"Company_Name":"ASALCBR"},"size":10259,"modificationTime":1649311513507,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311513512,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":822,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10259"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

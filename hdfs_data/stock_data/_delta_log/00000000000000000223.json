@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=TRIGYN/part-00000-5e26cdfe-ce22-4734-89c9-6d5aa5727cc0.c000.snappy.parquet","partitionValues":{"Company_Name":"TRIGYN"},"size":10295,"modificationTime":1649310662828,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310662837,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":222,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10295"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

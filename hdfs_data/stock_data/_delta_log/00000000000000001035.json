@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VBL/part-00000-4d9e6128-e4c4-4aaa-9a0f-bea8e4b14a82.c000.snappy.parquet","partitionValues":{"Company_Name":"VBL"},"size":10089,"modificationTime":1649311806048,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311806058,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1034,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10089"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

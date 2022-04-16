@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BEPL/part-00000-33b06200-7855-464b-9d83-8783fb4bdbf5.c000.snappy.parquet","partitionValues":{"Company_Name":"BEPL"},"size":10332,"modificationTime":1649311015561,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311015568,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":481,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10332"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

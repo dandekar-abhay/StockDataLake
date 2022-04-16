@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DODLA/part-00000-850241dd-4555-42ed-959a-7e5f09b9869f.c000.snappy.parquet","partitionValues":{"Company_Name":"DODLA"},"size":6619,"modificationTime":1649312044105,"dataChange":true}}
+{"commitInfo":{"timestamp":1649312044112,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1209,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"129","numOutputBytes":"6619"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

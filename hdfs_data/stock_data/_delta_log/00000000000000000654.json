@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=GOKEX/part-00000-42b8fb89-3b85-467a-a2b7-27ee21ff012b.c000.snappy.parquet","partitionValues":{"Company_Name":"GOKEX"},"size":10262,"modificationTime":1649311266954,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311266958,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":653,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10262"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

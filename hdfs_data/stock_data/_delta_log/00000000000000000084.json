@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=DEEPAKNTR/part-00000-f2b6148a-ef58-45ad-8c69-b569daf15496.c000.snappy.parquet","partitionValues":{"Company_Name":"DEEPAKNTR"},"size":10437,"modificationTime":1649310505423,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310505431,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":83,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10437"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

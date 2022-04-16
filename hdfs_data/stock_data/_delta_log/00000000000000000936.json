@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=SPECIALITY/part-00000-5fff8504-aa1c-478a-a390-8f4150e06b40.c000.snappy.parquet","partitionValues":{"Company_Name":"SPECIALITY"},"size":10626,"modificationTime":1649311672331,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311672335,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":935,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10626"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

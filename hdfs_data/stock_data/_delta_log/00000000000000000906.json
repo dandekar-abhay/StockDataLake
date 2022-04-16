@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=CENTURYPLY/part-00000-08575eec-3539-43c7-a032-7f975aca0c2f.c000.snappy.parquet","partitionValues":{"Company_Name":"CENTURYPLY"},"size":10333,"modificationTime":1649311632117,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311632125,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":905,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10333"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

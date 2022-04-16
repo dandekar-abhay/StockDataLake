@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=VENUSREM/part-00000-3d744bfd-0a21-4350-8472-468db3296ea5.c000.snappy.parquet","partitionValues":{"Company_Name":"VENUSREM"},"size":10204,"modificationTime":1649311066673,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311066676,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":516,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10204"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=NAVKARCORP/part-00000-3ba80aae-398d-4e8a-8c4e-3639c987d528.c000.snappy.parquet","partitionValues":{"Company_Name":"NAVKARCORP"},"size":9405,"modificationTime":1649310704511,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310704513,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":255,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9405"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

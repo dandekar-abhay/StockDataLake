@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=REPRO/part-00000-740fb924-ca69-4f63-9200-179573c9e069.c000.snappy.parquet","partitionValues":{"Company_Name":"REPRO"},"size":9986,"modificationTime":1649311959666,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311959669,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":1147,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"9986"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

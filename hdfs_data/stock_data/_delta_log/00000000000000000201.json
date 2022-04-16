@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=KRITI/part-00000-a69cc504-be34-4232-9945-7377ada6b304.c000.snappy.parquet","partitionValues":{"Company_Name":"KRITI"},"size":3833,"modificationTime":1649310636976,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310636979,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":200,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"43","numOutputBytes":"3833"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

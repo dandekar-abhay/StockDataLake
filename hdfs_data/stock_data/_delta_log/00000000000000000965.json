@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=ASIANENE/part-00000-14ca9fcb-9164-4a61-a43a-93502103df48.c000.snappy.parquet","partitionValues":{"Company_Name":"ASIANENE"},"size":2987,"modificationTime":1649311710902,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311710907,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":964,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"17","numOutputBytes":"2987"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

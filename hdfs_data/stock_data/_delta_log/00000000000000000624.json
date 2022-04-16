@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=COFFEEDAY/part-00000-afb9a176-d85d-4c69-8330-a6ef477088bf.c000.snappy.parquet","partitionValues":{"Company_Name":"COFFEEDAY"},"size":8060,"modificationTime":1649311220445,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311220449,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":623,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"173","numOutputBytes":"8060"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

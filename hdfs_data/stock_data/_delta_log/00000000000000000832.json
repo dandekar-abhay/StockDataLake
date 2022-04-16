@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=EQUIPPP/part-00000-7befa15e-ca76-43d4-b78b-def87a70f1b4.c000.snappy.parquet","partitionValues":{"Company_Name":"EQUIPPP"},"size":7406,"modificationTime":1649311526959,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311526966,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":831,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"156","numOutputBytes":"7406"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

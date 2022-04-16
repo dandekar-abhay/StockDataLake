@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BAYERCROP/part-00000-e63422b4-5f56-4329-9ccc-3051acef64eb.c000.snappy.parquet","partitionValues":{"Company_Name":"BAYERCROP"},"size":10484,"modificationTime":1649310513797,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310513800,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":90,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10484"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

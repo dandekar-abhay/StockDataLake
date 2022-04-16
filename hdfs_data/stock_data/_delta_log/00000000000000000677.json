@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=HITECHGEAR/part-00000-76cc6f4b-9fc4-472f-a06a-7990b37ed25d.c000.snappy.parquet","partitionValues":{"Company_Name":"HITECHGEAR"},"size":10595,"modificationTime":1649311300985,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311300993,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":676,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10595"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

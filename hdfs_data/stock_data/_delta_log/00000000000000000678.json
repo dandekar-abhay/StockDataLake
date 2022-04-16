@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=BSOFT/part-00000-681c1775-5b43-4e0c-ad71-96895dc28e18.c000.snappy.parquet","partitionValues":{"Company_Name":"BSOFT"},"size":10234,"modificationTime":1649311302886,"dataChange":true}}
+{"commitInfo":{"timestamp":1649311302894,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":677,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"10234"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}

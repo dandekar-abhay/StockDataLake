@@ -1,0 +1,2 @@
+{"add":{"path":"Company_Name=PILITA/part-00000-2a0c574d-1667-4c7e-8ae1-15c248724d37.c000.snappy.parquet","partitionValues":{"Company_Name":"PILITA"},"size":8530,"modificationTime":1649310863536,"dataChange":true}}
+{"commitInfo":{"timestamp":1649310863545,"operation":"WRITE","operationParameters":{"mode":"Append","partitionBy":"[\"Company_Name\"]"},"readVersion":374,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{"numFiles":"1","numOutputRows":"248","numOutputBytes":"8530"},"engineInfo":"Apache-Spark/3.2.1 Delta-Lake/1.1.0"}}
